@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer](https://jobs.careers.microsoft.com/global/en/job/1848587/)** | Hyderabad, Telangana, India | On Site | Sep 11 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Engineering Productivity](https://www.google.com/about/careers/applications/jobs/results/131325479125689030-senior-software-engineer-engineering-productivity)** | Bengaluru, Karnataka, India | On Site | Sep 11 |
 | **[Google](https://www.google.com/)** | **[Lead Software Engineer, Gen AI Infrastructure, Public Sector](https://www.google.com/about/careers/applications/jobs/results/126896749368222406-lead-software-engineer-gen-ai-infrastructure-public-sector)** | Reston, VA, USA; Washington D.C., DC, USA | On Site | Sep 11 |
