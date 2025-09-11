@@ -1,13 +1,16 @@
-# Daily Software engineer Jobs 2025
+# Software engineer Jobs 2025
 
-Daily updated Software engineer opportunities. Curated by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs) - the AI platform that finds and applies to jobs for you.
+This repository collects curated **Software engineer opportunities in 2025**.  
+Updated daily by [Jobr.pro](https://jobr.pro).
 
----
+Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer](https://jobs.careers.microsoft.com/global/en/job/1848587/)** | Hyderabad, Telangana, India | On Site | Sep 11 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Engineering Productivity](https://www.google.com/about/careers/applications/jobs/results/131325479125689030-senior-software-engineer-engineering-productivity)** | Bengaluru, Karnataka, India | On Site | Sep 11 |
 | **[Google](https://www.google.com/)** | **[Lead Software Engineer, Gen AI Infrastructure, Public Sector](https://www.google.com/about/careers/applications/jobs/results/126896749368222406-lead-software-engineer-gen-ai-infrastructure-public-sector)** | Reston, VA, USA; Washington D.C., DC, USA | On Site | Sep 11 |
@@ -59,15 +62,12 @@ Daily updated Software engineer opportunities. Curated by [Jobr.pro](https://job
 | **[Nexthink](https://www.nexthink.com)** | **[Platform Software Engineer](https://jobs.smartrecruiters.com/Nexthink/744000081234886-platform-software-engineer)** | Bengaluru, KA, India | On Site | Sep 11 |
 | **[Zinnia](https://zinnia.com/)** | **[Software Engineer III (ReactJS, Node.JS)](https://job-boards.greenhouse.io/zinnia/jobs/4421657006)** | Pune, Maharashtra, India | On Site | Sep 11 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Software engineer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Software engineer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Software engineer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -78,6 +78,7 @@ This repository tracks current Software engineer positions from companies across
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -86,8 +87,8 @@ This repository tracks current Software engineer positions from companies across
 
 This repository gets consistent traffic from Software engineer professionals actively job searching. The audience is pre-qualified and specifically interested in Software engineer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)**
