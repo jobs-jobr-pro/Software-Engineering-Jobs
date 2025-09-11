@@ -3,6 +3,10 @@
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
 
+**📊 Current Stats:** 50 jobs | 2% remote | 13 companies | Avg salary: 252k
+
+**🔥 Trending Skills:** react, python, aws, kubernetes, ai
+
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
