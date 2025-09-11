@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
 This repository collects curated **Software engineer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210666150)** | Jersey City, NJ, United States | On Site | Sep 11 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210665154)** | Bengaluru, Karnataka, India | On Site | Sep 11 |
 | **[Hilton](https://www.hilton.com/)** | **[Lead Software Engineer Android](https://hilton.taleo.net/careersection/hil_corp_ext/jobdetail.ftl?job=COR015CQ)** | Hilton - System Solutions - Dallas 15305 N Dallas Parkway Suite 600 Addison 75001 | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)**
+<!-- prettier-ignore-end -->
