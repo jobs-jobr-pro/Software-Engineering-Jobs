@@ -1,9 +1,9 @@
 # Software engineer Jobs 2025
 
 This repository collects curated **Software engineer opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro).
+Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
 
-Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
