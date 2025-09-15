@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -44,8 +44,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Emerson](https://www.emerson.com/)** | **[Software Engineer 4](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25025821)** | DEBRECEN, HAJDÚ BIHAR, Hungary | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Machine Learning, Jigsaw](https://www.google.com/about/careers/applications/jobs/results/102727071628698310-software-engineer-machine-learning-jigsaw)** | New York, NY, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Search Platforms (English)](https://www.google.com/about/careers/applications/jobs/results/97860409825862342-software-engineer-search-platforms-english)** | Belo Horizonte, State of Minas Gerais, Brazil | On Site | Sep 15 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Mobile (iOS), YouTube](https://www.google.com/about/careers/applications/jobs/results/109126600011719366-senior-software-engineer-mobile-ios-youtube)** | San Bruno, CA, USA; Mountain View, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Site Reliability Engineering, Cloud](https://www.google.com/about/careers/applications/jobs/results/93567916431024838-staff-software-engineer-site-reliability-engineering-cloud)** | Sydney NSW, Australia | On Site | Sep 15 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Mobile (iOS), YouTube](https://www.google.com/about/careers/applications/jobs/results/109126600011719366-senior-software-engineer-mobile-ios-youtube)** | San Bruno, CA, USA; Mountain View, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, YouTube](https://www.google.com/about/careers/applications/jobs/results/120103804933677766-senior-software-engineer-aiml-youtube)** | San Bruno, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, iOS, XR Camera](https://www.google.com/about/careers/applications/jobs/results/109826119993041606-software-engineer-iii-ios-xr-camera)** | San Jose, CA, USA | On Site | Sep 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, App Ads](https://www.google.com/about/careers/applications/jobs/results/114892669573833414-software-engineer-iii-app-ads)** | Mountain View, CA, USA | On Site | Sep 15 |
