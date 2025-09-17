@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -25,7 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DTCC](https://www.dtcc.com/)** | **[Software Engineer](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210943)** | Hyderabad, India | On Site | Sep 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II-Big Data/Pyspark](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210653292)** | Plano, TX, United States | On Site | Sep 16 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java/Python, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210662797)** | Jersey City, NJ, United States | On Site | Sep 16 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer \[Multiple Positions Available\]](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210662126)** | New York, NY, United States | On Site | Sep 16 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer \[Multiple Positions Available\]](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210667241)** | Houston, TX, United States | On Site | Sep 16 |
 | **[Tyfone, Inc.](https://tyfone.com/)** | **[Senior Software Engineer](https://tyfone.zohorecruit.com/jobs/Careers/687141000031144028)** | Bangalore, India | On Site | Sep 16 |
 | **[Chubb](https://www.chubb.com/)** | **[Senior Software Engineer](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24910)** | Telangana, India | On Site | Sep 16 |
 | **[Snapscale](https://www.snapscale.com)** | **[QA Software Engineer (India Remote)](https://www.comeet.com/jobs/snapscale/C9.006/qa-software-engineer-india-remote/5A.55B)** | India, India, IN | Remote | Sep 16 |
@@ -50,23 +50,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Machine Modeling and Infrastructure](https://www.google.com/about/careers/applications/jobs/results/73370300145640134-staff-software-engineer-machine-modeling-and-infrastructure)** | Sunnyvale, CA, USA | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Borg, Cloud](https://www.google.com/about/careers/applications/jobs/results/72194922215547590-software-engineer-iii-borg-cloud)** | Warsaw, Poland | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Mobile (iOS), Google Photos](https://www.google.com/about/careers/applications/jobs/results/101257213560922822-senior-software-engineer-mobile-ios-google-photos)** | Bengaluru, Karnataka, India | On Site | Sep 16 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Engineering Productivity, Silicon](https://www.google.com/about/careers/applications/jobs/results/143800616974459590-software-engineer-engineering-productivity-silicon)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Waze Routing](https://www.google.com/about/careers/applications/jobs/results/80165282005295814-senior-software-engineer-waze-routing)** | Tel Aviv, Israel | On Site | Sep 16 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Engineering Productivity, Silicon](https://www.google.com/about/careers/applications/jobs/results/143800616974459590-software-engineer-engineering-productivity-silicon)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, iOS, Google Growth](https://www.google.com/about/careers/applications/jobs/results/115046395043291846-senior-software-engineer-ios-google-growth)** | Tel Aviv, Israel | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Virtualization, Laptops and Tablets, Security](https://www.google.com/about/careers/applications/jobs/results/126806771413983942-software-engineer-iii-virtualization-laptops-and-tablets-security)** | Kraków, Poland | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Health Experiences, Fitbit](https://www.google.com/about/careers/applications/jobs/results/108857244090540742-software-engineer-iii-health-experiences-fitbit)** | London, UK | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android, Laptops and Tablets, Security](https://www.google.com/about/careers/applications/jobs/results/99872584824169158-software-engineer-iii-android-laptops-and-tablets-security)** | Kraków, Poland | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Google Ads Auction Mechanisms](https://www.google.com/about/careers/applications/jobs/results/91000488060691142-software-engineer-google-ads-auction-mechanisms)** | Mountain View, CA, USA | On Site | Sep 16 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Pixel Modem Software](https://www.google.com/about/careers/applications/jobs/results/134414739043164870-software-engineer-ii-pixel-modem-software)** | Mountain View, CA, USA | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Fuchsia, Devices and Experiences](https://www.google.com/about/careers/applications/jobs/results/116554821917385414-software-engineer-fuchsia-devices-and-experiences)** | Mountain View, CA, USA | On Site | Sep 16 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, BigQuery, Core Runtime and Capacitor](https://www.google.com/about/careers/applications/jobs/results/85938796087911110-senior-software-engineer-bigquery-core-runtime-and-capacitor)** | Kirkland, WA, USA | On Site | Sep 16 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, F1 Query-Core](https://www.google.com/about/careers/applications/jobs/results/119821346409456326-software-engineer-iii-f1-querycore)** | Sunnyvale, CA, USA | On Site | Sep 16 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, YouTube Classification](https://www.google.com/about/careers/applications/jobs/results/105149050931552966-software-engineer-ii-youtube-classification)** | Paris, France | On Site | Sep 16 |
+| **[Google](https://www.google.com/)** | **[Software Engineer II, Pixel Modem Software](https://www.google.com/about/careers/applications/jobs/results/134414739043164870-software-engineer-ii-pixel-modem-software)** | Mountain View, CA, USA | On Site | Sep 16 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Computational Photography, XR Camera](https://www.google.com/about/careers/applications/jobs/results/119081512522916550-software-engineer-computational-photography-xr-camera)** | Mountain View, CA, USA | On Site | Sep 16 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Google Kubernetes Engine, Cloud Security](https://www.google.com/about/careers/applications/jobs/results/83757365018403526-software-engineer-google-kubernetes-engine-cloud-security)** | Seattle, WA, USA | On Site | Sep 16 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Front End](https://www.google.com/about/careers/applications/jobs/results/96102544136118982-senior-software-engineer-front-end)** | Mountain View, CA, USA | On Site | Sep 16 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, BigQuery, Core Runtime and Capacitor](https://www.google.com/about/careers/applications/jobs/results/85938796087911110-senior-software-engineer-bigquery-core-runtime-and-capacitor)** | Kirkland, WA, USA | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 24 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 8% remote | 24 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
