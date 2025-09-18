@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Principal Software Engineer - GenAI](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Principal-Software-Engineer---GenAI_REQ239933-2)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Sep 18 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff Software Engineer - Gen AI](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Staff-Software-Engineer---Gen-AI_REQ236706-2)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Sep 18 |
 | **[ADP](https://www.adp.com/)** | **[Software Engineer with French](https://myjobs.adp.com/apply/cx/job-details?reqId=5001149477606)** | Bucharest, rom-ro, Romania | On Site | Sep 17 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer](https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001136041606)** | Oak Brook, IL, United States | Remote | Sep 17 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Platform Software Engineer](https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001150885606)** | Oak Brook, IL, United States | On Site | Sep 17 |
-| **[Data Axle Inc.](https://www.data-axle.com/)** | **[Software Engineer](https://myjobs.adp.com/dataaxleindia/cx/job-details?reqId=5001049362900)** | Pune, India | On Site | Sep 17 |
 | **[Data Axle Inc.](https://www.data-axle.com/)** | **[Sr Software Engineer](https://myjobs.adp.com/dataaxleindia/cx/job-details?reqId=5001058517100)** | Pune, India | On Site | Sep 17 |
+| **[Data Axle Inc.](https://www.data-axle.com/)** | **[Software Engineer](https://myjobs.adp.com/dataaxleindia/cx/job-details?reqId=5001049362900)** | Pune, India | On Site | Sep 17 |
 | **[Data Axle Inc.](https://www.data-axle.com/)** | **[Software Engineer - Fullstack](https://myjobs.adp.com/dataaxleindia/cx/job-details?reqId=5001078803900)** | Pune, India | On Site | Sep 17 |
 | **[Data Axle Inc.](https://www.data-axle.com/)** | **[Senior Software Engineer](https://myjobs.adp.com/dataaxleindia/cx/job-details?reqId=5001133788000)** | Pune, India | On Site | Sep 17 |
 | **[Factorial](https://factorialhr.com/)** | **[Staff Software Engineer - Developer Experience](https://careers.factorialhr.com/job_posting/staff-software-engineer-developer-experience-261530)** | Hybrid (08005, Barcelona, Barcelona, Spain) | On Site | Sep 17 |
@@ -47,8 +49,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Mobile Software Engineer, Android Performance](https://lifeattiktok.com/search/7379077328377497883)** | San Jose, California, United States | On Site | Sep 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer - TikTok, Social Graph](https://lifeattiktok.com/search/7483585026429372679)** | Los Angeles, California, United States | On Site | Sep 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[iOS Software Engineer - TikTok Camera Effect](https://lifeattiktok.com/search/7392728266790144307)** | San Jose, California, United States | On Site | Sep 17 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior iOS Software Engineer - TikTok Camera Effect](https://lifeattiktok.com/search/7369748910296467721)** | San Jose, California, United States | On Site | Sep 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[Android Software Engineer - TikTok Camera Effect](https://lifeattiktok.com/search/7397227053333383474)** | San Jose, California, United States | On Site | Sep 17 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior iOS Software Engineer - TikTok Camera Effect](https://lifeattiktok.com/search/7369748910296467721)** | San Jose, California, United States | On Site | Sep 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210668261)** | Ciudad Autónoma de Buenos Aires, Argentina | On Site | Sep 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java, Cloud, AI ML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210661285)** | Mumbai, Maharashtra, India | On Site | Sep 17 |
 | **[Kaisa](https://www.kaisa.io/)** | **[Senior Software Engineer](https://careers.kaisa.io/jobs/6464185-senior-software-engineer)** | Uppsala, Sweden | On Site | Sep 17 |
@@ -59,14 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AICore](https://www.google.com/about/careers/applications/jobs/results/99432483820315334-senior-software-engineer-aicore)** | Kraków, Poland | On Site | Sep 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Fuchsia Performance](https://www.google.com/about/careers/applications/jobs/results/116528790120604358-software-engineer-fuchsia-performance)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Fleet Infra Software](https://www.google.com/about/careers/applications/jobs/results/133667346014184134-software-engineer-ii-fleet-infra-software)** | Kraków, Poland | On Site | Sep 17 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Find My Device](https://www.google.com/about/careers/applications/jobs/results/126921842177778374-staff-software-engineer-find-my-device)** | Bengaluru, Karnataka, India | On Site | Sep 17 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Mobile (iOS), YouTube Create](https://www.google.com/about/careers/applications/jobs/results/106504542610170566-staff-software-engineer-mobile-ios-youtube-create)** | Bengaluru, Karnataka, India | On Site | Sep 17 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AICore](https://www.google.com/about/careers/applications/jobs/results/84791249545896646-staff-software-engineer-aicore)** | Kraków, Poland | On Site | Sep 17 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Ads Safety](https://www.google.com/about/careers/applications/jobs/results/119870068518462150-staff-software-engineer-ads-safety)** | Pittsburgh, PA, USA | On Site | Sep 17 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Find My Device](https://www.google.com/about/careers/applications/jobs/results/126921842177778374-staff-software-engineer-find-my-device)** | Bengaluru, Karnataka, India | On Site | Sep 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 201k  
+**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 188k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
