@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Marigold](https://meetmarigold.com/)** | **[Senior Software Engineer](https://campaignmonitor.wd5.myworkdayjobs.com/en-US/marigold/job/Remote-Australia/Senior-Software-Engineer_R2239)** | Remote, Australia | Remote | Sep 19 |
+| **[Workday](https://www.workday.com/)** | **[Sr. Software Engineer - Performance and Capacity Engineering](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDChennai/Sr-Software-Engineer---Performance-and-Capacity-Engineering_JR-0100567-1)** | IND.Chennai, India | On Site | Sep 19 |
+| **[ADP](https://www.adp.com/)** | **[Software Engineer with French - Fixed Term Contract](https://myjobs.adp.com/apply/cx/job-details?reqId=5001146207406)** | Bucharest, rom-ro, Romania | On Site | Sep 18 |
+| **[Impel](https://impel.ai/)** | **[Software Engineer Intern](https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706)** | Syracuse, NY, United States | On Site | Sep 18 |
 | **[Granite Telecommunications](https://www.granitenet.com/)** | **[Software Engineer](https://myjobs.adp.com/granitecareers/cx/job-details?reqId=5001151236900)** | Quincy, MA, United States | On Site | Sep 18 |
 | **[Granite Telecommunications](https://www.granitenet.com/)** | **[Software Engineer IV](https://myjobs.adp.com/granitecareers/cx/job-details?reqId=5001151236006)** | Quincy, MA, United States | On Site | Sep 18 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Staff Software Engineer - Global Commercial Services](https://axp.taleo.net/careersection/rp/jobdetail.ftl?job=25016609)** | US-Arizona-Phoenix | On Site | Sep 18 |
@@ -34,10 +38,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[H&M Group](https://hmgroup.com/)** | **[Software Engineer- Backend (Node.js, Azure) - Portfolio Brands](https://jobs.smartrecruiters.com/HMGroup/744000082663055-software-engineer-backend-node-js-azure-portfolio-brands)** | Bangalore, Karnataka, India | On Site | Sep 18 |
 | **[Credit Saison India](https://creditsaison.in/)** | **[Software Engineer -1](https://creditsaisonin-talent.freshteam.com/jobs/ABAp5ndKjY2k/software-engineer-1)** | Bengaluru, India | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Software Engineer - Global E-Commerce (Business Platform)](https://lifeattiktok.com/search/7483828060786542866)** | Singapore, Singapore | On Site | Sep 18 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Backend Software Engineer, TikTok Global Architecture](https://lifeattiktok.com/search/7551144402438441234)** | San Jose, California, United States | On Site | Sep 18 |
-| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer, Infrastructure Platform - San Jose](https://lifeattiktok.com/search/7550944499007310087)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer, TikTok Global Architecture](https://lifeattiktok.com/search/7551145519620458759)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate Global Architecture - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7551141192739195143)** | San Jose, California, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer, Infrastructure Platform - San Jose](https://lifeattiktok.com/search/7550944499007310087)** | San Jose, California, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Backend Software Engineer, TikTok Global Architecture](https://lifeattiktok.com/search/7551144402438441234)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer - Machine Learning Infrastructure - USDS](https://lifeattiktok.com/search/7410838619836385573)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer - Model Training Infrastructure - USDS](https://lifeattiktok.com/search/7390861042702846259)** | San Jose, California, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer, Supply Chain and Logistics - USDS](https://lifeattiktok.com/search/7335549463710239003)** | San Jose, California, United States | On Site | Sep 18 |
@@ -52,21 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meta](https://www.meta.com/)** | **[Software Engineer](https://www.metacareers.com/jobs/1828150394788733/)** | New York, NY | On Site | Sep 18 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer Intern, Systems & Infrastructure (PhD)](https://www.metacareers.com/jobs/2264036150724937/)** | Bellevue, WA \| Menlo Park, CA \| New York, NY | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Framework Foundations](https://www.google.com/about/careers/applications/jobs/results/98174127122064070-software-engineer-iii-framework-foundations)** | Bengaluru, Karnataka, India | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Network Reliability, GGN WANForms](https://www.google.com/about/careers/applications/jobs/results/107007740978569926-software-engineer-network-reliability-ggn-wanforms)** | Dublin, Ireland | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Home Policy Platform](https://www.google.com/about/careers/applications/jobs/results/76019105261331142-senior-software-engineer-home-policy-platform)** | Los Angeles, CA, USA | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Payments](https://www.google.com/about/careers/applications/jobs/results/113413547261600454-software-engineer-iii-aiml-payments)** | Hyderabad, Telangana, India | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Earth Engine, Cloud](https://www.google.com/about/careers/applications/jobs/results/110178595074122438-software-engineer-iii-earth-engine-cloud)** | Warsaw, Poland | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure](https://www.google.com/about/careers/applications/jobs/results/138386703323669190-software-engineer-iii-infrastructure)** | Hyderabad, Telangana, India | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Security and Privacy](https://www.google.com/about/careers/applications/jobs/results/92164196564640454-software-engineer-iii-google-cloud-security-and-privacy)** | New York, NY, USA | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Ads Conversion Infrastructure](https://www.google.com/about/careers/applications/jobs/results/82449049260565190-staff-software-engineer-ads-conversion-infrastructure)** | Mountain View, CA, USA | On Site | Sep 18 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Payments](https://www.google.com/about/careers/applications/jobs/results/113413547261600454-software-engineer-iii-aiml-payments)** | Hyderabad, Telangana, India | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Personalization and Guidance, Waze](https://www.google.com/about/careers/applications/jobs/results/141616913867252422-software-engineer-iii-personalization-and-guidance-waze)** | Tel Aviv, Israel | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, YouTube](https://www.google.com/about/careers/applications/jobs/results/84278636609184454-software-engineer-iii-front-end-youtube)** | San Bruno, CA, USA | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, GCE AI SRE, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/108166488795292358-senior-software-engineer-gce-ai-sre-google-cloud)** | London, UK | On Site | Sep 18 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/108157950400307910-software-engineer-iii-google-workspace)** | Sunnyvale, CA, USA | On Site | Sep 18 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Android Laptops and Tablets, Early Career](https://www.google.com/about/careers/applications/jobs/results/133410159077532358-software-engineer-android-laptops-and-tablets-early-career)** | Sydney NSW, Australia | On Site | Sep 18 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Home Policy Platform](https://www.google.com/about/careers/applications/jobs/results/76019105261331142-senior-software-engineer-home-policy-platform)** | Los Angeles, CA, USA | On Site | Sep 18 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Security and Privacy](https://www.google.com/about/careers/applications/jobs/results/92164196564640454-software-engineer-iii-google-cloud-security-and-privacy)** | New York, NY, USA | On Site | Sep 18 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure](https://www.google.com/about/careers/applications/jobs/results/138386703323669190-software-engineer-iii-infrastructure)** | Hyderabad, Telangana, India | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 17 companies | Avg salary: 229k  
+**Current Stats:** 50 jobs | 4% remote | 21 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
