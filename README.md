@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[RIVO Holdings, LLC](https://www.rivoholdings.com/)** | **[Senior Software Engineer](https://jobs.smartrecruiters.com/RIVOHoldingsLLC/744000083107864-senior-software-engineer)** | San Diego, CA, United States | On Site | Sep 21 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior .NET Software Engineer (C#, JavaScript)](https://jobs.smartrecruiters.com/KMSTechnology1/744000083102545-senior-net-software-engineer-c-javascript-)** | Ho Chi Minh, Vietnam | On Site | Sep 21 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Software Engineer](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---NOIDA-CANDOR-TECHSPACE-SECTOR-62/Lead-Software-Engineer_318413-1)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 21 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Staff Software Engineer, AI/ML](https://jobs.smartrecruiters.com/NBCUniversal3/744000083067715-staff-software-engineer-ai-ml)** | Orlando, FL, United States | Remote | Sep 20 |
@@ -35,18 +36,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Core](https://www.google.com/about/careers/applications/jobs/results/128372548986380998-software-engineer-iii-core)** | San Francisco, CA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer](https://www.google.com/about/careers/applications/jobs/results/117784337910244038-software-engineer)** | Seoul, South Korea | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, University Graduate, 2026](https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026)** | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Gen AI Applications, Google Ads Optimization](https://www.google.com/about/careers/applications/jobs/results/106980313317417670-software-engineer-gen-ai-applications-google-ads-optimization)** | Mountain View, CA, USA; Cambridge, MA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Pixel Watch System Software](https://www.google.com/about/careers/applications/jobs/results/76802979742524102-software-engineer-iii-pixel-watch-system-software)** | Bengaluru, Karnataka, India | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Android, iOS, Maps Directions](https://www.google.com/about/careers/applications/jobs/results/117458332712608454-senior-software-engineer-android-ios-maps-directions)** | Sydney NSW, Australia | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Messages, Android](https://www.google.com/about/careers/applications/jobs/results/73752934487073478-software-engineer-iii-google-messages-android)** | Kraków, Poland | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Gen AI Applications, Google Ads Optimization](https://www.google.com/about/careers/applications/jobs/results/106980313317417670-software-engineer-gen-ai-applications-google-ads-optimization)** | Mountain View, CA, USA; Cambridge, MA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Compilers, Runtimes and Toolchains](https://www.google.com/about/careers/applications/jobs/results/143744546176410310-software-engineer-compilers-runtimes-and-toolchains)** | Mexico City, CDMX, Mexico | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Machine Learning, Cloud AI](https://www.google.com/about/careers/applications/jobs/results/72965065686295238-senior-staff-software-engineer-machine-learning-cloud-ai)** | Sunnyvale, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Filestore Control Plane, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/89269998492492486-software-engineer-ii-filestore-control-plane-google-cloud)** | Tel Aviv, Israel | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff ML Software Engineer, YouTube Ads Creative Optimization](https://www.google.com/about/careers/applications/jobs/results/117063453419414214-staff-ml-software-engineer-youtube-ads-creative-optimization)** | Mountain View, CA, USA | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Messages, Android](https://www.google.com/about/careers/applications/jobs/results/73752934487073478-software-engineer-iii-google-messages-android)** | Kraków, Poland | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Cloud ML Compute Services](https://www.google.com/about/careers/applications/jobs/results/103193938868740806-staff-software-engineer-cloud-ml-compute-services)** | Taipei, Taiwan | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Machine Learning, Cloud AI](https://www.google.com/about/careers/applications/jobs/results/72965065686295238-senior-staff-software-engineer-machine-learning-cloud-ai)** | Sunnyvale, CA, USA | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Staff ML Software Engineer, YouTube Ads Creative Optimization](https://www.google.com/about/careers/applications/jobs/results/117063453419414214-staff-ml-software-engineer-youtube-ads-creative-optimization)** | Mountain View, CA, USA | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Software Engineer II, Filestore Control Plane, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/89269998492492486-software-engineer-ii-filestore-control-plane-google-cloud)** | Tel Aviv, Israel | On Site | Sep 20 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack,Google Chrome](https://www.google.com/about/careers/applications/jobs/results/114837767006888646-software-engineer-iii-full-stackgoogle-chrome)** | Mountain View, CA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, User Generated Content, ContribService](https://www.google.com/about/careers/applications/jobs/results/88235083172848326-staff-software-engineer-user-generated-content-contribservice)** | Bengaluru, Karnataka, India | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Ads](https://www.google.com/about/careers/applications/jobs/results/106273000923243206-software-engineer-iii-infrastructure-google-ads)** | Irvine, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack,Google Chrome](https://www.google.com/about/careers/applications/jobs/results/114837767006888646-software-engineer-iii-full-stackgoogle-chrome)** | Mountain View, CA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/125202193107034822-software-engineer-iii-google-workspace)** | Sunnyvale, CA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Security/Privacy, Google Cloud Compute Infrastructure](https://www.google.com/about/careers/applications/jobs/results/106267829782618822-software-engineer-iii-securityprivacy-google-cloud-compute-infrastructure)** | Kirkland, WA, USA | On Site | Sep 20 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML Computer Vision, Google Research](https://www.google.com/about/careers/applications/jobs/results/104272216178205382-staff-software-engineer-aiml-computer-vision-google-research)** | New York, NY, USA | On Site | Sep 20 |
@@ -58,15 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Providence](https://www.providence.org/)** | **[Software Engineer II, Infrastructure Engineering *Virtual*](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/388166)** | Beaverton, OR, United States | On Site | Sep 20 |
 | **[Microsoft](https://www.microsoft.com/)** | **[​​Principal Software Engineer​](https://jobs.careers.microsoft.com/global/en/job/1879884/)** | Redmond, Washington, United States | On Site | Sep 20 |
 | **[Arista Networks](https://www.arista.com)** | **[Lead Software Engineer](https://jobs.smartrecruiters.com/AristaNetworks/744000083024985-lead-software-engineer)** | Nashua, NH, United States | On Site | Sep 20 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Associate II Software Engineer](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurgaon-Haryana/Associate-II-Software-Engineer_316540-1)** | OSTTRA - IN - GURGAON DLF CYBER CITY, India | On Site | Sep 20 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Software Engineer - Python](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0131040-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 20 |
 | **[Light & Wonder](https://www.lnw.com/)** | **[Associate Software Engineer](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Bangalore-India/Associate-Software-Engineer_R320749)** | INDIA-Bangalore-ITPB, India | On Site | Sep 20 |
-| **[Walmart](https://careers.walmart.com/)** | **[Software Engineer III – Node.js, React](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III---Nodejs--React_R-2243072-1)** | (USA) SUNNYVALE V - 640 W CALIFORNIA CA SUNNYVALE Home Office, United States | On Site | Sep 20 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior Robotics Software Engineer, Manipulation](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Software-Engineer--Manipulation_JR2004311)** | US, CA, Santa Clara, United States | On Site | Sep 20 |
+| **[Walmart](https://careers.walmart.com/)** | **[Software Engineer III – Node.js, React](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III---Nodejs--React_R-2243072-1)** | (USA) SUNNYVALE V - 640 W CALIFORNIA CA SUNNYVALE Home Office, United States | On Site | Sep 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 21 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 10% remote | 22 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
