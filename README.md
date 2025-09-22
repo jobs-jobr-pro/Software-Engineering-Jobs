@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,60 +13,60 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com/)** | **[Full-Stack Software Engineer (m/f/d)](https://jobs.deloitte.de/job/mehrere-Standorte-Full-Stack-Software-Engineer-%28mfd%29/1249571401/)** | mehrere Standorte, DE | On Site | Sep 22 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer (Full Stack)](https://jobs.smartrecruiters.com/ServiceNow/744000083163700-staff-software-engineer-full-stack-)** | Hyderabad, India | On Site | Sep 22 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000083156295-staff-software-engineer)** | Hyderabad, India | On Site | Sep 22 |
+| **[ixigo](https://www.ixigo.com)** | **[Senior Software Engineer- ios](https://jobs.smartrecruiters.com/ixigo/744000083153535--senior-software-engineer-ios)** | Gurugram, India | On Site | Sep 22 |
+| **[IFS](https://www.ifs.com/)** | **[Undergraduate Trainee - Software Engineer - Quality Assurance: R&D Aerospace & Defense](https://jobs.smartrecruiters.com/IFS1/744000083152981-undergraduate-trainee-software-engineer-quality-assurance-r-d-aerospace-defense)** | Colombo, WP, Sri Lanka | On Site | Sep 22 |
+| **[Cloudflare, Inc.](https://www.cloudflare.com/)** | **[Software Engineer Intern (Winter/Spring 2026)](https://boards.greenhouse.io/cloudflare/jobs/7259003?gh_jid=7259003)** | In-Office | On Site | Sep 22 |
+| **[Heidi Health](https://www.heidihealth.com/)** | **[Senior Software Engineer (Android)](https://jobs.ashbyhq.com/heidihealth.com.au/691cd5e1-3f3c-4819-b4a7-4d9ebe83cdf5)** | Australia - Sydney/Melbourne/remote | Remote | Sep 22 |
+| **[Yalo Inc.](https://www.yalo.ai/)** | **[Delivery Software Engineer](https://job-boards.greenhouse.io/yalochatinc/jobs/6759617003)** | Mexico or Guatemala | On Site | Sep 22 |
+| **[WIN Home Inspection](https://wini.com/)** | **[Software Engineer - NodeJS](https://job-boards.greenhouse.io/winhomeinspection/jobs/4603307006)** | Greater Delhi Area | Remote | Sep 22 |
+| **[CoinGecko](https://www.coingecko.com/)** | **[Senior Software Engineer](https://jobs.lever.co/Clearer/866042ea-38d2-4bf2-86a4-c2756bc3e2b5)** | Ho Chi Minh, Vietnam | Remote | Sep 22 |
+| **[insightsoftware](https://insightsoftware.com/)** | **[Software Engineer 2 (React.js Developer)](https://jobs.smartrecruiters.com/Insightsoftware/744000083144376-software-engineer-2-react-js-developer-)** | Bengaluru, India | On Site | Sep 22 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000083143668-senior-software-engineer)** | San Diego, CALIFORNIA, United States | On Site | Sep 22 |
+| **[IFS](https://www.ifs.com/)** | **[Lead Software Engineer – ServiceNow CMDB](https://jobs.smartrecruiters.com/IFS1/744000083142405-lead-software-engineer-servicenow-cmdb)** | Colombo, WP, Sri Lanka | On Site | Sep 22 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Sr Principal Software Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000083141802-sr-principal-software-engineer)** | Kodaira, Japan | On Site | Sep 22 |
+| **[Cuscal](https://www.cuscal.com/)** | **[Senior Software Engineer](https://jobs.smartrecruiters.com/Cuscal1/744000083141685-senior-software-engineer)** | Sydney, NSW, Australia | On Site | Sep 22 |
+| **[Agoda](https://www.agoda.com/)** | **[Senior Software Engineer - Full Stack, Payment (Bangkok based, Relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/7135270)** | Bangkok, Thailand | On Site | Sep 22 |
+| **[Alpaca](https://alpaca.markets/)** | **[Senior Software Engineer - New Markets](https://job-boards.greenhouse.io/alpaca/jobs/5655807004)** | Remote - Canada | Remote | Sep 22 |
+| **[Bentley Systems](https://www.bentley.com/)** | **[Software Engineer II](https://jobs.bentley.com/job/Remote-Software-Engineer-II-NB/1328026500/)** | Remote, CA | Remote | Sep 22 |
+| **[Danfoss](https://www.danfoss.com)** | **[Software Engineer](https://jobs.danfoss.com/job/Oragadam-Software-Engineer/1327440357/)** | Oragadam, IN | On Site | Sep 22 |
+| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Software Engineer C# .NET](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Pune-India/Software-Engineer-C--NET_R25-6412)** | India Pune (Balewadi) | On Site | Sep 22 |
+| **[Yash Technologies](https://www.yash.com)** | **[Sr. Software Engineer - MS SQL Job](https://careers.yash.com/job/Pune-Sr_-Software-Engineer-MS-SQL-Job/1327689566/)** | Pune, IN | On Site | Sep 22 |
+| **[Nomura](https://www.nomura.com/)** | **[Lead Software Engineer](https://careers.nomura.com/Nomura/job/Mumbai-Lead-Software-Engineer/1328020700/)** | Mumbai, IN | On Site | Sep 22 |
+| **[Yash Technologies](https://www.yash.com)** | **[Sr. Software Engineer - Java Job](https://careers.yash.com/job/Bangalore-Sr_-Software-Engineer-Java-Job-KA/1327702866/)** | Bangalore, KA, IN | On Site | Sep 22 |
+| **[CommScope](https://www.commscope.com)** | **[Staff Software Engineer (Embedded)](https://jobs.commscope.com/job/Taipei-Staff-Software-Engineer-%28Embedded%29-Taip/1328014700/)** | Taipei, Taipei, Taiwan | On Site | Sep 22 |
+| **[TRM Labs](https://www.trmlabs.com/)** | **[Staff Software Engineer, Blockchain Protocols](https://job-boards.greenhouse.io/trmlabs/jobs/5656134004)** | Remote | Remote | Sep 21 |
+| **[Cribl](https://cribl.io/)** | **[Senior Software Engineer, Search Performance (Backend)](https://job-boards.greenhouse.io/cribl/jobs/5650874004)** | Remote - United States | Remote | Sep 21 |
+| **[Applied Intuition](https://www.appliedintuition.com/)** | **[Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005)** | Mountain View, California, United States | Remote | Sep 21 |
+| **[Appian](https://www.appian.com/)** | **[Software Engineer II](https://job-boards.greenhouse.io/appian/jobs/6547494)** | Chennai, India | On Site | Sep 21 |
+| **[PandaDoc](https://www.pandadoc.com/)** | **[Senior Software Engineer (Growth)](https://job-boards.greenhouse.io/pandadoc/jobs/7096195)** | Remote (Europe) | Remote | Sep 21 |
 | **[RIVO Holdings, LLC](https://www.rivoholdings.com/)** | **[Senior Software Engineer](https://jobs.smartrecruiters.com/RIVOHoldingsLLC/744000083107864-senior-software-engineer)** | San Diego, CA, United States | On Site | Sep 21 |
+| **[Samsara](https://www.samsara.com/)** | **[Senior Software Engineer, Connected Workflows](https://www.samsara.com/company/careers/roles/7266361?gh_jid=7266361)** | San Francisco - SF9 | Remote | Sep 21 |
+| **[Eurofins](https://www.eurofins.com)** | **[Senior Software Engineer](https://jobs.smartrecruiters.com/Eurofins/744000083106846-senior-software-engineer)** | Bengaluru, KA, India | On Site | Sep 21 |
+| **[Theodo](https://www.theodo.co.uk/)** | **[Mobile Software Engineer - Theodo Apps - Stage de fin d'études](https://jobs.lever.co/theodo/27ce39de-c1cb-47f0-85da-f0ce96619a35)** | Paris | On Site | Sep 21 |
+| **[Cyberark](https://www.cyberark.com)** | **[Staff Software Engineer](https://jobs.smartrecruiters.com/Cyberark1/744000083106365-staff-software-engineer)** | Sofia, Sofia-Capital, Bulgaria | On Site | Sep 21 |
+| **[Shift4](https://www.shift4.com/)** | **[Software Engineer, Senior (Setup Platform)](https://job-boards.greenhouse.io/shift4/jobs/4914401007)** | Herzliya, Tel Aviv District, Israel | On Site | Sep 21 |
+| **[Lucid Motors](https://lucidmotors.com/)** | **[Manufacturing Diagnostics Software Engineer](https://job-boards.greenhouse.io/lucidmotors/jobs/4838725007)** | King Abdullah Economic City | On Site | Sep 21 |
+| **[Redis](https://redis.io/)** | **[Full Stack Software Engineer](https://job-boards.greenhouse.io/redis/jobs/5602915004)** | Israel | On Site | Sep 21 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior .NET Software Engineer (C#, JavaScript)](https://jobs.smartrecruiters.com/KMSTechnology1/744000083102545-senior-net-software-engineer-c-javascript-)** | Ho Chi Minh, Vietnam | On Site | Sep 21 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Software Engineer](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/IN---NOIDA-CANDOR-TECHSPACE-SECTOR-62/Lead-Software-Engineer_318413-1)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 21 |
-| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Staff Software Engineer, AI/ML](https://jobs.smartrecruiters.com/NBCUniversal3/744000083067715-staff-software-engineer-ai-ml)** | Orlando, FL, United States | Remote | Sep 20 |
-| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr. Software Engineer-Frontend](https://jobs.smartrecruiters.com/NBCUniversal3/744000083067595-sr-software-engineer-frontend)** | Orlando, FL, United States | Remote | Sep 20 |
-| **[Inspira Financial](https://inspirafinancial.com/)** | **[Software Engineer II (Remote)](https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001150184206)** | Oak Brook, IL, United States | Remote | Sep 20 |
-| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Bloomberg Finance & CFO](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Bloomberg-Finance-CFO/14712)** | New York | On Site | Sep 20 |
-| **[HARMAN International](https://www.harman.com/)** | **[Software Engineer-.Net Developer](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Net-Developer/28749)** | IN Coimbatore Echo Point Plaza HCS, Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Sep 20 |
-| **[NirYu](https://www.nir-yu.com/)** | **[Software Engineer - Elixir/Ruby (3-5 years)](https://niryu.teamtailor.com/jobs/6482023-software-engineer-elixir-ruby-3-5-years)** | Remote, Mexico | Remote | Sep 20 |
-| **[Innoventes](https://www.innoventestech.com/)** | **[SD 2 - Software Engineer - Angular Application Development](https://innoventestech.freshteam.com/jobs/rbZePeizwPOE/sd-2-software-engineer-angular-application-development)** | KARNATAKA, Bengaluru, India | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Software Engineer (Leadership) - Infrastructure \| Ingénieur logiciel (leadership) – Infrastructure](https://www.metacareers.com/jobs/1357076289119971/)** | Remote, Canada | Remote | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Software Engineer, Systems](https://www.metacareers.com/jobs/1520595819299485/)** | Menlo Park, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Software Engineer](https://www.metacareers.com/jobs/1080103114238896/)** | Menlo Park, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Software Engineer, Product](https://www.metacareers.com/jobs/1504621210739854/)** | Menlo Park, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer, Firmware](https://www.metacareers.com/jobs/1951039452359477/)** | Sunnyvale, CA \| Redmond, WA \| Austin, TX \| San Diego, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer, Modeling and Virtual Platforms](https://www.metacareers.com/jobs/1431499961482210/)** | Sunnyvale, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer, Connectivity/Wireless](https://www.metacareers.com/jobs/2204488406728710/)** | Sunnyvale, CA \| Seattle, WA \| Burlingame, CA \| San Diego, CA \| Boston, MA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Software Engineer, iOS](https://www.metacareers.com/jobs/24489120347436196/)** | Menlo Park, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer, BSP/Kernel](https://www.metacareers.com/jobs/1883146152583731/)** | Sunnyvale, CA \| Menlo Park, CA | On Site | Sep 20 |
-| **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer](https://www.metacareers.com/jobs/1130423548424029/)** | Sunnyvale, CA \| Redmond, WA \| Austin, TX \| Burlingame, CA \| San Diego, CA \| New York, NY | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Core](https://www.google.com/about/careers/applications/jobs/results/128372548986380998-software-engineer-iii-core)** | San Francisco, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer](https://www.google.com/about/careers/applications/jobs/results/117784337910244038-software-engineer)** | Seoul, South Korea | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, University Graduate, 2026](https://www.google.com/about/careers/applications/jobs/results/125611950166942406-software-engineer-university-graduate-2026)** | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Gen AI Applications, Google Ads Optimization](https://www.google.com/about/careers/applications/jobs/results/106980313317417670-software-engineer-gen-ai-applications-google-ads-optimization)** | Mountain View, CA, USA; Cambridge, MA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Pixel Watch System Software](https://www.google.com/about/careers/applications/jobs/results/76802979742524102-software-engineer-iii-pixel-watch-system-software)** | Bengaluru, Karnataka, India | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Android, iOS, Maps Directions](https://www.google.com/about/careers/applications/jobs/results/117458332712608454-senior-software-engineer-android-ios-maps-directions)** | Sydney NSW, Australia | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Compilers, Runtimes and Toolchains](https://www.google.com/about/careers/applications/jobs/results/143744546176410310-software-engineer-compilers-runtimes-and-toolchains)** | Mexico City, CDMX, Mexico | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Messages, Android](https://www.google.com/about/careers/applications/jobs/results/73752934487073478-software-engineer-iii-google-messages-android)** | Kraków, Poland | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Cloud ML Compute Services](https://www.google.com/about/careers/applications/jobs/results/103193938868740806-staff-software-engineer-cloud-ml-compute-services)** | Taipei, Taiwan | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Machine Learning, Cloud AI](https://www.google.com/about/careers/applications/jobs/results/72965065686295238-senior-staff-software-engineer-machine-learning-cloud-ai)** | Sunnyvale, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff ML Software Engineer, YouTube Ads Creative Optimization](https://www.google.com/about/careers/applications/jobs/results/117063453419414214-staff-ml-software-engineer-youtube-ads-creative-optimization)** | Mountain View, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Filestore Control Plane, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/89269998492492486-software-engineer-ii-filestore-control-plane-google-cloud)** | Tel Aviv, Israel | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack,Google Chrome](https://www.google.com/about/careers/applications/jobs/results/114837767006888646-software-engineer-iii-full-stackgoogle-chrome)** | Mountain View, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, User Generated Content, ContribService](https://www.google.com/about/careers/applications/jobs/results/88235083172848326-staff-software-engineer-user-generated-content-contribservice)** | Bengaluru, Karnataka, India | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Ads](https://www.google.com/about/careers/applications/jobs/results/106273000923243206-software-engineer-iii-infrastructure-google-ads)** | Irvine, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/125202193107034822-software-engineer-iii-google-workspace)** | Sunnyvale, CA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Security/Privacy, Google Cloud Compute Infrastructure](https://www.google.com/about/careers/applications/jobs/results/106267829782618822-software-engineer-iii-securityprivacy-google-cloud-compute-infrastructure)** | Kirkland, WA, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML Computer Vision, Google Research](https://www.google.com/about/careers/applications/jobs/results/104272216178205382-staff-software-engineer-aiml-computer-vision-google-research)** | New York, NY, USA | On Site | Sep 20 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML, Geo Perception Team](https://www.google.com/about/careers/applications/jobs/results/136324079639503558-staff-software-engineer-aiml-geo-perception-team)** | Mountain View, CA, USA | On Site | Sep 20 |
-| **[Supermicro](https://www.supermicro.com)** | **[Sr. Software Engineer - Switch Design](https://jobs.supermicro.com/job/San-Jose-Sr_-Software-Engineer-Switch-Design-Cali/1280106900/)** | San Jose, California, United States | On Site | Sep 20 |
-| **[Affinity Global Inc.](https://www.affinity.com/)** | **[Senior Software Engineer, Database (SP)](https://affinity-talent.freshteam.com/jobs/ydVFMCcbMmE4/senior-software-engineer-database-sp)** | Mumbai, India | On Site | Sep 20 |
-| **[Riot Games, Inc.](https://www.riotgames.com/)** | **[Staff Software Engineer - Infrastructure](https://www.riotgames.com/en/work-with-us/job/7256285?gh_jid=7256285)** | Los Angeles, USA | On Site | Sep 20 |
-| **[Capgemini](https://www.capgemini.com)** | **[Software Engineer C++](https://careers.capgemini.com/job/Utrecht-Software-Engineer-C%2B%2B/1194826001/)** | Utrecht, NL | On Site | Sep 20 |
-| **[Providence](https://www.providence.org/)** | **[Software Engineer II, Infrastructure Engineering *Virtual*](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/388166)** | Beaverton, OR, United States | On Site | Sep 20 |
-| **[Microsoft](https://www.microsoft.com/)** | **[​​Principal Software Engineer​](https://jobs.careers.microsoft.com/global/en/job/1879884/)** | Redmond, Washington, United States | On Site | Sep 20 |
-| **[Arista Networks](https://www.arista.com)** | **[Lead Software Engineer](https://jobs.smartrecruiters.com/AristaNetworks/744000083024985-lead-software-engineer)** | Nashua, NH, United States | On Site | Sep 20 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Software Engineer - Python](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0131040-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 20 |
-| **[Light & Wonder](https://www.lnw.com/)** | **[Associate Software Engineer](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Bangalore-India/Associate-Software-Engineer_R320749)** | INDIA-Bangalore-ITPB, India | On Site | Sep 20 |
-| **[NVIDIA](https://www.nvidia.com/)** | **[Senior Robotics Software Engineer, Manipulation](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Software-Engineer--Manipulation_JR2004311)** | US, CA, Santa Clara, United States | On Site | Sep 20 |
-| **[Walmart](https://careers.walmart.com/)** | **[Software Engineer III – Node.js, React](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/Software-Engineer-III---Nodejs--React_R-2243072-1)** | (USA) SUNNYVALE V - 640 W CALIFORNIA CA SUNNYVALE Home Office, United States | On Site | Sep 20 |
+| **[Applied Systems Canada](https://www1.appliedsystems.com/)** | **[Software Engineer](https://canada-appliedsystems.icims.com/jobs/6906/software-engineer/job?in_iframe=1)** | Canada | Remote | Sep 21 |
+| **[Applied Systems Canada](https://www1.appliedsystems.com/)** | **[Software Engineer / Sr Software Engineer](https://canada-appliedsystems.icims.com/jobs/6891/software-engineer---sr-software-engineer/job?in_iframe=1)** | United States | Remote | Sep 21 |
+| **[Sidley Austin LLP](https://www.sidley.com)** | **[Lead Software Engineer](https://careers-sidley.icims.com/jobs/9712/lead-software-engineer/job?in_iframe=1)** | Chicago, IL, United States | Remote | Sep 21 |
+| **[Cyberark](https://www.cyberark.com)** | **[Senior software engineer for IGA group](https://jobs.smartrecruiters.com/Cyberark1/744000083101855-senior-software-engineer-for-iga-group)** | Petah Tikva, Central District, Israel | On Site | Sep 21 |
+| **[Septem Systems](https://septemsystems.com/)** | **[Full Stack Software Engineer (Vue + Node + MySQL)](https://jobs.smartrecruiters.com/SeptemSystems/744000049880463-full-stack-software-engineer-vue-node-mysql-)** | Lahore, Punjab, Pakistan | On Site | Sep 21 |
+| **[Browserbase](https://www.browserbase.com/)** | **[Software Engineer (Distributed Systems)](https://jobs.ashbyhq.com/browserbase/bcbf0fb9-2405-497b-bbc9-e09d8f7a4963)** | San Francisco | On Site | Sep 21 |
+| **[Harmattan AI](https://www.harmattan.ai/)** | **[Embedded Software Engineer](https://jobs.ashbyhq.com/harmattan-ai/97968a33-5c01-4555-ad4b-83725cf83595)** | Paris | On Site | Sep 21 |
+| **[Luma AI](https://www.lumalabs.ai/)** | **[Software Engineer - AI Agents](https://jobs.ashbyhq.com/luma-ai/451bc08a-e9ca-4977-b6f1-2613a73efdc3)** | Palo Alto, CA | Remote | Sep 21 |
+| **[Luma AI](https://www.lumalabs.ai/)** | **[Software Engineer - Test Automation & QA](https://jobs.ashbyhq.com/luma-ai/ae04e9d0-bd2c-4e1a-8ddd-8527a656e1b3)** | Palo Alto, CA | Remote | Sep 21 |
+| **[McDonald's Corporation](https://www.mcdonalds.com)** | **[Software Engineer III - (C#/Angular)](https://jobs.smartrecruiters.com/McDonaldsCorporation/744000049906835-software-engineer-iii-c-angular-)** | Ciudad de México, Mexico | On Site | Sep 21 |
+| **[Snowflake](https://www.snowflake.com/)** | **[Software Engineer - Cortex Apps (LLM Products)](https://jobs.ashbyhq.com/snowflake/5ee8f744-ff46-45c8-8d1c-b83514b24f61)** | US-CA-Menlo Park | On Site | Sep 21 |
+| **[CloudTrucks](https://www.cloudtrucks.com/)** | **[Software Engineer, Business Platform (Mid-level and above)](https://jobs.ashbyhq.com/cloudtrucks/f0343129-4cb4-4615-98ac-f037bc1813f9)** | San Francisco, CA | On Site | Sep 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 22 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 30% remote | 43 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
