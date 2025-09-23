@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -33,12 +33,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DTCC](https://www.dtcc.com/)** | **[Lead Software Engineer](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211047)** | Hyderabad, India | On Site | Sep 22 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (University Grad)](https://www.metacareers.com/jobs/1424428752119997/)** | Singapore | On Site | Sep 22 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, iOS](https://www.metacareers.com/jobs/1244330277355274/)** | London, UK | On Site | Sep 22 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Front End, Image Search](https://www.google.com/about/careers/applications/jobs/results/115968741417591494-staff-software-engineer-front-end-image-search)** | Mountain View, CA, USA | On Site | Sep 22 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Machine Learning, Jules](https://www.google.com/about/careers/applications/jobs/results/115226674148057798-senior-software-engineer-machine-learning-jules)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Data Filtering Platform Infrastructure](https://www.google.com/about/careers/applications/jobs/results/110841821776487110-staff-software-engineer-data-filtering-platform-infrastructure)** | Sunnyvale, CA, USA | On Site | Sep 22 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Machine Learning, Jules](https://www.google.com/about/careers/applications/jobs/results/115226674148057798-senior-software-engineer-machine-learning-jules)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Tensor TPU Compiler, Silicon](https://www.google.com/about/careers/applications/jobs/results/124302214922412742-software-engineer-tensor-tpu-compiler-silicon)** | Mountain View, CA, USA; Kirkland, WA, USA | On Site | Sep 22 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure AI/ML](https://www.google.com/about/careers/applications/jobs/results/101598227521774278-software-engineer-infrastructure-aiml)** | Seattle, WA, USA; Mountain View, CA, USA | On Site | Sep 22 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Front End, Image Search](https://www.google.com/about/careers/applications/jobs/results/115968741417591494-staff-software-engineer-front-end-image-search)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML GenAI, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/76843719654810310-senior-software-engineer-aiml-genai-google-workspace)** | Sunnyvale, CA, USA | On Site | Sep 22 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure AI/ML](https://www.google.com/about/careers/applications/jobs/results/101598227521774278-software-engineer-infrastructure-aiml)** | Seattle, WA, USA; Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Google Ads](https://www.google.com/about/careers/applications/jobs/results/138078545862632134-senior-software-engineer-google-ads)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Google Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/74941564538757830-software-engineer-iii-aiml-google-cloud-platforms)** | Sunnyvale, CA, USA | On Site | Sep 22 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobs.careers.microsoft.com/global/en/job/1855251/)** | Bangalore, Karnataka, India | On Site | Sep 22 |
@@ -53,8 +53,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SES](https://www.ses.com/)** | **[Software Engineer](https://careers.ses.com/job/Chennai-Software-Engineer/1237721301/)** | Chennai, IN | On Site | Sep 22 |
 | **[SES](https://www.ses.com/)** | **[Senior Software Engineer](https://careers.ses.com/job/Chennai-Senior-Software-Engineer/1249767901/)** | Chennai, IN | On Site | Sep 22 |
 | **[Experian](https://www.experian.com/)** | **[Software Engineer (AI/ML)](https://jobs.smartrecruiters.com/Experian/744000083175245-software-engineer-ai-ml-)** | Hyderabad, Telangana, India | On Site | Sep 22 |
-| **[Microsoft](https://www.microsoft.com/)** | **[​​Senior Software Engineer​](https://jobs.careers.microsoft.com/global/en/job/1880304/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Group Software Engineer Manager](https://jobs.careers.microsoft.com/global/en/job/1879529/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
+| **[Microsoft](https://www.microsoft.com/)** | **[​​Senior Software Engineer​](https://jobs.careers.microsoft.com/global/en/job/1880304/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
 | **[TTP](https://www.ttp.com/)** | **[Embedded Software Engineer](https://jobs.smartrecruiters.com/TTP1/744000083168081-embedded-software-engineer)** | Cambridge, England, United Kingdom | On Site | Sep 22 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full-Stack Software Engineer (m/f/d)](https://jobs.deloitte.de/job/mehrere-Standorte-Full-Stack-Software-Engineer-%28mfd%29/1249571401/)** | mehrere Standorte, DE | On Site | Sep 22 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer (Full Stack)](https://jobs.smartrecruiters.com/ServiceNow/744000083163700-staff-software-engineer-full-stack-)** | Hyderabad, India | On Site | Sep 22 |
