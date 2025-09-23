@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Software Engineer - .Net](https://jobs.smartrecruiters.com/Visa/744000083331935-software-engineer-net)** | Highlands Ranch, CO, United States | On Site | Sep 22 |
+| **[Ingram Content Group](https://www.ingramcontent.com)** | **[Sr. Java Software Engineer](https://jobs.smartrecruiters.com/IngramContentGroup1/744000083330895-sr-java-software-engineer)** | La Vergne, TN, United States | On Site | Sep 22 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - Agentic Workflow](https://jobs.smartrecruiters.com/ServiceNow/744000083312666-staff-software-engineer-agentic-workflow)** | Orlando, Florida, United States | On Site | Sep 22 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Staff Software Engineer, AI/ML](https://jobs.smartrecruiters.com/NBCUniversal3/744000083307955-staff-software-engineer-ai-ml)** | Orlando, FL, United States | Remote | Sep 22 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr. Software Engineer-Frontend](https://jobs.smartrecruiters.com/NBCUniversal3/744000083307915-sr-software-engineer-frontend)** | Orlando, FL, United States | Remote | Sep 22 |
+| **[CPP Investments](https://www.cppib.com)** | **[Software Engineer, Technology & Data](https://jobs.smartrecruiters.com/CPPInvestmentsInvestissementsRPC/744000083296473-software-engineer-technology-data)** | Mumbai, Maharashtra, India | On Site | Sep 22 |
+| **[Procore Technologies](https://www.procore.com)** | **[Senior Software Engineer - Data Applications](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000083271225-senior-software-engineer-data-applications)** | Austin, TX, United States | On Site | Sep 22 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 2 (DevOps/HPC)](https://akina.catsone.com/careers/99975-General/jobs/16729669-Software-Engineer-2-DevOpsHPC)** | Fort Meade, Maryland | On Site | Sep 22 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 2 (UI/UX Design )](https://akina.catsone.com/careers/99975-General/jobs/16729667-Software-Engineer-2-UIUX-Design)** | Fort Meade, Maryland | On Site | Sep 22 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 2 (Bash/Python/HPC)](https://akina.catsone.com/careers/99975-General/jobs/16729661-Software-Engineer-2-BashPythonHPC)** | Fort Meade, Maryland | On Site | Sep 22 |
@@ -34,9 +41,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (University Grad)](https://www.metacareers.com/jobs/1424428752119997/)** | Singapore | On Site | Sep 22 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, iOS](https://www.metacareers.com/jobs/1244330277355274/)** | London, UK | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Data Filtering Platform Infrastructure](https://www.google.com/about/careers/applications/jobs/results/110841821776487110-staff-software-engineer-data-filtering-platform-infrastructure)** | Sunnyvale, CA, USA | On Site | Sep 22 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Front End, Image Search](https://www.google.com/about/careers/applications/jobs/results/115968741417591494-staff-software-engineer-front-end-image-search)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Machine Learning, Jules](https://www.google.com/about/careers/applications/jobs/results/115226674148057798-senior-software-engineer-machine-learning-jules)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Tensor TPU Compiler, Silicon](https://www.google.com/about/careers/applications/jobs/results/124302214922412742-software-engineer-tensor-tpu-compiler-silicon)** | Mountain View, CA, USA; Kirkland, WA, USA | On Site | Sep 22 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Front End, Image Search](https://www.google.com/about/careers/applications/jobs/results/115968741417591494-staff-software-engineer-front-end-image-search)** | Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML GenAI, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/76843719654810310-senior-software-engineer-aiml-genai-google-workspace)** | Sunnyvale, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure AI/ML](https://www.google.com/about/careers/applications/jobs/results/101598227521774278-software-engineer-infrastructure-aiml)** | Seattle, WA, USA; Mountain View, CA, USA | On Site | Sep 22 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Google Ads](https://www.google.com/about/careers/applications/jobs/results/138078545862632134-senior-software-engineer-google-ads)** | Mountain View, CA, USA | On Site | Sep 22 |
@@ -45,7 +52,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Whitestack](https://whitestack.com/)** | **[Cloud Software Engineer – Python / Ansible / Terraform / Kubernetes - (Uruguay, Remote)](https://whitestack.freshteam.com/jobs/DoNRcnWiFtyx/cloud-software-engineer-python-ansible-terraform-kubernetes-uruguay-remote)** | Santiago Metropolitan Region, Santiago, Chile | Remote | Sep 22 |
 | **[pasiona](https://pasiona.com/)** | **[Senior Software Engineer](https://pasiona.jobs.personio.de/job/2353967)** | Barcelona | On Site | Sep 22 |
 | **[Inetum](https://www.inetum.com)** | **[Senior Python Software Engineer (Senior AI Developer) / 1](https://jobs.smartrecruiters.com/Inetum2/744000083200355-senior-python-software-engineer-senior-ai-developer-1)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 22 |
-| **[CPP Investments](https://www.cppib.com)** | **[Software Engineer, Technology & Data](https://jobs.smartrecruiters.com/CPPInvestmentsInvestissementsRPC/744000083199885-software-engineer-technology-data)** | Mumbai, Maharashtra, India | On Site | Sep 22 |
 | **[Emerson](https://www.emerson.com/)** | **[Software Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25026117)** | CLUJ NAPOCA, CLUJ, Romania | On Site | Sep 22 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Software Engineer](https://jobs.careers.microsoft.com/global/en/job/1861526/)** | Prague, Prague, Czech Republic | On Site | Sep 22 |
 | **[UK Research and Innovation (UKRI)](https://www.ukri.org/)** | **[Graduate Research Software Engineer (Applications Support Specialist)](https://fa-evzn-saasfaukgovprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/1244)** | Warrington, Cheshire, United Kingdom | On Site | Sep 22 |
@@ -53,20 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SES](https://www.ses.com/)** | **[Software Engineer](https://careers.ses.com/job/Chennai-Software-Engineer/1237721301/)** | Chennai, IN | On Site | Sep 22 |
 | **[SES](https://www.ses.com/)** | **[Senior Software Engineer](https://careers.ses.com/job/Chennai-Senior-Software-Engineer/1249767901/)** | Chennai, IN | On Site | Sep 22 |
 | **[Experian](https://www.experian.com/)** | **[Software Engineer (AI/ML)](https://jobs.smartrecruiters.com/Experian/744000083175245-software-engineer-ai-ml-)** | Hyderabad, Telangana, India | On Site | Sep 22 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Principal Group Software Engineer Manager](https://jobs.careers.microsoft.com/global/en/job/1879529/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
 | **[Microsoft](https://www.microsoft.com/)** | **[​​Senior Software Engineer​](https://jobs.careers.microsoft.com/global/en/job/1880304/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Principal Group Software Engineer Manager](https://jobs.careers.microsoft.com/global/en/job/1879529/)** | Hyderabad, Telangana, India | On Site | Sep 22 |
 | **[TTP](https://www.ttp.com/)** | **[Embedded Software Engineer](https://jobs.smartrecruiters.com/TTP1/744000083168081-embedded-software-engineer)** | Cambridge, England, United Kingdom | On Site | Sep 22 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Full-Stack Software Engineer (m/f/d)](https://jobs.deloitte.de/job/mehrere-Standorte-Full-Stack-Software-Engineer-%28mfd%29/1249571401/)** | mehrere Standorte, DE | On Site | Sep 22 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer (Full Stack)](https://jobs.smartrecruiters.com/ServiceNow/744000083163700-staff-software-engineer-full-stack-)** | Hyderabad, India | On Site | Sep 22 |
-| **[Fitness Passport](https://www.fitnesspassport.com.au/)** | **[Senior Software Engineer](https://employmenthero.com/jobs/jobs/fitness-passport-pty-ltd-senior-software-engineer-b78dd/)** | Melbourne, Victoria 3000, Australia | On Site | Sep 22 |
-| **[Fanatics](https://www.fanaticsinc.com/)** | **[Sr. Software Engineer (FE)](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24706)** | Hyderabad, Telangana, India | On Site | Sep 22 |
-| **[Fanatics](https://www.fanaticsinc.com/)** | **[Software Engineer III (FE)](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24705)** | Hyderabad, Telangana, India | On Site | Sep 22 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000083156295-staff-software-engineer)** | Hyderabad, India | On Site | Sep 22 |
-| **[ixigo](https://www.ixigo.com)** | **[Senior Software Engineer- ios](https://jobs.smartrecruiters.com/ixigo/744000083153535--senior-software-engineer-ios)** | Gurugram, India | On Site | Sep 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 27 companies | Avg salary: 251k  
+**Current Stats:** 50 jobs | 18% remote | 28 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
