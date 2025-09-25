@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -48,25 +48,25 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer, Azure Host Networking](https://jobs.careers.microsoft.com/global/en/job/1878131/)** | Bangalore, Karnataka, India | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Search AI/ML](https://www.google.com/about/careers/applications/jobs/results/111678412686271174-software-engineer-iii-search-aiml)** | Mountain View, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Search Qualification Platform](https://www.google.com/about/careers/applications/jobs/results/113337189185528518-software-engineer-search-qualification-platform)** | Cambridge, MA, USA | On Site | Sep 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/121560230491235014-software-engineer-platforms-and-devices)** | Bengaluru, Karnataka, India | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, AI Agents, Infrastructure](https://www.google.com/about/careers/applications/jobs/results/75349955799065286-software-engineer-ai-agents-infrastructure)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android, Pixel Watch App](https://www.google.com/about/careers/applications/jobs/results/91860772157563590-software-engineer-iii-android-pixel-watch-app)** | Bucharest, Romania | On Site | Sep 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Core](https://www.google.com/about/careers/applications/jobs/results/112835949322216134-software-engineer-iii-core)** | San Francisco, CA, USA; Sunnyvale, CA, USA | On Site | Sep 24 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Youtube Shopping](https://www.google.com/about/careers/applications/jobs/results/107811559140401862-staff-software-engineer-youtube-shopping)** | Bengaluru, Karnataka, India | On Site | Sep 24 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI Automotive](https://www.google.com/about/careers/applications/jobs/results/119187106441372358-senior-software-engineer-ai-automotive)** | Kraków, Poland | On Site | Sep 24 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/121560230491235014-software-engineer-platforms-and-devices)** | Bengaluru, Karnataka, India | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, YouTube](https://www.google.com/about/careers/applications/jobs/results/119749403559764678-senior-software-engineer-aiml-youtube)** | Paris, France | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Backend, Search](https://www.google.com/about/careers/applications/jobs/results/125333823117238982-software-engineer-backend-search)** | Singapore | On Site | Sep 24 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Youtube Shopping](https://www.google.com/about/careers/applications/jobs/results/107811559140401862-staff-software-engineer-youtube-shopping)** | Bengaluru, Karnataka, India | On Site | Sep 24 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI Automotive](https://www.google.com/about/careers/applications/jobs/results/119187106441372358-senior-software-engineer-ai-automotive)** | Kraków, Poland | On Site | Sep 24 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Core](https://www.google.com/about/careers/applications/jobs/results/112835949322216134-software-engineer-iii-core)** | San Francisco, CA, USA; Sunnyvale, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Backend, Geo](https://www.google.com/about/careers/applications/jobs/results/94983385180447430-software-engineer-backend-geo)** | San Francisco, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, iOS, Health and Home](https://www.google.com/about/careers/applications/jobs/results/97840466145223366-software-engineer-ii-ios-health-and-home)** | London, UK | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Embedded Senior Software Engineer, Fitbit Device Software](https://www.google.com/about/careers/applications/jobs/results/129358963387835078-embedded-senior-software-engineer-fitbit-device-software)** | Bucharest, Romania | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Cloud, Applied AI](https://www.google.com/about/careers/applications/jobs/results/127783088347325126-software-engineer-iii-cloud-applied-ai)** | Zürich, Switzerland | On Site | Sep 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Google Pixel Graphics](https://www.google.com/about/careers/applications/jobs/results/96263251074917062-software-engineer-google-pixel-graphics)** | Warsaw, Poland | On Site | Sep 24 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML Computer Vision, Core](https://www.google.com/about/careers/applications/jobs/results/116102804526768838-software-engineer-iii-aiml-computer-vision-core)** | Mountain View, CA, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Full Stack, Search](https://www.google.com/about/careers/applications/jobs/results/100764617319293638-senior-software-engineer-full-stack-search)** | Mountain View, CA, USA; New York, NY, USA | On Site | Sep 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Mobile (iOS), Geo Consumer](https://www.google.com/about/careers/applications/jobs/results/100449607237935814-software-engineer-iii-mobile-ios-geo-consumer)** | Mountain View, CA, USA | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 27 companies | Avg salary: 221k  
+**Current Stats:** 50 jobs | 10% remote | 27 companies | Avg salary: 219k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
