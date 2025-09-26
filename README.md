@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -48,11 +48,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, Platforms and Ecosystems](https://www.google.com/about/careers/applications/jobs/results/92022623705146054-software-engineer-ii-full-stack-platforms-and-ecosystems)** | Gurgaon, Haryana, India; Hyderabad, Telangana, India | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Search Quality](https://www.google.com/about/careers/applications/jobs/results/140683709815628486-software-engineer-iii-search-quality)** | Mountain View, CA, USA; Cambridge, MA, USA | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Geo](https://www.google.com/about/careers/applications/jobs/results/137974444445311686-software-engineer-geo)** | Mountain View, CA, USA | On Site | Sep 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Geospatial Insights](https://www.google.com/about/careers/applications/jobs/results/135836100487717574-software-engineer-iii-geospatial-insights)** | Mountain View, CA, USA | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Classroom, Learning and Education](https://www.google.com/about/careers/applications/jobs/results/89279273474368198-software-engineer-classroom-learning-and-education)** | Mexico City, CDMX, Mexico | On Site | Sep 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Health Platform](https://www.google.com/about/careers/applications/jobs/results/96447745690084038-software-engineer-ii-health-platform)** | Bucharest, Romania | On Site | Sep 25 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Geospatial Insights](https://www.google.com/about/careers/applications/jobs/results/135836100487717574-software-engineer-iii-geospatial-insights)** | Mountain View, CA, USA | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Health](https://www.google.com/about/careers/applications/jobs/results/111265606199583430-software-engineer-iii-google-health)** | Mountain View, CA, USA; Seattle, WA, USA | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Android Audio](https://www.google.com/about/careers/applications/jobs/results/87370177691165382-staff-software-engineer-android-audio)** | Mountain View, CA, USA | On Site | Sep 25 |
+| **[Google](https://www.google.com/)** | **[Software Engineer II, Health Platform](https://www.google.com/about/careers/applications/jobs/results/96447745690084038-software-engineer-ii-health-platform)** | Bucharest, Romania | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android Partner](https://www.google.com/about/careers/applications/jobs/results/81233803296547526-software-engineer-iii-android-partner)** | London, UK | On Site | Sep 25 |
 | **[RADCOM](https://radcom.com/)** | **[Software Engineer C++](https://radcom.com/careers/co/israel/3D.955/software-engineer-c/all/)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 25 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Security, Privacy, Chrome Fuzzing](https://www.google.com/about/careers/applications/jobs/results/88731613604520646-senior-software-engineer-security-privacy-chrome-fuzzing)** | Mexico City, CDMX, Mexico | On Site | Sep 25 |
