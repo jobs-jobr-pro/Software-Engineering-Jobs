@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BETSOL](https://www.betsol.com)** | **[Staff Software Engineer](https://jobs.smartrecruiters.com/BETSOL/744000084307405-staff-software-engineer)** | Richardson, TX, United States | On Site | Sep 26 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000084306400-software-engineer)** | Santa Clara, California, United States | On Site | Sep 26 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000084295451-senior-staff-software-engineer)** | Santa Clara, CALIFORNIA, United States | On Site | Sep 26 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Software Engineer - Observability & Data Platform](https://jobs.smartrecruiters.com/ServiceNow/744000084291795-senior-staff-software-engineer-observability-data-platform)** | Orlando, Florida, United States | On Site | Sep 26 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Software Engineer - GenAI](https://jobs.smartrecruiters.com/ServiceNow/744000084284855-software-engineer-genai)** | Santa Clara, CALIFORNIA, United States | On Site | Sep 26 |
+| **[Experian](https://www.experian.com/)** | **[Gen AI Software Engineer Senior](https://jobs.smartrecruiters.com/Experian/744000084283431-gen-ai-software-engineer-senior)** | Heredia, Heredia, Costa Rica | Remote | Sep 26 |
+| **[Visa](https://visa.com)** | **[Sr. Software Engineer (Java, Gen AI, Fullstack)](https://jobs.smartrecruiters.com/Visa/744000084271596-sr-software-engineer-java-gen-ai-fullstack-)** | Bellevue, WA, United States | On Site | Sep 26 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Staff Software Engineer in Test Prisma Access (AI Automation Engineer)](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000084262730-senior-staff-software-engineer-in-test-prisma-access-ai-automation-engineer-)** | Santa Clara, CA, United States | On Site | Sep 26 |
 | **[Onyx Point](https://www.onyxpoint.com)** | **[Software Engineer 2](https://onyxpointinc.catsone.com/careers/46015-General/jobs/16733668-Software-Engineer-2)** | Hanover, MD | On Site | Sep 26 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Software Engineer 1 (Data Management)](https://atp.catsone.com/careers/4021-General/jobs/16733653-Software-Engineer-1-Data-Management)** | Linthicum Heights, MD | On Site | Sep 26 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Cloud Software Engineer 2](https://atp.catsone.com/careers/4021-General/jobs/16733647-Cloud-Software-Engineer-2)** | Linthicum Heights, MD | On Site | Sep 26 |
@@ -44,29 +52,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Site Reliability Engineering, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/132082092912583366-senior-software-engineer-site-reliability-engineering-google-cloud)** | London, UK | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML Recommendations, Rankings, Predictions, YouTube](https://www.google.com/about/careers/applications/jobs/results/129280004709065414-senior-software-engineer-aiml-recommendations-rankings-predictions-youtube)** | San Bruno, CA, USA | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Google Cloud Compute](https://www.google.com/about/careers/applications/jobs/results/74595244145812166-software-engineer-iii-full-stack-google-cloud-compute)** | Seattle, WA, USA | On Site | Sep 26 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Generative AI, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/98985659045159622-staff-software-engineer-generative-ai-google-workspace)** | New York, NY, USA | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/103016949708923590-software-engineer-iii-full-stack-platforms-and-devices)** | Mountain View, CA, USA | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, Incubation Lab](https://www.google.com/about/careers/applications/jobs/results/87605713697678022-senior-software-engineer-aiml-incubation-lab)** | Belo Horizonte, State of Minas Gerais, Brazil | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Android, Mobile](https://www.google.com/about/careers/applications/jobs/results/114823505567982278-software-engineer-iii-android-mobile)** | Bucharest, Romania | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Generative AI, Google Workspace](https://www.google.com/about/careers/applications/jobs/results/98985659045159622-staff-software-engineer-generative-ai-google-workspace)** | New York, NY, USA | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, YouTube, Music Integrations](https://www.google.com/about/careers/applications/jobs/results/115542723611501254-staff-software-engineer-youtube-music-integrations)** | Mountain View, CA, USA | On Site | Sep 26 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Android, Mobile](https://www.google.com/about/careers/applications/jobs/results/114823505567982278-software-engineer-iii-android-mobile)** | Bucharest, Romania | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Infra Spanner](https://www.google.com/about/careers/applications/jobs/results/132837904077464262-software-engineer-iii-infrastructure-infra-spanner)** | Sunnyvale, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Experimentation Infrastructure and Products](https://www.google.com/about/careers/applications/jobs/results/101981209755558598-software-engineer-iii-experimentation-infrastructure-and-products)** | Mountain View, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Search, AI Mode](https://www.google.com/about/careers/applications/jobs/results/76374958334190278-software-engineer-search-ai-mode)** | Haifa, Israel | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Simulation Tools, Silicon](https://www.google.com/about/careers/applications/jobs/results/124582289739784902-software-engineer-simulation-tools-silicon)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Applied ML](https://www.google.com/about/careers/applications/jobs/results/89002574501290694-senior-software-engineer-applied-ml)** | London, UK | On Site | Sep 26 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Search, AI Mode](https://www.google.com/about/careers/applications/jobs/results/76374958334190278-software-engineer-search-ai-mode)** | Haifa, Israel | On Site | Sep 26 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Experimentation Infrastructure and Products](https://www.google.com/about/careers/applications/jobs/results/101981209755558598-software-engineer-iii-experimentation-infrastructure-and-products)** | Mountain View, CA, USA | On Site | Sep 26 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, YouTube Watch Team](https://www.google.com/about/careers/applications/jobs/results/128533328939623110-staff-software-engineer-youtube-watch-team)** | San Bruno, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Google Cloud Storage, Anywhere Cache](https://www.google.com/about/careers/applications/jobs/results/84201020107694790-staff-software-engineer-google-cloud-storage-anywhere-cache)** | Seattle, WA, USA | Remote | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Chrome Browser Infrastructure](https://www.google.com/about/careers/applications/jobs/results/128376992130048710-software-engineer-chrome-browser-infrastructure)** | Mexico City, CDMX, Mexico | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, GBO Engineering, Full Stack](https://www.google.com/about/careers/applications/jobs/results/131295839019508422-software-engineer-ii-gbo-engineering-full-stack)** | London, UK | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Engineering Productivity, Google Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/120319770921706182-software-engineer-iii-engineering-productivity-google-cloud-platforms)** | Sunnyvale, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Android Security](https://www.google.com/about/careers/applications/jobs/results/124040071593501382-senior-staff-software-engineer-android-security)** | Mountain View, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Privacy Centric Measurement](https://www.google.com/about/careers/applications/jobs/results/80836548886438598-software-engineer-iii-aiml-privacy-centric-measurement)** | Bengaluru, Karnataka, India | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Intelligent Productivity Experiences, Chrome](https://www.google.com/about/careers/applications/jobs/results/139593303518520006-senior-software-engineer-intelligent-productivity-experiences-chrome)** | Mountain View, CA, USA | On Site | Sep 26 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Platforms Infrastructure Engineering](https://www.google.com/about/careers/applications/jobs/results/87817382570926790-senior-software-engineer-platforms-infrastructure-engineering)** | Sunnyvale, CA, USA | On Site | Sep 26 |
+| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Applied ML](https://www.google.com/about/careers/applications/jobs/results/89002574501290694-senior-software-engineer-applied-ml)** | London, UK | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 229k  
+**Current Stats:** 50 jobs | 4% remote | 22 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
