@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -23,17 +23,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, iOS](https://www.metacareers.com/jobs/776755878283928/)** | Menlo Park, CA | On Site | Sep 27 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer](https://www.metacareers.com/jobs/816084960878514/)** | Seattle, WA | On Site | Sep 27 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Product](https://www.metacareers.com/jobs/801004149050203/)** | New York, NY | On Site | Sep 27 |
+| **[Google](https://www.google.com/)** | **[Senior Site Reliability Engineer, Software Engineer](https://www.google.com/about/careers/applications/jobs/results/139562409818759878-senior-site-reliability-engineer-software-engineer)** | Dublin, Ireland | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Site Reliability Engineering](https://www.google.com/about/careers/applications/jobs/results/135151169168122566-software-engineer-ii-site-reliability-engineering)** | London, UK | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Pixel Watch Apps](https://www.google.com/about/careers/applications/jobs/results/114242306298520262-senior-software-engineer-pixel-watch-apps)** | San Diego, CA, USA | On Site | Sep 27 |
-| **[Google](https://www.google.com/)** | **[Senior Site Reliability Engineer, Software Engineer](https://www.google.com/about/careers/applications/jobs/results/139562409818759878-senior-site-reliability-engineer-software-engineer)** | Dublin, Ireland | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Chrome Product Security, Core](https://www.google.com/about/careers/applications/jobs/results/112377534577812166-software-engineer-iii-chrome-product-security-core)** | Kirkland, WA, USA; Seattle, WA, USA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, D, Storage](https://www.google.com/about/careers/applications/jobs/results/110017295429837510-software-engineer-iii-d-storage)** | New York, NY, USA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Android ML Services](https://www.google.com/about/careers/applications/jobs/results/128782677560959686-senior-software-engineer-android-ml-services)** | Kraków, Poland | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, GPS Locations](https://www.google.com/about/careers/applications/jobs/results/97803937448370886-software-engineer-gps-locations)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, Trust](https://www.google.com/about/careers/applications/jobs/results/77350547270574790-software-engineer-iii-front-end-trust)** | Munich, Germany | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, GenAI Infrastructure](https://www.google.com/about/careers/applications/jobs/results/80253240788034246-senior-staff-software-engineer-genai-infrastructure)** | Mountain View, CA, USA; Sunnyvale, CA, USA | On Site | Sep 27 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Search, Android and iOS](https://www.google.com/about/careers/applications/jobs/results/137817914362208966-staff-software-engineer-search-android-and-ios)** | Los Angeles, CA, USA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Search, Machine Learning Infrastructure](https://www.google.com/about/careers/applications/jobs/results/80198832142328518-staff-software-engineer-search-machine-learning-infrastructure)** | Cambridge, MA, USA | On Site | Sep 27 |
+| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Search, Android and iOS](https://www.google.com/about/careers/applications/jobs/results/137817914362208966-staff-software-engineer-search-android-and-ios)** | Los Angeles, CA, USA | On Site | Sep 27 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Geo](https://www.google.com/about/careers/applications/jobs/results/141638631369384646-software-engineer-iii-google-geo)** | Mountain View, CA, USA | On Site | Sep 27 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Data Platform Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000084420535-staff-data-platform-software-engineer)** | Hyderabad, India | On Site | Sep 27 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobs.careers.microsoft.com/global/en/job/1859600/)** | Hyderabad, Telangana, India | On Site | Sep 27 |
@@ -51,22 +51,22 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Software Engineer](https://jobs.careers.microsoft.com/global/en/job/1882923/)** | Redmond, Washington, United States | On Site | Sep 27 |
 | **[LinkedIn](https://www.linkedin.com/)** | **[Distinguished Software Engineer, Machine Learning (Growth)](https://jobs.smartrecruiters.com/LinkedIn3/744000084311565-distinguished-software-engineer-machine-learning-growth-)** | Mountain View, CA, United States | On Site | Sep 27 |
 | **[Twilio](https://www.twilio.com/)** | **[Staff Software Engineer (L4)](https://job-boards.greenhouse.io/twilio/jobs/7280300)** | Remote - Alberta, Canada; Remote - British Columbia, Canada; Remote - Ontario, Canada | Remote | Sep 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead Software Engineer](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Lead-Software-Engineer_10131323)** | USA - CA - 2500 Broadway Street, United States | On Site | Sep 27 |
-| **[NatWest Group](https://www.natwestgroup.com/)** | **[Software Engineer, AVP](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Gurugram/Software-Engineer--AVP_R-00265307)** | Gurugram, India | On Site | Sep 27 |
-| **[BestEx Research](https://bestexresearch.com/)** | **[Senior C++ Software Engineer (Algo Trading)](https://apply.workable.com/j/4BF2AAAA7F/apply)** | Bengaluru, Karnataka, India | On Site | Sep 27 |
 | **[Clarivate](https://www.clarivate.com/)** | **[Lead Software Engineer - Python](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Lead-Software-Engineer---Python_JREQ133879-1)** | R131-Bangalore, India | On Site | Sep 27 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-ITCD\] SENIOR/EXECUTIVE FULL-STACK SOFTWARE ENGINEER (GIS/AI)](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/XMLNAME--LTA-ITCD--SENIOR-EXECUTIVE-FULL-STACK-SOFTWARE-ENGINEER--GIS-AI-_JR-10000043203)** | LTA HSO B6 02, Singapore | On Site | Sep 27 |
+| **[NatWest Group](https://www.natwestgroup.com/)** | **[Software Engineer, AVP](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Bengaluru/Software-Engineer--AVP_R-00264665)** | Bengaluru, India | On Site | Sep 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead Software Engineer](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Lead-Software-Engineer_10131323)** | USA - CA - 2500 Broadway Street, United States | On Site | Sep 27 |
+| **[BestEx Research](https://bestexresearch.com/)** | **[Senior C++ Software Engineer (Algo Trading)](https://apply.workable.com/j/4BF2AAAA7F/apply)** | Bengaluru, Karnataka, India | On Site | Sep 27 |
+| **[Sun Life](https://www.sunlife.com/)** | **[Pega Senior Software Engineer](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced/job/Toronto-Ontario/Pega-Senior-Software-Engineer_JR00115159-1)** | Sun Life Toronto One York, Canada | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Senior Software Engineer - Java Backend Primary (4+ years)](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Senior-Software-Engineer---Java-Backend-Primary--4--years-_103785)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-ITCD\] SENIOR/EXECUTIVE FULL-STACK SOFTWARE ENGINEER (GIS/AI)](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/XMLNAME--LTA-ITCD--SENIOR-EXECUTIVE-FULL-STACK-SOFTWARE-ENGINEER--GIS-AI-_JR-10000043203)** | LTA HSO B6 02, Singapore | On Site | Sep 27 |
 | **[Fanatics](https://www.fanaticsinc.com/)** | **[Software Engineer II - Mobile](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24965)** | United States | On Site | Sep 26 |
 | **[Inadev](https://www.inadev.com/)** | **[Software Engineer Lead](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3604430)** | Reston, VA, US | On Site | Sep 26 |
 | **[Pano AI](https://www.pano.ai/)** | **[Senior Software Engineer - Frontend](https://jobs.lever.co/pano/f28e8577-7228-44c1-a812-5ee834b435ed)** | San Francisco, California | On Site | Sep 26 |
 | **[Varicent](https://www.varicent.com/)** | **[Senior Software Engineer – MERN Stack (Remote – Mexico Only)](https://job-boards.greenhouse.io/varicent/jobs/4936155008)** | Mexico, Remote | Remote | Sep 26 |
 | **[Skylo Technologies](https://www.skylo.tech/)** | **[Senior Staff Software Engineer - (Network Management & Cloud)](https://job-boards.greenhouse.io/skylotechnologies/jobs/7452529003)** | Espoo, Finland | On Site | Sep 26 |
-| **[Skylo Technologies](https://www.skylo.tech/)** | **[Senior Software Engineer - Network Management & Cloud](https://job-boards.greenhouse.io/skylotechnologies/jobs/7452536003)** | Espoo, Finland | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 28 companies | Avg salary: 240k  
+**Current Stats:** 50 jobs | 10% remote | 29 companies | Avg salary: 240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
