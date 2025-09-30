@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bluesky](https://bsky.app)** | **[Senior Software Engineer - Data Infrastructure / Go](https://jobr.pro/job/29067200/senior-software-engineer-data-infrastructure-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fully Remote - Overlap with PST working hours | Remote | Sep 30 |
 | **[Delta Dental](https://www1.deltadentalins.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29061635/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Alpharetta, GA, United States | On Site | Sep 30 |
 | **[Delta Dental](https://www1.deltadentalins.com/)** | **[Software Engineer](https://jobr.pro/job/29061632/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Alpharetta, GA, United States | On Site | Sep 30 |
 | **[Koenigsegg Automotive AB](https://www.koenigsegg.com/)** | **[High Voltage Control Software Engineer](https://jobr.pro/job/29063451/high-voltage-control-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ängelholm | On Site | Sep 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Display Ads Formats](https://jobr.pro/job/29035191/software-engineer-display-ads-formats?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Sep 30 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Security, Playbooks Infrastructure](https://jobr.pro/job/29035186/software-engineer-iii-google-cloud-security-playbooks-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ramat Gan, Israel | On Site | Sep 30 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Wear Engineering Productivity](https://jobr.pro/job/29035164/software-engineer-iii-wear-engineering-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest, Romania | On Site | Sep 30 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Infrastructure, Search](https://jobr.pro/job/29035157/senior-software-engineer-infrastructure-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 20 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 2% remote | 21 companies | Avg salary: 214k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
