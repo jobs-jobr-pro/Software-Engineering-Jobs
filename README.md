@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29233078/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-WA-Seattle | On Site | Oct 02 |
 | **[Infor](https://www.infor.com/)** | **[Junior Fullstack Java Software Engineer](https://jobr.pro/job/29232464/junior-fullstack-java-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hybrid, Wroclaw, Poland | On Site | Oct 02 |
 | **[Infor](https://www.infor.com/)** | **[Java Software Engineer](https://jobr.pro/job/29232462/java-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | On-site, Wroclaw, Poland | On Site | Oct 02 |
+| **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Software Engineer II](https://jobr.pro/job/29248476/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 02 |
 | **[OneByZero](https://onebyzero.ai)** | **[Sr. Software Engineer I - Backend](https://jobr.pro/job/29230710/sr-software-engineer-i-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hanoi, Vietnam | On Site | Oct 02 |
 | **[OneByZero](https://onebyzero.ai)** | **[Software Engineer II - Backend](https://jobr.pro/job/29230702/software-engineer-ii-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hanoi, Vietnam | On Site | Oct 02 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Software Engineer (TypeScript, JavaScript, NodeJS)](https://jobr.pro/job/29229657/software-engineer-typescript-javascript-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United Kingdom | On Site | Oct 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NetApp](https://www.netapp.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/29211294/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Morrisville, NC, US | On Site | Oct 02 |
 | **[Exness](https://www.exness.com/)** | **[Frontend Software Engineer (Search & Web)](https://jobr.pro/job/29198673/frontend-software-engineer-search-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cyprus | On Site | Oct 02 |
 | **[Exadel](https://exadel.com/)** | **[Lead Software Engineer (.NET)](https://jobr.pro/job/29194968/lead-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland | On Site | Oct 02 |
-| **[Exadel](https://exadel.com/)** | **[Senior Software Engineer (.NET)](https://jobr.pro/job/29194979/senior-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland | On Site | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 26 companies | Avg salary: 196k  
+**Current Stats:** 50 jobs | 2% remote | 27 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
