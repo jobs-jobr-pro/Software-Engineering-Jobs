@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,8 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Senior Cloud Software Engineer (AWS/AI)- (full stack)](https://jobr.pro/job/29336026/senior-cloud-software-engineer-awsai-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Memphis, TN, United States | On Site | Oct 03 |
+| **[ECS](https://ecstech.com/)** | **[Junior Software Engineer](https://jobr.pro/job/29336025/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Oct 03 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Software Engineer 3](https://jobr.pro/job/29333562/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 03 |
+| **[2HB Incorporated](https://www.2hb.com)** | **[Mid-Level Software Engineer](https://jobr.pro/job/29334923/mid-level-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 03 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (Java)](https://jobr.pro/job/29319662/software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 03 |
+| **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 2 (DevOps/IaC/Bash/Python)](https://jobr.pro/job/29335495/software-engineer-2-devopsiacbashpython?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fort Meade, Maryland | On Site | Oct 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer-Java/SpringBoot/React](https://jobr.pro/job/29316246/lead-software-engineer-javaspringbootreact?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Wilmington, DE, United States | On Site | Oct 03 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Compute API](https://jobr.pro/job/29312479/senior-software-engineer-compute-api?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Oct 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Android Engineer Lead](https://jobr.pro/job/29316232/lead-software-engineer-android-engineer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Plano, TX, United States | On Site | Oct 03 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[H&M Group](https://hmgroup.com/)** | **[Software Engineer](https://jobr.pro/job/29313945/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Oct 03 |
 | **[Nordic Semiconductor](https://www.nordicsemi.com)** | **[Embedded Software Engineer](https://jobr.pro/job/29311738/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Trondheim, Norway | On Site | Oct 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Python](https://jobr.pro/job/29316156/software-engineer-ii-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | BOURNEMOUTH, DORSET, United Kingdom | On Site | Oct 03 |
-| **[IFS](https://www.ifs.com/)** | **[Principal Software Engineer - Time Series Data Specialist](https://jobr.pro/job/29313546/principal-software-engineer-time-series-data-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Colombo, WP, Sri Lanka | On Site | Oct 03 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Senior Lead Software Engineer - Java & Microservices](https://jobr.pro/job/29316185/senior-lead-software-engineer-java-microservices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 03 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer -Java, AWS](https://jobr.pro/job/29316168/lead-software-engineer-java-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 03 |
-| **[Nokia](https://www.nokia.com/)** | **[Deepfield Senior Fullstack Software Engineer](https://jobr.pro/job/29311252/deepfield-senior-fullstack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Greece | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 17 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 2% remote | 18 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
