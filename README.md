@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java - Enterprise Architecture](https://jobr.pro/job/29396360/software-engineer-java-enterprise-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 04 |
+| **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java - Enterprise Communications Platform](https://jobr.pro/job/29396349/software-engineer-java-enterprise-communications-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Oct 04 |
+| **[American Express](https://www.americanexpress.com/)** | **[Senior Staff Software Engineer - Global Commercial Services](https://jobr.pro/job/29396348/senior-staff-software-engineer-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 04 |
+| **[American Express](https://www.americanexpress.com/)** | **[Sr Software Engineer II](https://jobr.pro/job/29396345/sr-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 04 |
+| **[HARMAN International](https://www.harman.com/)** | **[Software Engineer](https://jobr.pro/job/29394908/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Oct 04 |
+| **[BAE Systems](https://www.baesystems.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29391973/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GB-SCO-Ayrshire-Prestwick | On Site | Oct 04 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer - Technical Leadership](https://jobr.pro/job/29390493/software-engineer-technical-leadership?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 04 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Leadership), Host Networking](https://jobr.pro/job/29390456/software-engineer-leadership-host-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Oct 04 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, SystemML - AI Networking](https://jobr.pro/job/29390318/software-engineer-systemml-ai-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Oct 04 |
@@ -57,19 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Security and Privacy, Pixel Phone](https://jobr.pro/job/29386969/senior-software-engineer-security-and-privacy-pixel-phone?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Silicon System Machine Learning Acceleration](https://jobr.pro/job/29387020/senior-software-engineer-silicon-system-machine-learning-acceleration?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan; Zhubei, Zhubei City, Hsinchu County, Taiwan | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Cryptography, Core](https://jobr.pro/job/29387013/senior-software-engineer-cryptography-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Geo, Urban Mobility](https://jobr.pro/job/29386950/senior-software-engineer-geo-urban-mobility?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney NSW, Australia | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Search](https://jobr.pro/job/29386937/software-engineer-ii-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zürich, Switzerland | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, BigQuery](https://jobr.pro/job/29386908/senior-software-engineer-bigquery?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Core ML Frameworks](https://jobr.pro/job/29386932/staff-software-engineer-core-ml-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; Sunnyvale, CA, USA | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI and Security Intelligence](https://jobr.pro/job/29386895/staff-software-engineer-ai-and-security-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, YouTube Ads](https://jobr.pro/job/29386884/software-engineer-iii-youtube-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 2 companies | Avg salary: 240k  
+**Current Stats:** 50 jobs | 8% remote | 5 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, kubernetes, ai, javascript  
+**Trending Skills:** react, python, aws, kubernetes, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
