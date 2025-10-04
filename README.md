@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aptiv](https://www.aptiv.com/)** | **[Advanced Software Engineer-Android Audio](https://jobr.pro/job/29346464/advanced-software-engineer-android-audio?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND Chennai Tech Center, India | On Site | Oct 04 |
+| **[ResMed](https://www.resmed.com/)** | **[Software Engineer – .NET & SQL (Full Stack)](https://jobr.pro/job/29348099/software-engineer-net-sql-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN Bangalore, India | On Site | Oct 04 |
 | **[ECS](https://ecstech.com/)** | **[Senior Cloud Software Engineer (AWS/AI)- (full stack)](https://jobr.pro/job/29336026/senior-cloud-software-engineer-awsai-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Memphis, TN, United States | On Site | Oct 03 |
 | **[ECS](https://ecstech.com/)** | **[Junior Software Engineer](https://jobr.pro/job/29336025/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Oct 03 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Software Engineer 3](https://jobr.pro/job/29333562/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 03 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer (Infrastructure)](https://jobr.pro/job/29309098/senior-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Dublin, Ireland | On Site | Oct 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II ( Java, UI)](https://jobr.pro/job/29316163/software-engineer-ii-java-ui?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 03 |
 | **[H&M Group](https://hmgroup.com/)** | **[Software Engineer](https://jobr.pro/job/29313945/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Oct 03 |
-| **[Nordic Semiconductor](https://www.nordicsemi.com)** | **[Embedded Software Engineer](https://jobr.pro/job/29311738/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Trondheim, Norway | On Site | Oct 03 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Python](https://jobr.pro/job/29316156/software-engineer-ii-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | BOURNEMOUTH, DORSET, United Kingdom | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 18 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
