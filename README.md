@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Data Platform Software Engineer](https://jobr.pro/job/29415280/staff-data-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Oct 05 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Software Engineer Detection Team (Cortex)](https://jobr.pro/job/29415143/principal-software-engineer-detection-team-cortex?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Israel | On Site | Oct 05 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java - Enterprise Architecture](https://jobr.pro/job/29396360/software-engineer-java-enterprise-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 04 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java - Enterprise Communications Platform](https://jobr.pro/job/29396349/software-engineer-java-enterprise-communications-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Oct 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, ML Infrastructure, Google Ads](https://jobr.pro/job/29387047/senior-software-engineer-ml-infrastructure-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Senior Machine Learning Software Engineer, GPU Acceleration, Silicon](https://jobr.pro/job/29386979/senior-machine-learning-software-engineer-gpu-acceleration-silicon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan; Zhubei, Zhubei City, Hsinchu County, Taiwan | On Site | Oct 04 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Security and Privacy, Pixel Phone](https://jobr.pro/job/29386969/senior-software-engineer-security-and-privacy-pixel-phone?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Oct 04 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Silicon System Machine Learning Acceleration](https://jobr.pro/job/29387020/senior-software-engineer-silicon-system-machine-learning-acceleration?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan; Zhubei, Zhubei City, Hsinchu County, Taiwan | On Site | Oct 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 6 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 8% remote | 7 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
