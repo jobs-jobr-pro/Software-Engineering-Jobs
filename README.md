@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aptiv](https://www.aptiv.com/)** | **[Advanced Software Engineer-DMS POSIX](https://jobr.pro/job/29462508/advanced-software-engineer-dms-posix?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND Chennai Tech Center, India | On Site | Oct 07 |
 | **[Open Systems Technologies Corporation](https://www.ostcorpweb.net/)** | **[Java/J2EE Software Engineer](https://jobr.pro/job/29447177/javaj2ee-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Herndon, VA, United States | On Site | Oct 06 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer III – Global Merchant Services Technology](https://jobr.pro/job/29440829/software-engineer-iii-global-merchant-services-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 06 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer I](https://jobr.pro/job/29440828/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Goldman Sachs](https://www.goldmansachs.com/)** | **[Software Engineer - Analyst - Core Engineering](https://jobr.pro/job/29434421/software-engineer-analyst-core-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - IDAnywhere Cloud SRE](https://jobr.pro/job/29433345/software-engineer-iii-idanywhere-cloud-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | Remote | Oct 06 |
 | **[Enea](https://www.enea.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29431842/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brno, Czechia | On Site | Oct 06 |
-| **[ASRC Federal](https://www.asrcfederal.com/)** | **[Associate Software Engineer](https://jobr.pro/job/29444286/associate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Moorestown, NJ, 08057, US | On Site | Oct 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 25 companies | Avg salary: 212k  
+**Current Stats:** 50 jobs | 2% remote | 25 companies | Avg salary: 218k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
