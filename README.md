@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Aptiv](https://www.aptiv.com/)** | **[Advanced Software Engineer-DMS POSIX](https://jobr.pro/job/29462508/advanced-software-engineer-dms-posix?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND Chennai Tech Center, India | On Site | Oct 07 |
+| **[Gartner](https://www.gartner.com/)** | **[Lead Software Engineer](https://jobr.pro/job/29470679/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gurgaon - Cyber Park, India | On Site | Oct 07 |
+| **[Gartner](https://www.gartner.com/)** | **[Senior Software Engineer (Salesforce developer, configuration, customization)](https://jobr.pro/job/29470681/senior-software-engineer-salesforce-developer-configuration-customization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gurgaon - Cyber Park, India | On Site | Oct 07 |
+| **[Experian](https://www.experian.com/)** | **[Senior Software Engineer, Front End B2B CRM](https://jobr.pro/job/29466663/senior-software-engineer-front-end-b2b-crm?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States, UNITED STATES, United States | On Site | Oct 06 |
+| **[Experian](https://www.experian.com/)** | **[Lead Software Engineer - Intelligent Virtual Agent](https://jobr.pro/job/29466683/lead-software-engineer-intelligent-virtual-agent?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States, UNITED STATES, United States | On Site | Oct 06 |
+| **[BCC Software](https://bccsoftware.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/29466688/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rochester, NY, United States | On Site | Oct 06 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Senior Software Engineer](https://jobr.pro/job/29466697/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Orlando, FL, United States | Remote | Oct 06 |
+| **[Visa](https://visa.com)** | **[Sr. Software Engineer - Production Support (Hybrid/ Onsite)](https://jobr.pro/job/29466699/sr-software-engineer-production-support-hybrid-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, TX, United States | On Site | Oct 06 |
+| **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Lead Backend Software Engineer (Yale)](https://jobr.pro/job/29466706/lead-backend-software-engineer-yale?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA, United States | On Site | Oct 06 |
+| **[Experian](https://www.experian.com/)** | **[Senior Software Engineer (React, Typescript) - Design Systems](https://jobr.pro/job/29466545/senior-software-engineer-react-typescript-design-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Nottingham, United Kingdom | On Site | Oct 06 |
 | **[Open Systems Technologies Corporation](https://www.ostcorpweb.net/)** | **[Java/J2EE Software Engineer](https://jobr.pro/job/29447177/javaj2ee-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Herndon, VA, United States | On Site | Oct 06 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer III – Global Merchant Services Technology](https://jobr.pro/job/29440829/software-engineer-iii-global-merchant-services-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 06 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer I](https://jobr.pro/job/29440828/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 06 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Java Developer - Software Engineer III](https://jobr.pro/job/29433570/java-developer-software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GLASGOW, LANARKSHIRE, United Kingdom | On Site | Oct 06 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Software Engineer: Supply Chain Collaboration Platform](https://jobr.pro/job/29434045/software-engineer-supply-chain-collaboration-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 06 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - SAP, ABAP, HANA](https://jobr.pro/job/29433448/software-engineer-iii-sap-abap-hana?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer](https://jobr.pro/job/29433392/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Senior Lead Software Engineer](https://jobr.pro/job/29433397/senior-lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
-| **[DigitalRoute](https://www.digitalroute.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29450302/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm | On Site | Oct 06 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/29433370/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
-| **[Cummins](https://www.cummins.com/)** | **[Software Engineer II](https://jobr.pro/job/29442623/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Oct 06 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Cassandra NoSQL/Python/ITIL Process](https://jobr.pro/job/29433344/software-engineer-ii-cassandra-nosqlpythonitil-process?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 06 |
-| **[Goldman Sachs](https://www.goldmansachs.com/)** | **[Software Engineer - Analyst - Core Engineering](https://jobr.pro/job/29434421/software-engineer-analyst-core-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 06 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - IDAnywhere Cloud SRE](https://jobr.pro/job/29433345/software-engineer-iii-idanywhere-cloud-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | Remote | Oct 06 |
-| **[Enea](https://www.enea.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29431842/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brno, Czechia | On Site | Oct 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 25 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 2% remote | 27 companies | Avg salary: 210k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
