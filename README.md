@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Zendesk](https://www.zendesk.com)** | **[Senior Software Engineer](https://jobr.pro/job/29555734/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune - Office | On Site | Oct 08 |
 | **[Australia Post](https://auspost.com.au/)** | **[Senior Software Engineer](https://jobr.pro/job/29528499/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne Support Centre | On Site | Oct 07 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (CSS/Node.JS/Java) - IPCW Migrations](https://jobr.pro/job/29528376/software-engineer-cssnodejsjava-ipcw-migrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 07 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Sr Software Engineer- Python](https://jobr.pro/job/29527188/sr-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CA-ON-Toronto | On Site | Oct 07 |
+| **[Efima Oyj](https://www.efima.com/)** | **[Software Engineer](https://jobr.pro/job/29545902/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Helsinki; Tampere | On Site | Oct 07 |
+| **[Efima Oyj](https://www.efima.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29545903/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Helsinki; Tampere | On Site | Oct 07 |
 | **[Weatherford](https://www.weatherford.com/)** | **[SOFTWARE ENGINEER II](https://jobr.pro/job/29525976/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Navi Mumbai, Maharashtra, India | On Site | Oct 07 |
 | **[IKEA](https://www.ikea.com/)** | **[Software Engineer - Golang (Fulfillment)](https://jobr.pro/job/29522873/software-engineer-golang-fulfillment?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru | On Site | Oct 07 |
 | **[HARMAN International](https://www.harman.com/)** | **[Software Engineer](https://jobr.pro/job/29522855/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hod-Hasharon - Israel | On Site | Oct 07 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Pixel Data Engineering](https://jobr.pro/job/29513505/staff-software-engineer-pixel-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 07 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Pixel Camera](https://jobr.pro/job/29513499/software-engineer-iii-pixel-camera?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 07 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Gamer Social](https://jobr.pro/job/29513411/software-engineer-ii-gamer-social?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 07 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML, GenAI](https://jobr.pro/job/29513426/staff-software-engineer-aiml-genai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Oct 07 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Pixel Camera Performance](https://jobr.pro/job/29513388/senior-software-engineer-pixel-camera-performance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 07 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure, Play Platform](https://jobr.pro/job/29513386/software-engineer-infrastructure-play-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 23 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 0% remote | 25 companies | Avg salary: 234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
