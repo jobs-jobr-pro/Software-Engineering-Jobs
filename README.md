@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Software Engineer III](https://jobr.pro/job/29882765/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 09 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Embedded Software Engineer - C++ Developer](https://jobr.pro/job/29868904/senior-embedded-software-engineer-c-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-OK-Bartlesville | On Site | Oct 09 |
 | **[Nintendo](https://www.nintendo.com/)** | **[Software Engineer (Application & Test Development)](https://jobr.pro/job/29868766/software-engineer-application-test-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WA-Redmond | Remote | Oct 09 |
 | **[Textron Aviation](https://txtav.com/)** | **[Software Engineer (Simulator Systems) - TRU Simulation](https://jobr.pro/job/29868306/software-engineer-simulator-systems-tru-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Lutz | On Site | Oct 09 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Performance, Google Cloud Compute Infrastructure](https://jobr.pro/job/29856441/senior-software-engineer-performance-google-cloud-compute-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 09 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Global Network Edge](https://jobr.pro/job/29856428/senior-staff-software-engineer-global-network-edge?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 09 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, ChromeOS, Android Input, Desktop](https://jobr.pro/job/29856373/senior-software-engineer-chromeos-android-input-desktop?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA | On Site | Oct 09 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, iOS, Extended Reality Camera](https://jobr.pro/job/29856407/software-engineer-iii-ios-extended-reality-camera?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 23 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 2% remote | 24 companies | Avg salary: 238k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
