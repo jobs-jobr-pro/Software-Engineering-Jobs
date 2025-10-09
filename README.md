@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[F5](https://www.f5.com/)** | **[Principal Software Engineer- Full stack cloud](https://jobr.pro/job/29803865/principal-software-engineer-full-stack-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad (SEZ), India | On Site | Oct 09 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Software Engineer](https://jobr.pro/job/29803077/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Manyata Tech Park Road, India | On Site | Oct 09 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff Software Engineer](https://jobr.pro/job/29803070/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Manyata Tech Park Road, India | On Site | Oct 09 |
 | **[Granite Telecommunications](https://www.granitenet.com/)** | **[Lead Software Engineer](https://jobr.pro/job/29769990/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Quincy, MA, United States | On Site | Oct 08 |
 | **[Sunbit](https://sunbit.com/)** | **[Senior Software Engineer (Purchas Apps)](https://jobr.pro/job/29760671/senior-software-engineer-purchas-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 08 |
 | **[Oracle](https://www.oracle.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29761440/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Oct 08 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Backend, Labs, Mixboard](https://jobr.pro/job/29713871/senior-software-engineer-backend-labs-mixboard?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; Boulder, CO, USA | On Site | Oct 08 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Google Safe Search](https://jobr.pro/job/29713934/software-engineer-ii-google-safe-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zürich, Switzerland | On Site | Oct 08 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Cloud Platforms](https://jobr.pro/job/29713665/software-engineer-iii-infrastructure-google-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 08 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Cloud AI/ML, GPUs](https://jobr.pro/job/29713755/software-engineer-cloud-aiml-gpus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Oct 08 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Chrome Autofill](https://jobr.pro/job/29713791/software-engineer-iii-chrome-autofill?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 08 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Search](https://jobr.pro/job/29713532/senior-software-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge, MA, USA | On Site | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 22 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 8% remote | 24 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
