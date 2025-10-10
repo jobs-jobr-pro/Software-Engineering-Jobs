@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[InterImage](https://www.iimage.com/)** | **[2039 Software Engineer 0](https://jobr.pro/job/29958323/2039-software-engineer-0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Maryland, Fort Meade, United States of America | On Site | Oct 10 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Lead Embedded Software Engineer](https://jobr.pro/job/29955849/lead-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-CA-Santa Clara | On Site | Oct 10 |
+| **[E2logy](https://e2logy.com/)** | **[Associate Software Engineer-Full Stack](https://jobr.pro/job/29954499/associate-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ahmedabad, India | On Site | Oct 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Frontend Software Engineer, Global E-commerce (Governance Service)](https://jobr.pro/job/29948948/frontend-software-engineer-global-e-commerce-governance-service?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Oct 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Software Engineer, Ads ML Infrastructure](https://jobr.pro/job/29948947/senior-software-engineer-ads-ml-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Backend Software Engineer (Multiple Positions)](https://jobr.pro/job/29948924/senior-backend-software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Software Engineer (Multiple Positions)](https://jobr.pro/job/29948918/senior-software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 10 |
+| **[TikTok](https://www.tiktok.com/)** | **[Lead Software Engineer (Multiple Positions)](https://jobr.pro/job/29948896/lead-software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Oct 10 |
+| **[H&M Group](https://hmgroup.com/)** | **[Software Engineer - .NET](https://jobr.pro/job/29951398/software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 10 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Full Stack](https://jobr.pro/job/29946499/software-engineer-iii-java-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | BOURNEMOUTH, DORSET, United Kingdom | On Site | Oct 10 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer - Research Systems](https://jobr.pro/job/29944802/software-engineer-research-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, WA | On Site | Oct 10 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Product)](https://jobr.pro/job/29944779/software-engineer-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Burlingame, CA | On Site | Oct 10 |
@@ -50,23 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Evaluations and Data for Intelligence Team](https://jobr.pro/job/29943600/software-engineer-evaluations-and-data-for-intelligence-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 10 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, MacService](https://jobr.pro/job/29943596/staff-software-engineer-macservice?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; New York, NY, USA | On Site | Oct 10 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, YouTube Create, Gen AI](https://jobr.pro/job/29943590/senior-software-engineer-youtube-create-gen-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 10 |
+| **[Visa](https://visa.com)** | **[Senior Software Engineer - Java](https://jobr.pro/job/29951424/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Oct 10 |
 | **[Botify](https://www.botify.com)** | **[Senior Software Engineer - Go](https://jobr.pro/job/29942879/senior-software-engineer-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Paris, France | On Site | Oct 10 |
+| **[Cloudflight](https://www.cloudflight.io)** | **[Software Engineer (m/f/x)](https://jobr.pro/job/29951899/software-engineer-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Wrocław, Poland | On Site | Oct 10 |
 | **[Botify](https://www.botify.com)** | **[Staff Software Engineer - Data](https://jobr.pro/job/29942880/staff-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Paris, France | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29945524/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Dublin, Ireland | On Site | Oct 10 |
-| **[Scottish Government](https://www.gov.scot/)** | **[Software Engineer](https://jobr.pro/job/29946435/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Galashiels, United Kingdom | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/29945532/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 10 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer- Python / Spark Big Data](https://jobr.pro/job/29946492/lead-software-engineer-python-spark-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Oct 10 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java Full Stack](https://jobr.pro/job/29946467/lead-software-engineer-java-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 10 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III Database SQl Developer](https://jobr.pro/job/29946485/software-engineer-iii-database-sql-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer for AI/Model-first Business Solutions](https://jobr.pro/job/29945550/software-engineer-for-aimodel-first-business-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II, Azure Core Economics](https://jobr.pro/job/29945555/software-engineer-ii-azure-core-economics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 10 |
-| **[Grundfos](https://www.grundfos.com/)** | **[Senior Software Engineer](https://jobr.pro/job/29932483/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bjerringbro, 82, DK, 8850 | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[System Software Engineer - WSD](https://jobr.pro/job/29945587/system-software-engineer-wsd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Dublin, Ireland | On Site | Oct 10 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Senior Lead Software Engineer - Fixed Income E-Trading UI Development Lead](https://jobr.pro/job/29946520/senior-lead-software-engineer-fixed-income-e-trading-ui-development-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, United Kingdom | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 7 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 0% remote | 11 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
