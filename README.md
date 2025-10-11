@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior System Software Engineer](https://jobr.pro/job/29997503/senior-system-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India, Pune | On Site | Oct 11 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Software Engineer](https://jobr.pro/job/29993825/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Diego, CALIFORNIA, United States | On Site | Oct 10 |
+| **[Visa](https://visa.com)** | **[Senior Software Engineer](https://jobr.pro/job/29993837/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Foster City, CA, United States | On Site | Oct 10 |
 | **[Claritev](https://www.multiplan.us/)** | **[Principle Software Engineer (remote)](https://jobr.pro/job/29971411/principle-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Work From Home, United States | Remote | Oct 10 |
+| **[Visa](https://visa.com)** | **[Staff Software Engineer - DevSecOps](https://jobr.pro/job/29993656/staff-software-engineer-devsecops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, TX, United States | On Site | Oct 10 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 3 (Linux/Bash/Python/HPC)](https://jobr.pro/job/29971490/software-engineer-3-linuxbashpythonhpc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Oct 10 |
 | **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 2 (Bash/Python/HPC)](https://jobr.pro/job/29971492/software-engineer-2-bashpythonhpc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fort Meade, Maryland | On Site | Oct 10 |
 | **[Real Time Consulting](https://real-time-consulting.com/)** | **[Software Engineer - Aircraft Surveillance Systems](https://jobr.pro/job/29969811/software-engineer-aircraft-surveillance-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Phoenix, Arizona | On Site | Oct 10 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Data Processing Infrastructure, Conduit](https://jobr.pro/job/29943618/software-engineer-data-processing-infrastructure-conduit?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 10 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Location and Context, Android](https://jobr.pro/job/29943653/software-engineer-location-and-context-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 10 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Jetpack Compose](https://jobr.pro/job/29943636/senior-software-engineer-jetpack-compose?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 10 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Google Chrome](https://jobr.pro/job/29943609/software-engineer-iii-full-stack-google-chrome?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 10 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Beam, Labs](https://jobr.pro/job/29943601/software-engineer-iii-google-beam-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA; Mountain View, CA, USA | On Site | Oct 10 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Evaluations and Data for Intelligence Team](https://jobr.pro/job/29943600/software-engineer-evaluations-and-data-for-intelligence-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Oct 10 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, MacService](https://jobr.pro/job/29943596/staff-software-engineer-macservice?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; New York, NY, USA | On Site | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 12 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 2% remote | 15 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
