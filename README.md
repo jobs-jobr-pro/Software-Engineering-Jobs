@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java - Enterprise Architecture](https://jobr.pro/job/30047460/software-engineer-java-enterprise-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 11 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Product Software Engineer - WPF Developer](https://jobr.pro/job/30046980/senior-product-software-engineer-wpf-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-NV-Minden | On Site | Oct 11 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Software Engineer Lead - Senior Software Engineer](https://jobr.pro/job/30046910/software-engineer-lead-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CA-ON-Mississauga | On Site | Oct 11 |
+| **[Spring Venture Group](https://springventuregroup.com)** | **[Backend Software Engineer III](https://jobr.pro/job/30074710/backend-software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kansas City, MO, United States | On Site | Oct 11 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Storage API](https://jobr.pro/job/30041388/senior-software-engineer-storage-api?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Oct 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Software Engineer (Multiple Positions)](https://jobr.pro/job/30040615/senior-software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer (Multiple Positions)](https://jobr.pro/job/30040616/backend-software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/30002818/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Oct 11 |
 | **[Baseten](https://www.baseten.co/)** | **[Software Engineer - Model API's](https://jobr.pro/job/30008925/software-engineer-model-apis?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Oct 11 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/30038337/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 11 |
-| **[BMW Group](https://www.bmwgroup.com)** | **[FG-AM ERP Software Engineer Specialist (SAP FI/CO Techno Functional)](https://jobr.pro/job/30008146/fg-am-erp-software-engineer-specialist-sap-fico-techno-functional?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Greenville, South Carolina, US | On Site | Oct 11 |
 
 ---
 
