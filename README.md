@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 12, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 12, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[H&M Group](https://hmgroup.com/)** | **[Senior Software Engineer- Cross Product Coordinator](https://jobr.pro/job/30075717/senior-software-engineer-cross-product-coordinator?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 12 |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[Python Software Engineer](https://jobr.pro/job/30075721/python-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 12 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer](https://jobr.pro/job/30047471/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 11 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (Java) – Global Merchant Services Technology](https://jobr.pro/job/30047466/software-engineer-java-global-merchant-services-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 11 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (Java/Scala, Python)](https://jobr.pro/job/30047463/software-engineer-javascala-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - DevOps Engineer](https://jobr.pro/job/30039551/software-engineer-ii-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 11 |
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer – Devops](https://jobr.pro/job/30002817/senior-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Oct 11 |
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/30002818/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Oct 11 |
-| **[Baseten](https://www.baseten.co/)** | **[Software Engineer - Model API's](https://jobr.pro/job/30008925/software-engineer-model-apis?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Oct 11 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/30038337/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 14 companies | Avg salary: 224k  
+**Current Stats:** 50 jobs | 6% remote | 15 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
