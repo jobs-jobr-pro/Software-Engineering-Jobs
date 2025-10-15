@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Heico Corporation](https://heico.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30287447/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Oct 15 |
 | **[Omnicell](https://www.omnicell.com/)** | **[Software Engineer V](https://jobr.pro/job/30270155/software-engineer-v?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Oct 15 |
 | **[CES](https://cesltd.com/)** | **[Senior Software Engineer - 2805 (Remote)](https://jobr.pro/job/30266067/senior-software-engineer-2805-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | Remote | Oct 15 |
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Sr. Software Engineer (.Net)](https://jobr.pro/job/30264454/sr-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Oct 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML GenAI, Google Cloud AI](https://jobr.pro/job/30251777/senior-software-engineer-aiml-genai-google-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Labs](https://jobr.pro/job/30251771/staff-software-engineer-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer Manager II, Infrastructure, Core](https://jobr.pro/job/30251758/software-engineer-manager-ii-infrastructure-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Networking](https://jobr.pro/job/30251732/software-engineer-iii-google-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 23 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 6% remote | 24 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
