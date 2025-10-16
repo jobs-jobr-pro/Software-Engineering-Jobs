@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Staff Software Engineer in Test (Strata Cloud Manager)](https://jobr.pro/job/30310682/senior-staff-software-engineer-in-test-strata-cloud-manager?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Oct 15 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Data Platform Software Engineer](https://jobr.pro/job/30310712/staff-data-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Diego, CALIFORNIA, United States | On Site | Oct 15 |
+| **[VusionGroup SA](https://www.ses-imagotag.com)** | **[DevOps Software Engineer](https://jobr.pro/job/30310803/devops-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Coppell, TX, United States | On Site | Oct 15 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Staff Software Engineer (SAP BTP SRE)](https://jobr.pro/job/30310957/staff-software-engineer-sap-btp-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Oct 15 |
+| **[Talan](https://talan.com)** | **[C#.NET Software engineer - Trading applications](https://jobr.pro/job/30310964/cnet-software-engineer-trading-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | Oct 15 |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Software Engineer](https://jobr.pro/job/30293341/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Oct 15 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Software Engineer (L7 Security)](https://jobr.pro/job/30310983/sr-software-engineer-l7-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Oct 15 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Software Engineer (Prisma Access SASE)](https://jobr.pro/job/30311312/sr-software-engineer-prisma-access-sase?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Oct 15 |
 | **[Heico Corporation](https://heico.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30287447/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Oct 15 |
 | **[Omnicell](https://www.omnicell.com/)** | **[Software Engineer V](https://jobr.pro/job/30270155/software-engineer-v?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Oct 15 |
 | **[CES](https://cesltd.com/)** | **[Senior Software Engineer - 2805 (Remote)](https://jobr.pro/job/30266067/senior-software-engineer-2805-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | Remote | Oct 15 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Chrome Storage](https://jobr.pro/job/30251852/software-engineer-chrome-storage?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tokyo, Japan | On Site | Oct 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III](https://jobr.pro/job/30251839/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 15 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, Incubation Lab](https://jobr.pro/job/30251821/senior-software-engineer-aiml-incubation-lab?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belo Horizonte, State of Minas Gerais, Brazil | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Cluster Management, Borg](https://jobr.pro/job/30251815/senior-software-engineer-cluster-management-borg?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Google Workspace](https://jobr.pro/job/30251797/software-engineer-iii-aiml-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Google Cloud Platform](https://jobr.pro/job/30251792/software-engineer-iii-full-stack-google-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Core](https://jobr.pro/job/30251785/software-engineer-iii-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Search](https://jobr.pro/job/30251780/senior-software-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML GenAI, Google Cloud AI](https://jobr.pro/job/30251777/senior-software-engineer-aiml-genai-google-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Labs](https://jobr.pro/job/30251771/staff-software-engineer-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 15 |
-| **[Google](https://www.google.com/)** | **[Software Engineer Manager II, Infrastructure, Core](https://jobr.pro/job/30251758/software-engineer-manager-ii-infrastructure-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 24 companies | Avg salary: 223k  
+**Current Stats:** 50 jobs | 8% remote | 30 companies | Avg salary: 212k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
