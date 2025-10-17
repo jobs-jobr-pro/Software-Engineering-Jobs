@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Software Engineer II (Remote)](https://jobr.pro/job/30479006/software-engineer-ii-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 17 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer (Remote)](https://jobr.pro/job/30479005/sr-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 17 |
 | **[KBR](https://www.kbr.com/)** | **[Software Engineer](https://jobr.pro/job/30474788/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne, VIC, AU | On Site | Oct 17 |
 | **[Syfe](https://www.syfe.com/)** | **[Software Engineer - DevOps](https://jobr.pro/job/30464352/software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Haryana, Gurugram, India | On Site | Oct 17 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[GLO - Principal Software Engineer (Programmer VI)](https://jobr.pro/job/30463110/glo-principal-software-engineer-programmer-vi?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Texas-Austin | On Site | Oct 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Platforms Infrastructure Engineering](https://jobr.pro/job/30450798/software-engineer-iii-platforms-infrastructure-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Workspace](https://jobr.pro/job/30450792/software-engineer-iii-infrastructure-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Search AI/ML](https://jobr.pro/job/30450791/software-engineer-iii-search-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML GenAI, Google Cloud Application Modernization](https://jobr.pro/job/30450780/software-engineer-iii-aiml-genai-google-cloud-application-modernization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Infrastructure](https://jobr.pro/job/30450745/senior-staff-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Ireland | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 18 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 4% remote | 19 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
