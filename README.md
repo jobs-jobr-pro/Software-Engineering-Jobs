@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Global Commercial Services](https://jobr.pro/job/30536471/software-engineer-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-New York-New York | On Site | Oct 18 |
+| **[Ally Financial](https://www.ally.com/)** | **[Principal - Software Engineer](https://jobr.pro/job/30534082/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 601 S. Tryon Street, NC | Remote | Oct 18 |
+| **[Synopsys Inc](https://synopsys.avature.net/)** | **[Software Engineer – Build & Porting](https://jobr.pro/job/30534052/software-engineer-build-porting?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santiago, Chile | On Site | Oct 18 |
+| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobr.pro/job/30531654/software-engineer-intern-monetization-technology-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Oct 18 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, iOS](https://jobr.pro/job/30529411/software-engineer-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA \| Remote, US | Remote | Oct 18 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Systems)](https://jobr.pro/job/30529397/software-engineer-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, WA | On Site | Oct 18 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/30529341/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA \| Remote, US | Remote | Oct 18 |
@@ -54,19 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer - Compiler](https://jobr.pro/job/30502983/software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/30502990/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/30502975/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
+| **[City of Oklahoma City](https://www.okc.gov/)** | **[Lead Software Engineer - City](https://jobr.pro/job/30537551/lead-software-engineer-city?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oklahoma City, OK, United States | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Observability and Reliability](https://jobr.pro/job/30502981/senior-software-engineer-observability-and-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer Intern](https://jobr.pro/job/30502931/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - India | Remote | Oct 18 |
 | **[LAIKA Studios](https://shop.laika.com)** | **[Sr Core Software Engineer](https://jobr.pro/job/30505529/sr-core-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hillsboro, OR | On Site | Oct 18 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30529839/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 18 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer, Online Services - Halo Studios](https://jobr.pro/job/30529842/senior-software-engineer-online-services-halo-studios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 18 |
-| **[Intuitive](https://www.intuitive.com)** | **[Senior Software Engineer](https://jobr.pro/job/30509699/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, United States | On Site | Oct 18 |
-| **[Marqeta](https://www.marqeta.com/)** | **[Staff Software Engineer - Credit Rewards](https://jobr.pro/job/30504869/staff-software-engineer-credit-rewards?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | Oct 18 |
-| **[Waymo](https://waymo.com/)** | **[2026 Summer Intern, PhD, Software Engineer, Strategic Selection](https://jobr.pro/job/30502402/2026-summer-intern-phd-software-engineer-strategic-selection?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 18 |
-| **[Telstra](https://www.telstra.com.au/)** | **[Senior Staff Software Engineer](https://jobr.pro/job/30491759/senior-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telstra ICC Bangalore, India | On Site | Oct 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 13 companies | Avg salary: 237k  
+**Current Stats:** 50 jobs | 12% remote | 14 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
