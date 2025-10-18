@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Telstra](https://www.telstra.com.au/)** | **[Senior Staff Software Engineer](https://jobr.pro/job/30491759/senior-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telstra ICC Bangalore, India | On Site | Oct 18 |
+| **[Telstra](https://www.telstra.com.au/)** | **[Principal Platform Software Engineer](https://jobr.pro/job/30491756/principal-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telstra ICC Bangalore, India | On Site | Oct 18 |
+| **[Sprinklr](https://www.sprinklr.com/)** | **[Lead Software Engineer](https://jobr.pro/job/30493741/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Haryana - Gurgaon | On Site | Oct 18 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Software Engineer II (Remote)](https://jobr.pro/job/30479006/software-engineer-ii-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 17 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer (Remote)](https://jobr.pro/job/30479005/sr-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 17 |
 | **[KBR](https://www.kbr.com/)** | **[Software Engineer](https://jobr.pro/job/30474788/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne, VIC, AU | On Site | Oct 17 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Android](https://jobr.pro/job/30450801/software-engineer-iii-full-stack-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge, MA, USA | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, Labs](https://jobr.pro/job/30450800/software-engineer-iii-front-end-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Payments](https://jobr.pro/job/30450799/software-engineer-iii-full-stack-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Platforms Infrastructure Engineering](https://jobr.pro/job/30450798/software-engineer-iii-platforms-infrastructure-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Workspace](https://jobr.pro/job/30450792/software-engineer-iii-infrastructure-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 17 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Search AI/ML](https://jobr.pro/job/30450791/software-engineer-iii-search-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 19 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 4% remote | 21 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
