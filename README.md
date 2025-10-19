@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[PHP SOFTWARE ENGINEER (WORDPRESS - TECHNOLOGY TEAM)](https://jobr.pro/job/30556696/php-software-engineer-wordpress-technology-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[Full-stack Software Engineer (PHP, JavaScript)](https://jobr.pro/job/30556697/full-stack-software-engineer-php-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[Senior Full-stack Software Engineer (PHP, JavaScript)](https://jobr.pro/job/30556698/senior-full-stack-software-engineer-php-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[Mastercard](https://www.mastercard.com/)** | **[Senior Software Engineer-1](https://jobr.pro/job/30555039/senior-software-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gdansk, Poland (Aiia) | On Site | Oct 19 |
 | **[小米科技](https://www.mi.com/)** | **[Backend Software Engineer(DBA)](https://jobr.pro/job/30552812/backend-software-engineerdba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Oct 18 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Global Commercial Services](https://jobr.pro/job/30536471/software-engineer-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-New York-New York | On Site | Oct 18 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer - Compiler](https://jobr.pro/job/30502983/software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/30502990/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/30502975/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Lead Software Engineer - City](https://jobr.pro/job/30537551/lead-software-engineer-city?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oklahoma City, OK, United States | On Site | Oct 18 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Observability and Reliability](https://jobr.pro/job/30502981/senior-software-engineer-observability-and-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer Intern](https://jobr.pro/job/30502931/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - India | Remote | Oct 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 15 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 10% remote | 14 companies | Avg salary: 236k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
