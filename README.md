@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Software Engineer-1](https://jobr.pro/job/30555039/senior-software-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gdansk, Poland (Aiia) | On Site | Oct 19 |
 | **[小米科技](https://www.mi.com/)** | **[Backend Software Engineer(DBA)](https://jobr.pro/job/30552812/backend-software-engineerdba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Oct 18 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Global Commercial Services](https://jobr.pro/job/30536471/software-engineer-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-New York-New York | On Site | Oct 18 |
 | **[Ally Financial](https://www.ally.com/)** | **[Principal - Software Engineer](https://jobr.pro/job/30534082/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 601 S. Tryon Street, NC | Remote | Oct 18 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Lead Software Engineer - City](https://jobr.pro/job/30537551/lead-software-engineer-city?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oklahoma City, OK, United States | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Observability and Reliability](https://jobr.pro/job/30502981/senior-software-engineer-observability-and-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer Intern](https://jobr.pro/job/30502931/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - India | Remote | Oct 18 |
-| **[LAIKA Studios](https://shop.laika.com)** | **[Sr Core Software Engineer](https://jobr.pro/job/30505529/sr-core-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hillsboro, OR | On Site | Oct 18 |
 
 ---
 
