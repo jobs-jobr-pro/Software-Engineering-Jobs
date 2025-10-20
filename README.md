@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nine](https://www.nineentertainmentco.com.au)** | **[Software Engineer](https://jobr.pro/job/30556999/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Sydney, NSW, Australia | On Site | Oct 19 |
+| **[IFS](https://www.ifs.com/)** | **[Senior Software Engineer / Lead Software Engineer (.NET, C#) - R&D](https://jobr.pro/job/30557012/senior-software-engineer-lead-software-engineer-net-c-rd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Colombo, WP, Sri Lanka | On Site | Oct 19 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[PHP SOFTWARE ENGINEER (WORDPRESS - TECHNOLOGY TEAM)](https://jobr.pro/job/30556696/php-software-engineer-wordpress-technology-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Full-stack Software Engineer (PHP, JavaScript)](https://jobr.pro/job/30556697/full-stack-software-engineer-php-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior Full-stack Software Engineer (PHP, JavaScript)](https://jobr.pro/job/30556698/senior-full-stack-software-engineer-php-javascript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Oct 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Frontend](https://jobr.pro/job/30502992/staff-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/30502977/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer - Compiler](https://jobr.pro/job/30502983/software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/30502990/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/30502975/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Oct 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 14 companies | Avg salary: 236k  
+**Current Stats:** 50 jobs | 10% remote | 16 companies | Avg salary: 236k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
