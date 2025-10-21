@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer (Hybrid- Oak, Brook IL)](https://jobr.pro/job/30685886/sr-software-engineer-hybrid-oak-brook-il?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Oct 21 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Software Engineer II](https://jobr.pro/job/30685882/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Oct 21 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Principal Software Engineer](https://jobr.pro/job/30680987/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 21 |
 | **[Onyx Point](https://www.onyxpoint.com)** | **[Software Engineer 3](https://jobr.pro/job/30680104/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tysons, VA | On Site | Oct 21 |
 | **[Trading Central](https://tradingcentral.com/)** | **[Software Engineer (Angular Front-end)](https://jobr.pro/job/30672138/software-engineer-angular-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ontario, Ottawa, Canada | On Site | Oct 21 |
@@ -23,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[American Express](https://www.americanexpress.com/)** | **[Backend Software Engineer - Digital Banking, Payments](https://jobr.pro/job/30666896/backend-software-engineer-digital-banking-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 21 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer II](https://jobr.pro/job/30666885/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 21 |
 | **[Textron Aviation](https://txtav.com/)** | **[Software Engineer (Aircraft Systems) - TRU Simulation](https://jobr.pro/job/30665731/software-engineer-aircraft-systems-tru-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Lutz | On Site | Oct 21 |
+| **[Distribution Innovation](https://www.di.no/)** | **[Senior Software Engineer](https://jobr.pro/job/30684508/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oslo | On Site | Oct 21 |
 | **[First Solar](https://www.firstsolar.com/)** | **[Software Engineer- MES II USA](https://jobr.pro/job/30669063/software-engineer-mes-ii-usa?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Perrysburg, OH, United States | On Site | Oct 21 |
 | **[Copart](https://www.copart.com/)** | **[Software Engineer](https://jobr.pro/job/30669814/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | England, MK43 9EJ, GB | On Site | Oct 21 |
 | **[Synopsys Inc](https://synopsys.avature.net/)** | **[Principal Software Engineer - User Interface (Exton, PA)](https://jobr.pro/job/30662553/principal-software-engineer-user-interface-exton-pa?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pennsylvania, Exton | On Site | Oct 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Cloud Business Platforms](https://jobr.pro/job/30654311/software-engineer-iii-infrastructure-google-cloud-business-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Irvine, CA, USA | On Site | Oct 21 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, Core](https://jobr.pro/job/30654329/software-engineer-ii-full-stack-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 21 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Front End, Search](https://jobr.pro/job/30654289/senior-software-engineer-front-end-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA, USA; New York, NY, USA | On Site | Oct 21 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Google Cloud Business Platform](https://jobr.pro/job/30654278/senior-staff-software-engineer-google-cloud-business-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 21 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, Payments Platform](https://jobr.pro/job/30654275/senior-software-engineer-aiml-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 21 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Technical Infrastructure, Waze](https://jobr.pro/job/30654272/software-engineer-iii-technical-infrastructure-waze?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv, Israel | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 22 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 8% remote | 24 companies | Avg salary: 210k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
