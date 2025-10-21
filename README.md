@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 20:56 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ATI Restoration, LLC](https://atirestoration.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30597675/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Oct 20 |
 | **[KBR](https://www.kbr.com/)** | **[Software Engineer](https://jobr.pro/job/30590533/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne, VIC, AU | On Site | Oct 20 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30585967/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vilnius, Vilnius, LT | Remote | Oct 20 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Software Engineer I](https://jobr.pro/job/30591543/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hanover, MD | On Site | Oct 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NICE](https://www.nice.com/)** | **[Software Engineer](https://jobr.pro/job/30562703/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune | On Site | Oct 20 |
 | **[DigiCert](https://www.digicert.com/)** | **[Senior Software Engineer](https://jobr.pro/job/30561577/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore | On Site | Oct 20 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/30573380/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 20 |
-| **[NICE](https://www.nice.com/)** | **[Specialist Software Engineer](https://jobr.pro/job/30562705/specialist-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune | On Site | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 34 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 4% remote | 35 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
