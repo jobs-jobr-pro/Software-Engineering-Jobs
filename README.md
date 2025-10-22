@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Shell](https://www.shell.com/)** | **[Sr. Software Engineer - CPI](https://jobr.pro/job/30706190/sr-software-engineer-cpi?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore RMZ-ECO WORLD, India | On Site | Oct 22 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer (Hybrid- Oak, Brook IL)](https://jobr.pro/job/30685886/sr-software-engineer-hybrid-oak-brook-il?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Oct 21 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Software Engineer II](https://jobr.pro/job/30685882/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Oct 21 |
 | **[Avid Technology Professionals](https://www.avidtec.com/)** | **[Principal Software Engineer](https://jobr.pro/job/30680987/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Oct 21 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, Google Cloud Platforms](https://jobr.pro/job/30654321/software-engineer-iii-front-end-google-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Oct 21 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Cloud Business Platforms](https://jobr.pro/job/30654311/software-engineer-iii-infrastructure-google-cloud-business-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Irvine, CA, USA | On Site | Oct 21 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, Core](https://jobr.pro/job/30654329/software-engineer-ii-full-stack-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 21 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Front End, Search](https://jobr.pro/job/30654289/senior-software-engineer-front-end-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA, USA; New York, NY, USA | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 24 companies | Avg salary: 210k  
+**Current Stats:** 50 jobs | 8% remote | 25 companies | Avg salary: 208k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
