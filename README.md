@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/30968801/software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Oct 24 |
+| **[ADP](https://www.adp.com/)** | **[Associate Software Engineer](https://jobr.pro/job/30962829/associate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, IND-TN, India | On Site | Oct 24 |
+| **[Fabric](https://fabrichealth.com/)** | **[Principal Software Engineer](https://jobr.pro/job/30959835/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Oct 24 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/30952358/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Budapest, Budapest, HU | On Site | Oct 24 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer II - Java - Enterprise Architecture](https://jobr.pro/job/30944366/senior-software-engineer-ii-java-enterprise-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 24 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (CSS/Node.JS/Java) - IPCW Migrations](https://jobr.pro/job/30944356/software-engineer-cssnodejsjava-ipcw-migrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 24 |
@@ -28,6 +31,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Textron Inc.](https://www.textron.com/)** | **[Software Engineer](https://jobr.pro/job/30940214/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Georgia-Augusta | On Site | Oct 24 |
 | **[Textron Inc.](https://www.textron.com/)** | **[Software Engineer II/III](https://jobr.pro/job/30940084/software-engineer-iiiii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Louisiana-Slidell | On Site | Oct 24 |
 | **[Synopsys Inc](https://synopsys.avature.net/)** | **[Software Engineer - User Interface (Exton, PA)](https://jobr.pro/job/30939013/software-engineer-user-interface-exton-pa?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pennsylvania, Exton | On Site | Oct 24 |
+| **[Akkodis](https://www.akkodis.com/)** | **[JR CONTROL SOFTWARE ENGINEER](https://jobr.pro/job/30969629/jr-control-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Emilia Romagna, Modena | On Site | Oct 24 |
 | **[Ally Financial](https://www.ally.com/)** | **[Principal - Software Engineer](https://jobr.pro/job/30938006/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Charlotte, NC, 601 S. Tryon Street, NC | Remote | Oct 24 |
 | **[ManTech](https://www.mantech.com/)** | **[Associate CNO Software Engineer](https://jobr.pro/job/30937869/associate-cno-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-CO-Aurora | On Site | Oct 24 |
 | **[ManTech](https://www.mantech.com/)** | **[CNO Software Engineer](https://jobr.pro/job/30937833/cno-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-MD-Hanover | On Site | Oct 24 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android Messages](https://jobr.pro/job/30932412/software-engineer-iii-android-messages?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Oct 24 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, SiteKit](https://jobr.pro/job/30932425/staff-software-engineer-sitekit?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zürich, Switzerland | On Site | Oct 24 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Notifications Quality](https://jobr.pro/job/30932398/software-engineer-ii-notifications-quality?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv, Israel | On Site | Oct 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Rollouts Sequencing](https://jobr.pro/job/30932387/software-engineer-iii-rollouts-sequencing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Ireland | On Site | Oct 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Android Development, Android System UI](https://jobr.pro/job/30932369/software-engineer-iii-android-development-android-system-ui?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Engineering Productivity](https://jobr.pro/job/30932332/software-engineer-iii-engineering-productivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA | On Site | Oct 24 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Android Ecosystem](https://jobr.pro/job/30932302/software-engineer-iii-full-stack-android-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 20 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 10% remote | 24 companies | Avg salary: 214k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
