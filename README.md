@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aptiv](https://www.aptiv.com/)** | **[Software Engineer](https://jobr.pro/job/30887419/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND - India Tech Center | On Site | Oct 24 |
 | **[Albany International](https://www.albint.com/)** | **[Software Engineer](https://jobr.pro/job/30873850/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portsmouth, NH, United States | On Site | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Software Engineer III (.NET/SQL) REMOTE](https://jobr.pro/job/30871578/software-engineer-iii-netsql-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Principal Software Engineer (remote)](https://jobr.pro/job/30871520/principal-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Work From Home, United States | Remote | Oct 23 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, TPU Performance](https://jobr.pro/job/30844307/senior-software-engineer-tpu-performance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 23 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, YouTube Ads, Video Playbacks](https://jobr.pro/job/30844302/senior-software-engineer-youtube-ads-video-playbacks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 23 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Systems Research, PhD, Early Career](https://jobr.pro/job/30844287/software-engineer-systems-research-phd-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; Seattle, WA, USA | On Site | Oct 23 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Workload Characterizations, Early Careers, PhD](https://jobr.pro/job/30844276/software-engineer-workload-characterizations-early-careers-phd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 20 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 10% remote | 21 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
