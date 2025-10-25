@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Systems/Software Engineer](https://jobr.pro/job/31035224/systemssoftware-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Arlington, VA, United States | On Site | Oct 25 |
 | **[Amentum](https://www.amentum.com/)** | **[Jr Level Software Engineer](https://jobr.pro/job/31023388/jr-level-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Maryland-Hanover-20362-HNV4 | On Site | Oct 25 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer III - Java - Digital payments](https://jobr.pro/job/31023335/software-engineer-iii-java-digital-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 25 |
 | **[Nintendo](https://www.nintendo.com/)** | **[Intern - Software Engineer, Analytics (NTD)](https://jobr.pro/job/31022873/intern-software-engineer-analytics-ntd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WA-Redmond | On Site | Oct 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java](https://jobr.pro/job/31024038/lead-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 25 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - (Python, Pyspark, Databricks, AWS)](https://jobr.pro/job/31024039/software-engineer-iii-python-pyspark-databricks-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Oct 25 |
 | **[estos GmbH](https://www.estos.de/)** | **[Senior Software Engineer C++ (all genders)](https://jobr.pro/job/31001923/senior-software-engineer-c-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Starnberg - estos, DE | On Site | Oct 25 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31016936/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 25 |
 
 ---
 
