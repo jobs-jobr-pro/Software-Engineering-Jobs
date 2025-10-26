@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 26, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 26, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Software Engineer](https://jobr.pro/job/31043103/senior-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, California, United States | On Site | Oct 26 |
 | **[Boeing](https://www.boeing.com/)** | **[Lead Software Engineer](https://jobr.pro/job/31042353/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND - Bangalore, India | On Site | Oct 26 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Software Engineer - Data Management](https://jobr.pro/job/31042695/senior-software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 26 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Software Engineer - Data Management](https://jobr.pro/job/31042691/lead-software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 26 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, On-Device Machine Learning](https://jobr.pro/job/31015734/senior-staff-software-engineer-on-device-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 25 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, GenAI, Performance Engineering](https://jobr.pro/job/31015733/senior-staff-software-engineer-genai-performance-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Google Workspace](https://jobr.pro/job/31015722/software-engineer-iii-full-stack-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Oct 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML GenAI, YouTube](https://jobr.pro/job/31015716/software-engineer-iii-aiml-genai-youtube?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Bruno, CA, USA | On Site | Oct 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 11 companies | Avg salary: 218k  
+**Current Stats:** 50 jobs | 4% remote | 12 companies | Avg salary: 222k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** python, aws, kubernetes, ai, javascript  
+**Trending Skills:** react, python, aws, kubernetes, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
