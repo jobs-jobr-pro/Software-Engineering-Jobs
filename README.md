@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Software Engineer - Data Management](https://jobr.pro/job/31042695/senior-software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 26 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Software Engineer - Data Management](https://jobr.pro/job/31042691/lead-software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 26 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Software Engineer - Data Management](https://jobr.pro/job/31042697/software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 26 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Embedded Software Engineer, Annapurna](https://jobr.pro/job/31043726/embedded-software-engineer-annapurna?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, TA, ISR | On Site | Oct 26 |
 | **[ECS](https://ecstech.com/)** | **[Systems/Software Engineer](https://jobr.pro/job/31035224/systemssoftware-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Arlington, VA, United States | On Site | Oct 25 |
 | **[Amentum](https://www.amentum.com/)** | **[Jr Level Software Engineer](https://jobr.pro/job/31023388/jr-level-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Maryland-Hanover-20362-HNV4 | On Site | Oct 25 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer III - Java - Digital payments](https://jobr.pro/job/31023335/software-engineer-iii-java-digital-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Oct 25 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, BigQuery Platform Infrastructure](https://jobr.pro/job/31015766/senior-software-engineer-bigquery-platform-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA; Kirkland, WA, USA | On Site | Oct 25 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, On-Device Machine Learning](https://jobr.pro/job/31015734/senior-staff-software-engineer-on-device-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 25 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, GenAI, Performance Engineering](https://jobr.pro/job/31015733/senior-staff-software-engineer-genai-performance-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Google Workspace](https://jobr.pro/job/31015722/software-engineer-iii-full-stack-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Oct 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 12 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 4% remote | 13 companies | Avg salary: 223k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
