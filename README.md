@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 27, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverWell - Intermediate Software Engineer (Remote, NZ)](https://jobr.pro/job/31088038/everwell-intermediate-software-engineer-remote-nz?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (New Zealand) | Remote | Oct 28 |
+| **[Claritev](https://www.multiplan.us/)** | **[Principal Software Engineer (remote)](https://jobr.pro/job/31082091/principal-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Work From Home, United States | Remote | Oct 27 |
 | **[Nike](https://www.nike.com/)** | **[Software Engineer 3](https://jobr.pro/job/31074965/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Beaverton, OR, US | On Site | Oct 27 |
 | **[Field Materials](https://fieldmaterials.com/)** | **[Senior Software Engineer (Backend) (Remote)](https://jobr.pro/job/31067575/senior-software-engineer-backend-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, United States of America | Remote | Oct 27 |
 | **[Emerson](https://www.emerson.com/)** | **[Distinguished Software Engineer](https://jobr.pro/job/31066859/distinguished-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, TX, United States | On Site | Oct 27 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DTU - Technical University of Denmark](https://www.dtu.dk/)** | **[IBIS Principal Software Engineer - DTU Bioengineering](https://jobr.pro/job/31060417/ibis-principal-software-engineer-dtu-bioengineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kgs. Lyngby, Denmark | On Site | Oct 27 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer - Microsoft Marketplace team](https://jobr.pro/job/31059272/software-engineer-microsoft-marketplace-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Herzliya, Tel Aviv, Israel | On Site | Oct 27 |
 | **[Nokia](https://www.nokia.com/)** | **[Software Engineer & AI Developer Trainee](https://jobr.pro/job/31065402/software-engineer-ai-developer-trainee?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal | On Site | Oct 27 |
-| **[Coface](https://www.coface.com)** | **[Software Engineer Python](https://jobr.pro/job/31062326/software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bois-Colombes, IDF, France | On Site | Oct 27 |
-| **[exmox GmbH](https://exmox.com)** | **[Full Stack Software Engineer - Remote (f/m/x)](https://jobr.pro/job/31062867/full-stack-software-engineer-remote-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Germany - Remote | Remote | Oct 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 29 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 14% remote | 29 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
