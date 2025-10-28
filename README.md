@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Software Engineer](https://jobr.pro/job/31170466/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boston, MA, United States | On Site | Oct 28 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Senior Software Engineer](https://jobr.pro/job/31164890/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Oct 28 |
 | **[EverC](https://www.everc.com/)** | **[Software Engineer](https://jobr.pro/job/31163929/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 28 |
+| **[Mercury Systems](https://www.mrcy.com)** | **[Software Engineer (Proficiency in C language)](https://jobr.pro/job/31175404/software-engineer-proficiency-in-c-language?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Upper Saddle River, NJ, United States | On Site | Oct 28 |
 | **[NeuReality](https://www.neureality.ai/)** | **[Software Engineer - Junior Position](https://jobr.pro/job/31164405/software-engineer-junior-position?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, center, IL | On Site | Oct 28 |
 | **[LiveLike](https://livelike.com/)** | **[Software Engineer, Web (Remote)](https://jobr.pro/job/31157147/software-engineer-web-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Haryana, Gurugram, India | Remote | Oct 28 |
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Sr. Software Engineer (.Net)](https://jobr.pro/job/31155609/sr-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Oct 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Networking](https://jobr.pro/job/31140308/software-engineer-iii-google-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 28 |
 | **[Google](https://www.google.com/)** | **[Fullstack Software Engineer, Core Labs, AI/ML](https://jobr.pro/job/31140298/fullstack-software-engineer-core-labs-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA, USA | On Site | Oct 28 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android Toolkit](https://jobr.pro/job/31140271/software-engineer-iii-android-toolkit?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 28 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer Lead, AI/ML](https://jobr.pro/job/31140266/staff-software-engineer-lead-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 22 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 2% remote | 23 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
