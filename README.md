@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,11 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[PetIQ](https://petiq.com/)** | **[Sr. Software Engineer- First Dollar (Remote)](https://jobr.pro/job/31260207/sr-software-engineer-first-dollar-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
+| **[CME Group](https://www.cmegroup.com/)** | **[Software Engineer II - India](https://jobr.pro/job/31276634/software-engineer-ii-india?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Bagmane Tridib, India | On Site | Oct 30 |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Backend Software Engineer-DBA](https://jobr.pro/job/31274043/backend-software-engineer-dba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Oct 29 |
 | **[PetIQ](https://petiq.com/)** | **[Sr. Software Engineer (Hybrid- Oak, Brook IL)](https://jobr.pro/job/31260206/sr-software-engineer-hybrid-oak-brook-il?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Oct 29 |
+| **[PetIQ](https://petiq.com/)** | **[Sr. Software Engineer- First Dollar (Remote)](https://jobr.pro/job/31260207/sr-software-engineer-first-dollar-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
 | **[PetIQ](https://petiq.com/)** | **[Sr. Software Engineer – Developer Experience (Remote)](https://jobr.pro/job/31260189/sr-software-engineer-developer-experience-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
 | **[PetIQ](https://petiq.com/)** | **[Software Engineer II (Remote)](https://jobr.pro/job/31260170/software-engineer-ii-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
 | **[PetIQ](https://petiq.com/)** | **[Sr. Software Engineer (Remote)](https://jobr.pro/job/31260169/sr-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Oct 29 |
+| **[Veho](https://www.shipveho.com/)** | **[Senior Mobile Software Engineer - Facilities Tech](https://jobr.pro/job/31263092/senior-mobile-software-engineer-facilities-tech?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Atlanta, GA, Dallas, TX, Framingham, MA, New York, NY, Philadelphia, PA | On Site | Oct 29 |
 | **[Koenigsegg Automotive AB](https://www.koenigsegg.com/)** | **[High Voltage Control Software Engineer](https://jobr.pro/job/31257413/high-voltage-control-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ängelholm | On Site | Oct 29 |
 | **[Open Systems Technologies Corporation](https://www.ostcorpweb.net/)** | **[Automated Test Framework Software Engineer](https://jobr.pro/job/31255269/automated-test-framework-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD, United States | On Site | Oct 29 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer II - Java - Enterprise ACE Platform](https://jobr.pro/job/31246435/senior-software-engineer-ii-java-enterprise-ace-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Oct 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Mainline Modularization, Android](https://jobr.pro/job/31233856/senior-software-engineer-mainline-modularization-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 29 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, V8, Performance Engineering](https://jobr.pro/job/31233837/software-engineer-iii-v8-performance-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Munich, Germany | On Site | Oct 29 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Mobile (iOS), Google Workspace](https://jobr.pro/job/31233801/software-engineer-iii-mobile-ios-google-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Raleigh, NC, USA; Durham, NC, USA | On Site | Oct 29 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, AI and Infrastructure](https://jobr.pro/job/31233788/senior-software-engineer-aiml-ai-and-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA; Sunnyvale, CA, USA | On Site | Oct 29 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Performance, AI and Infrastructure](https://jobr.pro/job/31233769/senior-software-engineer-performance-ai-and-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 29 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Online-to-Offline, Ads](https://jobr.pro/job/31233765/staff-software-engineer-online-to-offline-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 23 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 12% remote | 26 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
