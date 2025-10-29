@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff / Lead Software Engineer (Python/Golang, AWS)](https://jobr.pro/job/31191466/staff-lead-software-engineer-pythongolang-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eveleigh, NSW - 5-7 Central Ave, Australia | On Site | Oct 29 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff Software Engineer](https://jobr.pro/job/31191465/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Oct 29 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Software Engineer](https://jobr.pro/job/31170466/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boston, MA, United States | On Site | Oct 28 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Senior Software Engineer](https://jobr.pro/job/31164890/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Oct 28 |
 | **[EverC](https://www.everc.com/)** | **[Software Engineer](https://jobr.pro/job/31163929/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Data Warehouse, Napa, Core](https://jobr.pro/job/31140317/staff-software-engineer-data-warehouse-napa-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 28 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Chrome Browser Infrastructure](https://jobr.pro/job/31140313/senior-software-engineer-chrome-browser-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 28 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Networking](https://jobr.pro/job/31140308/software-engineer-iii-google-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 28 |
-| **[Google](https://www.google.com/)** | **[Fullstack Software Engineer, Core Labs, AI/ML](https://jobr.pro/job/31140298/fullstack-software-engineer-core-labs-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA, USA | On Site | Oct 28 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Android Toolkit](https://jobr.pro/job/31140271/software-engineer-iii-android-toolkit?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Oct 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 23 companies | Avg salary: 199k  
+**Current Stats:** 50 jobs | 2% remote | 24 companies | Avg salary: 199k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
