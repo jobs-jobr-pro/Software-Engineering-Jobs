@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 30, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nike](https://www.nike.com/)** | **[Software Engineer 3](https://jobr.pro/job/31351940/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Beaverton, OR, US | On Site | Oct 30 |
+| **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Senior Backend Software Engineer](https://jobr.pro/job/31347517/senior-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ciudad de México, CDMX, MX | Remote | Oct 30 |
+| **[Amentum](https://www.amentum.com/)** | **[Software Engineer](https://jobr.pro/job/31338539/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Oct 30 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Product Software Engineer-Sr Software Engineer ( Java with distributed DB)](https://jobr.pro/job/31337429/product-software-engineer-sr-software-engineer-java-with-distributed-db?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada | On Site | Oct 30 |
+| **[Nintendo](https://www.nintendo.com/)** | **[Intern - Software Engineer, Installers (NTD)](https://jobr.pro/job/31337330/intern-software-engineer-installers-ntd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WA-Redmond | On Site | Oct 30 |
+| **[Compare the Market](https://www.comparethemarket.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31335064/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United Kingdom | On Site | Oct 30 |
+| **[Compare the Market](https://www.comparethemarket.com/)** | **[Software Engineer](https://jobr.pro/job/31335058/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United Kingdom | On Site | Oct 30 |
+| **[Radware](https://www.radware.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31334318/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IL-IL-Tel Aviv | On Site | Oct 30 |
+| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer – Packaging (Windows Expansion)](https://jobr.pro/job/31333386/senior-software-engineer-packaging-windows-expansion?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Oct 30 |
+| **[Synopsys Inc](https://synopsys.avature.net/)** | **[Principal Full Stack Cloud & AI Software Engineer](https://jobr.pro/job/31332981/principal-full-stack-cloud-ai-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | California, US (California) Off-Site | On Site | Oct 30 |
+| **[Evooq](https://www.evooq.ch)** | **[Senior Software Engineer](https://jobr.pro/job/31333494/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Oct 30 |
+| **[Nexthink](https://www.nexthink.com)** | **[Senior Software Engineer (Java)](https://jobr.pro/job/31333502/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Madrid, MD, Spain | On Site | Oct 30 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Software Engineer, Ads Measurement & Effectiveness](https://jobr.pro/job/31331814/senior-software-engineer-ads-measurement-effectiveness?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, New York, United States | On Site | Oct 30 |
+| **[NECSWS](https://www.necsws.com)** | **[Senior Software Engineer - Full stack (Java or Python + React or Angular)](https://jobr.pro/job/31333522/senior-software-engineer-full-stack-java-or-python-react-or-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, MH, India | On Site | Oct 30 |
+| **[AUMOVIO](https://www.continental-automotive.com/)** | **[Software Engineer or Analyst](https://jobr.pro/job/31333526/software-engineer-or-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Várzea Paulista, SP, Brazil | On Site | Oct 30 |
 | **[Meta](https://www.meta.com/)** | **[Embedded Software Engineer, BSP/Kernel](https://jobr.pro/job/31328211/embedded-software-engineer-bspkernel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA | On Site | Oct 30 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Technical Leadership)](https://jobr.pro/job/31328149/software-engineer-technical-leadership?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Oct 30 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Product](https://jobr.pro/job/31328045/software-engineer-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Oct 30 |
@@ -46,27 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Vertex Model Garden](https://jobr.pro/job/31327167/software-engineer-vertex-model-garden?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Oct 30 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, Learning and Education](https://jobr.pro/job/31327135/software-engineer-ii-full-stack-learning-and-education?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 30 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Capital Markets Technology, Google Cloud Platform](https://jobr.pro/job/31327086/senior-software-engineer-capital-markets-technology-google-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 30 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/31333540/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Oct 30 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31328856/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 30 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java and AWS (Emerging Payments)](https://jobr.pro/job/31329360/lead-software-engineer-java-and-aws-emerging-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 30 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/31328861/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 30 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer](https://jobr.pro/job/31328883/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 30 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/31329381/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Oct 30 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer](https://jobr.pro/job/31329374/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 30 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java FullStack](https://jobr.pro/job/31329376/software-engineer-iii-java-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 30 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - DevOps Engineer](https://jobr.pro/job/31329402/software-engineer-iii-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Oct 30 |
-| **[Liven](https://liven.love/)** | **[Back End Software Engineer](https://jobr.pro/job/31317609/back-end-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Jakarta, Indonesia | On Site | Oct 30 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II (Azure HPC/AI)](https://jobr.pro/job/31328909/software-engineer-ii-azure-hpcai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Dublin, Ireland | On Site | Oct 30 |
-| **[HASOMED GmbH](https://www.hasomed.de/)** | **[Senior Software Engineer (m/w/d)](https://jobr.pro/job/31319654/senior-software-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Magdeburg, Germany | On Site | Oct 30 |
-| **[RentSpree](https://www.rentspree.com/)** | **[Senior Software Engineer (Full stack)](https://jobr.pro/job/31319648/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangkok, Thailand | On Site | Oct 30 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Software Engineer (m/f/d)](https://jobr.pro/job/31303403/senior-software-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10623 | On Site | Oct 30 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[SE - Software Engineer](https://jobr.pro/job/31326665/se-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 30 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Software Engineer](https://jobr.pro/job/31326672/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Oct 30 |
-| **[Sana Commerce](https://www.sana-commerce.com)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/31307587/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cape Town, WC, South Africa | On Site | Oct 30 |
-| **[Veeam Software](https://www.veeam.com/)** | **[Staff Software Engineer, SaaS Data Protection](https://jobr.pro/job/31304005/staff-software-engineer-saas-data-protection?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Oct 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 12 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
