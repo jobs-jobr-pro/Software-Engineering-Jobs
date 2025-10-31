@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Akkodis](https://www.akkodis.com/)** | **[Junior Software Engineer – Automotive](https://jobr.pro/job/31447011/junior-software-engineer-automotive?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Piemonte, Torino | On Site | Oct 31 |
+| **[Granite Telecommunications](https://www.granitenet.com/)** | **[Software Engineer IV](https://jobr.pro/job/31435245/software-engineer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Quincy, MA, United States | On Site | Oct 31 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/31430250/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lisbon, Lisbon, PT | On Site | Oct 31 |
 | **[Euroclear](https://www.euroclear.com/)** | **[Senior Software Engineer – Java Full Stack](https://jobr.pro/job/31425605/senior-software-engineer-java-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland | On Site | Oct 31 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Engineer 1](https://jobr.pro/job/31422745/software-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Maryland-Hanover-20362-HNV4 | On Site | Oct 31 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer- SDLC](https://jobr.pro/job/31411466/software-engineer-sdlc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, LONDON, United Kingdom | On Site | Oct 31 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/31412854/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belgrade, Belgrade, Serbia | On Site | Oct 31 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31412857/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Oct 31 |
-| **[Entain](https://www.entaingroup.com)** | **[Senior Software Engineer - Angular](https://jobr.pro/job/31416975/senior-software-engineer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sofia, Sofia-Capital, Bulgaria | On Site | Oct 31 |
-| **[Dexa Group](https://www.dexagroup.com/)** | **[Junior Software Engineer](https://jobr.pro/job/31410409/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tangerang Selatan, Banten, Indonesia | On Site | Oct 31 |
 
 ---
 
