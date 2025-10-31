@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff Software Engineer - Full Stack (.NET / Next.js)](https://jobr.pro/job/31368976/staff-software-engineer-full-stack-net-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Oct 31 |
 | **[Nike](https://www.nike.com/)** | **[Software Engineer 3](https://jobr.pro/job/31351940/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Beaverton, OR, US | On Site | Oct 30 |
 | **[Sequoia Connect](https://www.sequoia-connect.com)** | **[Senior Backend Software Engineer](https://jobr.pro/job/31347517/senior-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ciudad de México, CDMX, MX | Remote | Oct 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Engineer](https://jobr.pro/job/31338539/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Oct 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, Learning and Education](https://jobr.pro/job/31327135/software-engineer-ii-full-stack-learning-and-education?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 30 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Capital Markets Technology, Google Cloud Platform](https://jobr.pro/job/31327086/senior-software-engineer-capital-markets-technology-google-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/31333540/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Oct 30 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31328856/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Oct 30 |
 
 ---
 
