@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,11 +13,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/31504555/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sarajevo, Sarajevo, BA | On Site | Nov 01 |
+| **[Amentum](https://www.amentum.com/)** | **[Software Engineer 4](https://jobr.pro/job/31499711/software-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Maryland-Fort Meade-20362-FMD2 | On Site | Nov 01 |
+| **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Sr. Software Engineer (.Net)](https://jobr.pro/job/31499187/sr-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 01 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31499024/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-WA-Seattle | On Site | Nov 01 |
+| **[Middlesex University Dubai](https://www.mdx.ac.ae/)** | **[Backend Software Engineer Intern (Apply via link)](https://jobr.pro/job/31497700/backend-software-engineer-intern-apply-via-link?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dubai, United Arab Emirates | On Site | Nov 01 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Software Engineer / Data Scientist](https://jobr.pro/job/31495045/software-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zaventem | On Site | Nov 01 |
+| **[IKEA](https://www.ikea.com/)** | **[Software Engineer (IKEA Service Office)](https://jobr.pro/job/31493794/software-engineer-ikea-service-office?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Sebastián de los Reyes | On Site | Nov 01 |
+| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Terminal Deployment Infrastructure](https://jobr.pro/job/31493781/senior-software-engineer-terminal-deployment-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Nov 01 |
+| **[ManTech](https://www.mantech.com/)** | **[Expert CNO Software Engineer](https://jobr.pro/job/31493771/expert-cno-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-CO-Aurora | On Site | Nov 01 |
+| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer, Recommendation Architecture ShortText](https://jobr.pro/job/31493321/software-engineer-recommendation-architecture-shorttext?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Network](https://jobr.pro/job/31490155/software-engineer-network?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Android)](https://jobr.pro/job/31490147/software-engineer-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Systems Machine Learning](https://jobr.pro/job/31490132/software-engineer-systems-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY | On Site | Nov 01 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Chrome iOS](https://jobr.pro/job/31489612/software-engineer-chrome-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Washington D.C., DC, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud, Dataproc](https://jobr.pro/job/31489605/software-engineer-iii-google-cloud-dataproc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; Kirkland, WA, USA | On Site | Nov 01 |
+| **[Google](https://www.google.com/)** | **[Software Engineer, Chrome iOS](https://jobr.pro/job/31489612/software-engineer-chrome-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Washington D.C., DC, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Ads](https://jobr.pro/job/31489591/software-engineer-iii-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Irvine, CA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, HPC Solutions](https://jobr.pro/job/31489573/staff-software-engineer-hpc-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Full Stack, Public Sector](https://jobr.pro/job/31489562/senior-software-engineer-full-stack-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Reston, VA, USA | On Site | Nov 01 |
@@ -46,27 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, AICore](https://jobr.pro/job/31489403/staff-software-engineer-aicore?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Nov 01 |
 | **[CoreMedia](https://www.coremedia.com/)** | **[Software Engineer (Voice)](https://jobr.pro/job/31481983/software-engineer-voice?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal | On Site | Nov 01 |
 | **[Rippling](https://www.rippling.com/)** | **[Staff Software Engineer](https://jobr.pro/job/31482445/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Nov 01 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software EngineerLead Software Engineer - Java, AWS, React](https://jobr.pro/job/31498001/lead-software-engineerlead-software-engineer-java-aws-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 01 |
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer (Capabilities Unit) / EF / São Paulo - SP](https://jobr.pro/job/31477775/staff-software-engineer-capabilities-unit-ef-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Nov 01 |
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer (Exchange & Trade Experience Unit) / EF / São Paulo - SP](https://jobr.pro/job/31477773/staff-software-engineer-exchange-trade-experience-unit-ef-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Nov 01 |
 | **[myneva](https://www.myneva.eu/)** | **[Senior Software Engineer (m/f/d) .Net Backend](https://jobr.pro/job/31477519/senior-software-engineer-mfd-net-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal, remote | Remote | Nov 01 |
 | **[Quess Corp](https://www.quesscorp.com/)** | **[Junior Software Engineer](https://jobr.pro/job/31491135/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 01 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Full-stack Software Engineer](https://jobr.pro/job/31474120/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | bogota, DC, Colombia | On Site | Nov 01 |
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer - FrontEnd](https://jobr.pro/job/31462686/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Nov 01 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Power BI Senior Software Engineer](https://jobr.pro/job/31467014/power-bi-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Noida, Uttar Pradesh, India | On Site | Nov 01 |
-| **[Baton Trucking](https://www.baton.io/)** | **[Staff Software Engineer - Infrastructure, Machine Learning](https://jobr.pro/job/31459829/staff-software-engineer-infrastructure-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California, United States | On Site | Nov 01 |
-| **[Asana](https://asana.com/)** | **[Software Engineer, Developer Efficiency](https://jobr.pro/job/31467256/software-engineer-developer-efficiency?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City | On Site | Nov 01 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Software Engineer with Java](https://jobr.pro/job/31455824/software-engineer-with-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NL - AMSTERDAM PARNASSUSWEG 823 40 HRS, Netherlands | On Site | Nov 01 |
-| **[Capgemini](https://www.capgemini.com)** | **[Lead Software Engineer](https://jobr.pro/job/31461788/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, IN | On Site | Nov 01 |
-| **[PressReader](https://about.pressreader.com)** | **[Senior Software Engineer](https://jobr.pro/job/31485560/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Richmond, British Columbia, Canada | On Site | Nov 01 |
-| **[NetApp](https://www.netapp.com/)** | **[Software Engineer (C, C++)](https://jobr.pro/job/31480942/software-engineer-c-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, IN | On Site | Nov 01 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31490611/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
-| **[NewsBreak](https://www.newsbreak.com/)** | **[Software Engineer, Data Infra](https://jobr.pro/job/31471016/software-engineer-data-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, California, United States | On Site | Oct 31 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/31490613/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, Washington, United States | On Site | Oct 31 |
-| **[Gympass](https://www.gympass.com/)** | **[Senior Backend Software Engineer \| Challenges & Gamification](https://jobr.pro/job/31467089/senior-backend-software-engineer-challenges-gamification?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brazil (Remote) | Remote | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 19 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
