@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[小米科技](https://www.mi.com/)** | **[Backend Software Engineer(DBA)](https://jobr.pro/job/31449977/backend-software-engineerdba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Oct 31 |
 | **[Akkodis](https://www.akkodis.com/)** | **[Junior Software Engineer – Automotive](https://jobr.pro/job/31447011/junior-software-engineer-automotive?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Piemonte, Torino | On Site | Oct 31 |
 | **[Granite Telecommunications](https://www.granitenet.com/)** | **[Software Engineer IV](https://jobr.pro/job/31435245/software-engineer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Quincy, MA, United States | On Site | Oct 31 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/31430250/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lisbon, Lisbon, PT | On Site | Oct 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cermati.com](https://www.cermati.com)** | **[Software Engineer](https://jobr.pro/job/31417391/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Oct 31 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer- SDLC](https://jobr.pro/job/31411466/software-engineer-sdlc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, LONDON, United Kingdom | On Site | Oct 31 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/31412854/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belgrade, Belgrade, Serbia | On Site | Oct 31 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Software Engineer](https://jobr.pro/job/31412857/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 22 companies | Avg salary: 220k  
+**Current Stats:** 50 jobs | 4% remote | 23 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
