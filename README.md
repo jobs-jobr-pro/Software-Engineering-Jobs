@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 02, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 02, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[【26届校招】Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/31524515/26software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Nov 02 |
+| **[Gartner](https://www.gartner.com/)** | **[Software Engineer (.NET & Angular)](https://jobr.pro/job/31525436/software-engineer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai - DLF IT Park, India | On Site | Nov 02 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/31504555/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sarajevo, Sarajevo, BA | On Site | Nov 01 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Engineer 4](https://jobr.pro/job/31499711/software-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Maryland-Fort Meade-20362-FMD2 | On Site | Nov 01 |
 | **[Cloud Kinetics](https://www.cloud-kinetics.com/)** | **[Sr. Software Engineer (.Net)](https://jobr.pro/job/31499187/sr-software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 01 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer (Exchange & Trade Experience Unit) / EF / São Paulo - SP](https://jobr.pro/job/31477773/staff-software-engineer-exchange-trade-experience-unit-ef-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Nov 01 |
 | **[myneva](https://www.myneva.eu/)** | **[Senior Software Engineer (m/f/d) .Net Backend](https://jobr.pro/job/31477519/senior-software-engineer-mfd-net-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal, remote | Remote | Nov 01 |
 | **[Quess Corp](https://www.quesscorp.com/)** | **[Junior Software Engineer](https://jobr.pro/job/31491135/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 01 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Full-stack Software Engineer](https://jobr.pro/job/31474120/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | bogota, DC, Colombia | On Site | Nov 01 |
-| **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer - FrontEnd](https://jobr.pro/job/31462686/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Nov 01 |
 
 ---
 
