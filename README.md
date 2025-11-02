@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 02, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 02, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -28,8 +28,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Network](https://jobr.pro/job/31490155/software-engineer-network?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer (Android)](https://jobr.pro/job/31490147/software-engineer-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Systems Machine Learning](https://jobr.pro/job/31490132/software-engineer-systems-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY | On Site | Nov 01 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud, Dataproc](https://jobr.pro/job/31489605/software-engineer-iii-google-cloud-dataproc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; Kirkland, WA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Chrome iOS](https://jobr.pro/job/31489612/software-engineer-chrome-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Washington D.C., DC, USA | On Site | Nov 01 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud, Dataproc](https://jobr.pro/job/31489605/software-engineer-iii-google-cloud-dataproc?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; Kirkland, WA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Ads](https://jobr.pro/job/31489591/software-engineer-iii-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Irvine, CA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, HPC Solutions](https://jobr.pro/job/31489573/staff-software-engineer-hpc-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Nov 01 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Full Stack, Public Sector](https://jobr.pro/job/31489562/senior-software-engineer-full-stack-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Reston, VA, USA | On Site | Nov 01 |
