@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Software Engineer (Associate)](https://jobr.pro/job/31533767/software-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bellevue, WA, United States | On Site | Nov 02 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[【26届校招】Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/31524515/26software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Nov 02 |
 | **[Gartner](https://www.gartner.com/)** | **[Software Engineer (.NET & Angular)](https://jobr.pro/job/31525436/software-engineer-net-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai - DLF IT Park, India | On Site | Nov 02 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/31504555/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sarajevo, Sarajevo, BA | On Site | Nov 01 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer (Capabilities Unit) / EF / São Paulo - SP](https://jobr.pro/job/31477775/staff-software-engineer-capabilities-unit-ef-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Nov 01 |
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer (Exchange & Trade Experience Unit) / EF / São Paulo - SP](https://jobr.pro/job/31477773/staff-software-engineer-exchange-trade-experience-unit-ef-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Nov 01 |
 | **[myneva](https://www.myneva.eu/)** | **[Senior Software Engineer (m/f/d) .Net Backend](https://jobr.pro/job/31477519/senior-software-engineer-mfd-net-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal, remote | Remote | Nov 01 |
-| **[Quess Corp](https://www.quesscorp.com/)** | **[Junior Software Engineer](https://jobr.pro/job/31491135/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 227k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
