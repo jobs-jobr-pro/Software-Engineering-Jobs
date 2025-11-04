@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Automation Software Engineer](https://jobr.pro/job/31586996/automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 04 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Staff Software Engineer](https://jobr.pro/job/31589688/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, NSW - CBP South, 11 Harbour Street, Australia | On Site | Nov 04 |
+| **[XPENG](https://www.xiaopeng.com/)** | **[【26届校招】Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/31587245/26software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Nov 03 |
 | **[Granite Telecommunications](https://www.granitenet.com/)** | **[Lead Software Engineer](https://jobr.pro/job/31576857/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Quincy, MA, United States | On Site | Nov 03 |
 | **[Bessemer Trust](https://www.bessemertrust.com/)** | **[Senior Mobile Software Engineer](https://jobr.pro/job/31575853/senior-mobile-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Woodbridge, NJ, United States | On Site | Nov 03 |
 | **[4M Analytics Ltd](https://www.4manalytics.com/)** | **[Senior Software Engineer - Data Core](https://jobr.pro/job/31564808/senior-software-engineer-data-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ASRC Federal](https://www.asrcfederal.com/)** | **[Associate Software Engineer](https://jobr.pro/job/31562067/associate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Moorestown, NJ, 08057, US | On Site | Nov 03 |
 | **[Locad](https://golocad.com/)** | **[Software Engineer - Backend \[Bengaluru, India\]](https://jobr.pro/job/31542284/software-engineer-backend-bengaluru-india?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India (IN) - Bangalore | Remote | Nov 03 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - TypeScript React](https://jobr.pro/job/31557306/lead-software-engineer-typescript-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 03 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Fullstack, AWS](https://jobr.pro/job/31557326/software-engineer-iii-fullstack-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 03 |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principle Software Engineer- Kubernetes Agent (Cortex Cloud)](https://jobr.pro/job/31541416/principle-software-engineer-kubernetes-agent-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Israel | On Site | Nov 03 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Software Engineer II](https://jobr.pro/job/31550111/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Noida, Uttar Pradesh, India | On Site | Nov 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 28 companies | Avg salary: 233k  
+**Current Stats:** 50 jobs | 6% remote | 31 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
