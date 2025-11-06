@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/31872778/software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Nov 06 |
+| **[Stellantis](https://www.stellantis.com/)** | **[Software Engineer – Connected Vehicle Apps](https://jobr.pro/job/31870619/software-engineer-connected-vehicle-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, France | On Site | Nov 06 |
 | **[CEVA Inc.](https://www.ceva-ip.com/)** | **[Embedded Software Engineer (WiFi)](https://jobr.pro/job/31855835/embedded-software-engineer-wifi?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sophia Antipolis, FR | On Site | Nov 06 |
 | **[abra](https://www.abra-it.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/31854517/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Haifa, Haifa District, IL | On Site | Nov 06 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Engineer, Entry](https://jobr.pro/job/31845077/software-engineer-entry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Nov 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Cloud Security Workload Identity](https://jobr.pro/job/31833130/software-engineer-iii-cloud-security-workload-identity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 06 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Infrastructure, Google Cloud Data Management](https://jobr.pro/job/31833124/senior-staff-software-engineer-infrastructure-google-cloud-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA; Seattle, WA, USA | On Site | Nov 06 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Platforms and Devices](https://jobr.pro/job/31833118/software-engineer-iii-full-stack-platforms-and-devices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 06 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, Google Cloud Data Management](https://jobr.pro/job/31833112/software-engineer-iii-front-end-google-cloud-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 06 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Infrastructure, Core](https://jobr.pro/job/31833091/staff-software-engineer-infrastructure-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; Kirkland, WA, USA | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 21 companies | Avg salary: 238k  
+**Current Stats:** 50 jobs | 2% remote | 23 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
