@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Sr Software Engineer](https://jobr.pro/job/32031888/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 08 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Software Engineer - Fullstack](https://jobr.pro/job/32031883/software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 08 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Software Engineer](https://jobr.pro/job/32031882/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 08 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32031879/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 08 |
 | **[Open Systems Technologies Corporation](https://www.ostcorpweb.net/)** | **[Software Engineer - Java](https://jobr.pro/job/32022814/software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Aurora, CO, United States | On Site | Nov 08 |
 | **[Open Systems Technologies Corporation](https://www.ostcorpweb.net/)** | **[Software Engineer](https://jobr.pro/job/32022813/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD, United States | On Site | Nov 08 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Java , Rest API - Personalization](https://jobr.pro/job/32015589/software-engineer-java-rest-api-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Nov 08 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Software Engineer, Backend (Risk Platform)](https://jobr.pro/job/31982589/software-engineer-backend-risk-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - USA | Remote | Nov 08 |
 | **[Gridware](https://www.gridware.com.au/)** | **[Senior Software Engineer, Customer Integrations](https://jobr.pro/job/31981273/senior-software-engineer-customer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Nov 08 |
 | **[Gilat Satellite Networks](https://www.gilat.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/32020767/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Duluth, GA, US | On Site | Nov 08 |
-| **[Gridware](https://www.gridware.com.au/)** | **[Staff Software Engineer, Grid Intelligence](https://jobr.pro/job/31981274/staff-software-engineer-grid-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Nov 08 |
-| **[Quizlet](https://quizlet.com/)** | **[Sr. Software Engineer, Consumer Experience](https://jobr.pro/job/31983033/sr-software-engineer-consumer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, England | On Site | Nov 08 |
-| **[Anduril](https://www.anduril.com/)** | **[Skillbridge Software Engineer](https://jobr.pro/job/31980493/skillbridge-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bellevue, Washington, United States | On Site | Nov 08 |
-| **[LoopMe](https://loopme.com/)** | **[Distinguished Software Engineer, AVP](https://jobr.pro/job/31991055/distinguished-software-engineer-avp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California, United States | On Site | Nov 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 21 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 4% remote | 19 companies | Avg salary: 222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
