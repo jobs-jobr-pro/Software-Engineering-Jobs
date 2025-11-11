@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ResMed](https://www.resmed.com/)** | **[Software Engineer- MAUI & Dot Net](https://jobr.pro/job/32115561/software-engineer-maui-dot-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN Bangalore, India | On Site | Nov 11 |
+| **[ResMed](https://www.resmed.com/)** | **[Senior Software Engineer- Backend & AWS](https://jobr.pro/job/32115556/senior-software-engineer-backend-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN Bangalore, India | On Site | Nov 11 |
+| **[ResMed](https://www.resmed.com/)** | **[Senior Software Engineer- MAUI & DotNet](https://jobr.pro/job/32115568/senior-software-engineer-maui-dotnet?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN Bangalore, India | On Site | Nov 11 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Senior Software Engineer - Test](https://jobr.pro/job/32096879/senior-software-engineer-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Milwaukee, WI, United States | On Site | Nov 10 |
 | **[Haptik](https://www.haptik.ai/)** | **[Software Engineer - Backend](https://jobr.pro/job/32076026/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Maharashtra, Mumbai, India | On Site | Nov 10 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2026 JPMorganChase Fellowship Program - Global Technology - Software Engineer Program Track](https://jobr.pro/job/32074347/2026-jpmorganchase-fellowship-program-global-technology-software-engineer-program-track?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbus, OH, United States | On Site | Nov 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java, Spring, AWS](https://jobr.pro/job/32074372/software-engineer-iii-java-spring-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 10 |
 | **[Visa](https://visa.com)** | **[Lead Software Engineer](https://jobr.pro/job/32054891/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, INDIA, India | On Site | Nov 10 |
 | **[H&M Group](https://hmgroup.com/)** | **[Senior SAP Software Engineer - SAP ABAP](https://jobr.pro/job/32056044/senior-sap-software-engineer-sap-abap?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 10 |
-| **[NICE](https://www.nice.com/)** | **[Software Engineer](https://jobr.pro/job/32054476/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune | On Site | Nov 10 |
-| **[H&M Group](https://hmgroup.com/)** | **[Senior Software Engineer -.NET & React](https://jobr.pro/job/32056045/senior-software-engineer-net-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Nov 10 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Sr Staff Software Engineer CI/CD Architect](https://jobr.pro/job/32054519/sr-staff-software-engineer-cicd-architect?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 28 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 2% remote | 27 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
