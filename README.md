@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Trimble](https://www.trimble.com/)** | **[Software Engineer](https://jobr.pro/job/32234578/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Zealand - Christchurch | On Site | Nov 12 |
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[DevOps Software Engineer IV](https://jobr.pro/job/32215841/devops-software-engineer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Nov 11 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer III - Java - OneData](https://jobr.pro/job/32193706/software-engineer-iii-java-onedata?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Nov 11 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Staff Software Engineer - Global Commercial Services](https://jobr.pro/job/32193703/senior-staff-software-engineer-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Nov 11 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II – Full Stack - Enterprise Platforms](https://jobr.pro/job/32197441/software-engineer-ii-full-stack-enterprise-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, United Kingdom | On Site | Nov 11 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III Data Engineering/ AWS/ Spark](https://jobr.pro/job/32197464/software-engineer-iii-data-engineering-aws-spark?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 11 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Full Stack](https://jobr.pro/job/32197447/software-engineer-iii-java-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 11 |
-| **[FrontStory](https://www.frontstory.com/)** | **[Senior Backend Software Engineer](https://jobr.pro/job/32201369/senior-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel aviv, IL | On Site | Nov 11 |
 
 ---
 
