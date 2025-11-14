@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Software Engineer](https://jobr.pro/job/32416810/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eveleigh, NSW - 5-7 Central Ave, Australia | On Site | Nov 14 |
 | **[Copado](https://www.copado.com/)** | **[Senior Software Engineer, Mulesoft (India)](https://jobr.pro/job/32395218/senior-software-engineer-mulesoft-india?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Jaipur, India | On Site | Nov 13 |
 | **[Upwind Security](https://www.upwind.io)** | **[Backend Software Engineer](https://jobr.pro/job/32390368/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Nov 13 |
 | **[Aidoc](https://www.aidoc.com/)** | **[Senior AI Software Engineer](https://jobr.pro/job/32390014/senior-ai-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Machine Learning, YouTube Ads](https://jobr.pro/job/32369013/software-engineer-iii-machine-learning-youtube-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 13 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Embedded Systems, ChromeOS](https://jobr.pro/job/32369008/senior-software-engineer-embedded-systems-chromeos?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA | On Site | Nov 13 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML GenAI, Search](https://jobr.pro/job/32368976/software-engineer-iii-aiml-genai-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 13 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Google Ads](https://jobr.pro/job/32368980/software-engineer-ii-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 20 companies | Avg salary: 224k  
+**Current Stats:** 50 jobs | 2% remote | 21 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
