@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 14, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KING ICT](https://king-ict.eu/)** | **[C#.NET Software Engineer (m/ž)](https://jobr.pro/job/32489526/cnet-software-engineer-mz?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zagreb, Hrvatska | On Site | Nov 14 |
 | **[iSelect](https://www.iselect.com.au/)** | **[Software Engineer - Melbourne](https://jobr.pro/job/32481351/software-engineer-melbourne?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne, VIC, AU | On Site | Nov 14 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer - Mainframe Technologies - Global Commercial Services](https://jobr.pro/job/32470504/senior-software-engineer-mainframe-technologies-global-commercial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Nov 14 |
+| **[2HB Incorporated](https://www.2hb.com)** | **[Principal Software Engineer](https://jobr.pro/job/32487207/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, MD | On Site | Nov 14 |
 | **[The ePlane Company](https://www.eplane.ai/)** | **[Software Engineer (Safety-Critical Systems)](https://jobr.pro/job/32473679/software-engineer-safety-critical-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 14 |
 | **[Scapia](https://www.scapia.cards/)** | **[Senior Software Engineer - SDE3/4](https://jobr.pro/job/32473065/senior-software-engineer-sde34?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Nov 14 |
 | **[HARMAN International](https://www.harman.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32465245/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest - Bucharest, Romania | On Site | Nov 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - Security](https://jobr.pro/job/32465540/staff-software-engineer-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Petah Tikva, Israel | On Site | Nov 14 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32470409/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32472337/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | HYDERABAD, TELANGANA, India | On Site | Nov 14 |
-| **[Ford Motor Company](https://corporate.ford.com/)** | **[Software Engineer](https://jobr.pro/job/32470402/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Nov 14 |
-| **[Cyncly](https://www.cyncly.com/)** | **[Software Engineer (Graduate)](https://jobr.pro/job/32472817/software-engineer-graduate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kochi, Kerala, India | On Site | Nov 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 18 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 0% remote | 19 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
