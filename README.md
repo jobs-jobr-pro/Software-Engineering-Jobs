@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32583150/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 15 |
+| **[ECS](https://ecstech.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32583148/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 15 |
 | **[Knowledge Lab](https://www.knowledge-lab.ch/)** | **[Senior Software Engineer (80-100%)](https://jobr.pro/job/32565430/senior-software-engineer-80-100?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ticino, Mendrisio, Switzerland | On Site | Nov 15 |
 | **[Amentum](https://www.amentum.com/)** | **[Aerospace Software Engineer](https://jobr.pro/job/32561415/aerospace-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Nov 15 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer - Global Commercial Services Technology](https://jobr.pro/job/32561254/senior-software-engineer-global-commercial-services-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-New York-New York | On Site | Nov 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II](https://jobr.pro/job/32564177/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 15 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/32564181/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 15 |
 | **[GumGum](https://gumgum.com/)** | **[Software Engineer II, Ad Apps](https://jobr.pro/job/32513338/software-engineer-ii-ad-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Monica, California, United States | On Site | Nov 15 |
-| **[Capgemini](https://www.capgemini.com)** | **[Sr Software Engineer (C#)](https://jobr.pro/job/32515077/sr-software-engineer-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Manila, PH | On Site | Nov 15 |
-| **[Nuro, Inc.](https://www.nuro.ai/)** | **[Senior Software Engineer, Networking (Teleoperation)](https://jobr.pro/job/32523559/senior-software-engineer-networking-teleoperation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, California (HQ) | On Site | Nov 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 216k  
+**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
