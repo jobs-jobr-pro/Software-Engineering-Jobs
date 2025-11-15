@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Knowledge Lab](https://www.knowledge-lab.ch/)** | **[Senior Software Engineer (80-100%)](https://jobr.pro/job/32565430/senior-software-engineer-80-100?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ticino, Mendrisio, Switzerland | On Site | Nov 15 |
+| **[Amentum](https://www.amentum.com/)** | **[Aerospace Software Engineer](https://jobr.pro/job/32561415/aerospace-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Florida-Kennedy Space Center-20339-KSC | On Site | Nov 15 |
+| **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer - Global Commercial Services Technology](https://jobr.pro/job/32561254/senior-software-engineer-global-commercial-services-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-New York-New York | On Site | Nov 15 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Senior Software Engineer - Java Springboot](https://jobr.pro/job/32560713/senior-software-engineer-java-springboot?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-CO-Denver | On Site | Nov 15 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Senior Embedded Software Engineer - Senior Software Engineer](https://jobr.pro/job/32560706/senior-embedded-software-engineer-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-OR-Portland | On Site | Nov 15 |
+| **[Tesco](https://www.tesco.com/)** | **[Senior Software Engineer (Machine Learning - MLOps)](https://jobr.pro/job/32555731/senior-software-engineer-machine-learning-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Nov 15 |
+| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Integration Workflows](https://jobr.pro/job/32554769/senior-software-engineer-integration-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London | On Site | Nov 15 |
 | **[Meta](https://www.meta.com/)** | **[ML Framework Software Engineer (PhD)](https://jobr.pro/job/32550802/ml-framework-software-engineer-phd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 15 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer - Technical Leadership](https://jobr.pro/job/32550749/software-engineer-technical-leadership?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Nov 15 |
 | **[Meta](https://www.meta.com/)** | **[Software Engineer, Facebook Open Switching System (FBOSS)](https://jobr.pro/job/32550724/software-engineer-facebook-open-switching-system-fboss?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 15 |
@@ -51,22 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elia Group](https://www.eliagroup.eu)** | **[Senior Java Software Engineer (w/m/d)](https://jobr.pro/job/32525139/senior-java-software-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10557 | On Site | Nov 15 |
 | **[Elia Group](https://www.eliagroup.eu)** | **[Senior Java Software Engineer (f/m/d)](https://jobr.pro/job/32525137/senior-java-software-engineer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10557 | On Site | Nov 15 |
 | **[Agility Robotics](https://www.agilityrobotics.com/)** | **[Staff Robotics Software Engineer](https://jobr.pro/job/32527116/staff-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pittsburgh, PA or Salem, OR or San Jose, CA | On Site | Nov 15 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II](https://jobr.pro/job/32564177/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 15 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/32564181/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 15 |
 | **[GumGum](https://gumgum.com/)** | **[Software Engineer II, Ad Apps](https://jobr.pro/job/32513338/software-engineer-ii-ad-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Monica, California, United States | On Site | Nov 15 |
 | **[Capgemini](https://www.capgemini.com)** | **[Sr Software Engineer (C#)](https://jobr.pro/job/32515077/sr-software-engineer-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Manila, PH | On Site | Nov 15 |
 | **[Nuro, Inc.](https://www.nuro.ai/)** | **[Senior Software Engineer, Networking (Teleoperation)](https://jobr.pro/job/32523559/senior-software-engineer-networking-teleoperation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, California (HQ) | On Site | Nov 15 |
-| **[Versaterm](https://www.versaterm.com/)** | **[Software Engineer II (Front End)](https://jobr.pro/job/32526117/software-engineer-ii-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mesa, Arizona, United States | On Site | Nov 15 |
-| **[Versaterm](https://www.versaterm.com/)** | **[Staff Software Engineer (Front End)](https://jobr.pro/job/32526121/staff-software-engineer-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mesa, Arizona, United States | On Site | Nov 15 |
-| **[OpenAI](https://openai.com/)** | **[Forward Deployed Software Engineer - SF](https://jobr.pro/job/32519346/forward-deployed-software-engineer-sf?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Nov 15 |
-| **[Upstart](https://www.upstart.com/)** | **[Software Engineer, Capital Marketplace](https://jobr.pro/job/32524794/software-engineer-capital-marketplace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States \| Remote | Remote | Nov 15 |
-| **[Sprig](https://www.sprig.com/)** | **[Senior Software Engineer, Backend (AI)](https://jobr.pro/job/32523873/senior-software-engineer-backend-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Nov 15 |
-| **[Machinify](https://www.machinify.com/)** | **[Tech Lead \| Senior Staff Software Engineer (Remote)](https://jobr.pro/job/32523135/tech-lead-senior-staff-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote/Palo Alto, CA | Remote | Nov 15 |
-| **[Anthropic](https://www.anthropic.com/)** | **[Staff Software Engineer, Claude Developer Platform (Backend)](https://jobr.pro/job/32513328/staff-software-engineer-claude-developer-platform-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Nov 15 |
-| **[TextNow](https://www.textnow.com/)** | **[Software Engineer — iOS](https://jobr.pro/job/32514970/software-engineer-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Open- Canada | On Site | Nov 15 |
-| **[TextNow](https://www.textnow.com/)** | **[Software Engineer — Android](https://jobr.pro/job/32514969/software-engineer-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Open- Canada | On Site | Nov 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 16 companies | Avg salary: 229k  
+**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
