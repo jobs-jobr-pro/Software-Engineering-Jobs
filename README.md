@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 16, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[\[EMN\] Embedded Systems Software Engineer - POSIX / Driver Development](https://jobr.pro/job/32592119/emn-embedded-systems-software-engineer-posix-driver-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Vietnam | On Site | Nov 16 |
+| **[Version 1](https://www.version1.com)** | **[Full-Stack Developer- Software Engineer](https://jobr.pro/job/32592214/full-stack-developer-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 16 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior Software Engineer, AI Infra](https://jobr.pro/job/32590888/senior-software-engineer-ai-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, Tel Aviv | On Site | Nov 16 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior QA Software Engineer, Networking](https://jobr.pro/job/32590887/senior-qa-software-engineer-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, Yokneam | On Site | Nov 16 |
 | **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32583150/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 15 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Android Google App](https://jobr.pro/job/32549817/software-engineer-ii-android-google-app?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Nov 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Google Cloud Platforms](https://jobr.pro/job/32549813/software-engineer-google-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 15 |
 | **[EIDU](https://eidu.com/)** | **[Junior Full-Stack Software Engineer (m/f/d) Berlin, Germany](https://jobr.pro/job/32538761/junior-full-stack-software-engineer-mfd-berlin-germany?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | EIDU GmbH, EIDU Hybrid | On Site | Nov 15 |
-| **[nerdware](https://www.nerdware.dev/)** | **[Software Engineer - Junior (m/w/d)](https://jobr.pro/job/32534352/software-engineer-junior-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Nürnberg, Berlin | On Site | Nov 15 |
-| **[Elia Group](https://www.eliagroup.eu)** | **[Senior Java Software Engineer (w/m/d)](https://jobr.pro/job/32525139/senior-java-software-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10557 | On Site | Nov 15 |
 
 ---
 
