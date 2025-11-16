@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior Software Engineer, AI Infra](https://jobr.pro/job/32590888/senior-software-engineer-ai-infra?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, Tel Aviv | On Site | Nov 16 |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior QA Software Engineer, Networking](https://jobr.pro/job/32590887/senior-qa-software-engineer-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, Yokneam | On Site | Nov 16 |
 | **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32583150/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 15 |
 | **[ECS](https://ecstech.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32583148/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 15 |
 | **[Knowledge Lab](https://www.knowledge-lab.ch/)** | **[Senior Software Engineer (80-100%)](https://jobr.pro/job/32565430/senior-software-engineer-80-100?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ticino, Mendrisio, Switzerland | On Site | Nov 15 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elia Group](https://www.eliagroup.eu)** | **[Senior Java Software Engineer (f/m/d)](https://jobr.pro/job/32525137/senior-java-software-engineer-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10557 | On Site | Nov 15 |
 | **[Agility Robotics](https://www.agilityrobotics.com/)** | **[Staff Robotics Software Engineer](https://jobr.pro/job/32527116/staff-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pittsburgh, PA or Salem, OR or San Jose, CA | On Site | Nov 15 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II](https://jobr.pro/job/32564177/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 15 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III](https://jobr.pro/job/32564181/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 15 |
-| **[GumGum](https://gumgum.com/)** | **[Software Engineer II, Ad Apps](https://jobr.pro/job/32513338/software-engineer-ii-ad-apps?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Monica, California, United States | On Site | Nov 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 0% remote | 15 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
