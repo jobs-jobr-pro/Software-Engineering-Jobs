@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -38,11 +38,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Workspace](https://jobr.pro/job/32610882/software-engineer-iii-infrastructure-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Full Stack, Google Cloud AI](https://jobr.pro/job/32610879/senior-software-engineer-full-stack-google-cloud-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Cloud SDK](https://jobr.pro/job/32610878/software-engineer-iii-cloud-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Nov 17 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Embedded Systems/Firmware, Pixel](https://jobr.pro/job/32610831/software-engineer-iii-embedded-systemsfirmware-pixel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer Manager, ChromeOS Test Infrastructure](https://jobr.pro/job/32610866/software-engineer-manager-chromeos-test-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; Boulder, CO, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Infrastructure, Advertiser Platform](https://jobr.pro/job/32610855/senior-software-engineer-infrastructure-advertiser-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Search](https://jobr.pro/job/32610827/staff-software-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; Cambridge, MA, USA | On Site | Nov 17 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Consent and Transparency](https://jobr.pro/job/32610838/software-engineer-ii-consent-and-transparency?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Munich, Germany | On Site | Nov 17 |
+| **[Google](https://www.google.com/)** | **[Software Engineer III, Embedded Systems/Firmware, Pixel](https://jobr.pro/job/32610831/software-engineer-iii-embedded-systemsfirmware-pixel?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 17 |
 | **[Tietoevry](https://www.tietoevry.com/)** | **[Senior Software Engineer - Tietoevry Care (m/f/d)](https://jobr.pro/job/32616603/senior-software-engineer-tietoevry-care-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 17 |
 | **[Corzent](https://corzent.com/)** | **[Senior Software Engineer (Angular)](https://jobr.pro/job/32621080/senior-software-engineer-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Western Province, Colombo, Sri Lanka | On Site | Nov 17 |
 | **[Anecdotes](https://www.anecdotes.ai/)** | **[Software Engineer - Graduate](https://jobr.pro/job/32623725/software-engineer-graduate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 17 |
