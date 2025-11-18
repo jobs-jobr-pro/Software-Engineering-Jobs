@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Boeing](https://www.boeing.com/)** | **[Experienced Software Engineer](https://jobr.pro/job/32648249/experienced-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND - Bangalore, India | On Site | Nov 18 |
 | **[CES](https://cesltd.com/)** | **[Senior Software Engineer (React.JS) Req#2847](https://jobr.pro/job/32622393/senior-software-engineer-reactjs-req2847?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 17 |
 | **[CES](https://cesltd.com/)** | **[Lead Software Engineer (React.JS) Req#2841](https://jobr.pro/job/32622391/lead-software-engineer-reactjs-req2841?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 17 |
 | **[Codvo.ai](https://www.codvo.ai/)** | **[Senior Software Engineer – C#/.NET, Angular, Security & Compliance](https://jobr.pro/job/32621462/senior-software-engineer-cnet-angular-security-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telangana, Hyderabad, India | On Site | Nov 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chubb](https://www.chubb.com/)** | **[Software Engineer](https://jobr.pro/job/32619263/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telangana, India | On Site | Nov 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III-Java Full Stack/React](https://jobr.pro/job/32620477/software-engineer-iii-java-full-stackreact?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II-Automation-Performance testing](https://jobr.pro/job/32620464/software-engineer-ii-automation-performance-testing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 17 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Principal Software Engineer Automotive AI Frameworks](https://jobr.pro/job/32602651/principal-software-engineer-automotive-ai-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kodaira, Japan | On Site | Nov 17 |
 
 ---
 
