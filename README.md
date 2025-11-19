@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Fiverr](https://www.fiverr.com)** | **[Backend Software Engineer](https://jobr.pro/job/32805275/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 19 |
+| **[Akina, Inc.](https://www.akina-inc.com/)** | **[Software Engineer - 3 (DevOPs/Shell/Bash/Python)](https://jobr.pro/job/32811842/software-engineer-3-devopsshellbashpython?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Nov 19 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer II - Java - Ace Studio Platform](https://jobr.pro/job/32791738/software-engineer-ii-java-ace-studio-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Nov 19 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer - Python - Enterprise Architecture](https://jobr.pro/job/32791706/software-engineer-python-enterprise-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Nov 19 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Software Engineer - Cloud & High Performance Computing](https://jobr.pro/job/32790614/senior-software-engineer-cloud-high-performance-computing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-IL-Chicago | Remote | Nov 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Local Data Quality, Geo](https://jobr.pro/job/32776770/senior-software-engineer-local-data-quality-geo?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Nov 19 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, App Hub](https://jobr.pro/job/32776755/staff-software-engineer-app-hub?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Nov 19 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Cloud ML Compute Services (Mandarin, English)](https://jobr.pro/job/32776751/senior-software-engineer-cloud-ml-compute-services-mandarin-english?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Nov 19 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Ads Data Hub](https://jobr.pro/job/32776739/software-engineer-ads-data-hub?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA, USA | On Site | Nov 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 19 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 6% remote | 20 companies | Avg salary: 227k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
