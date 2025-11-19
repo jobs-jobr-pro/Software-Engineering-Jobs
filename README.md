@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Software Engineer - Backend Java](https://jobr.pro/job/32733378/software-engineer-backend-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Nov 19 |
 | **[Sunbit](https://sunbit.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32711098/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Binyamina-Giv'at Ada, Haifa District, IL | On Site | Nov 18 |
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Embedded Software Engineer](https://jobr.pro/job/32710270/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Nov 18 |
 | **[LayerX](https://layerxsecurity.com)** | **[Senior Software Engineer](https://jobr.pro/job/32710374/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 18 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III- Cloud Services - Java/AWS](https://jobr.pro/job/32696812/software-engineer-iii-cloud-services-javaaws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 18 |
 | **[Upwind Security](https://www.upwind.io)** | **[Backend Software Engineer](https://jobr.pro/job/32710099/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belfast, Northern Ireland, GB | On Site | Nov 18 |
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32698464/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Nov 18 |
-| **[UL Solutions](https://www.ul.com/)** | **[Junior Software Engineer](https://jobr.pro/job/32703955/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Espoo, Uusimaa, Finland | On Site | Nov 18 |
 
 ---
 
