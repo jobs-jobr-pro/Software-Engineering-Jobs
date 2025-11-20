@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32906935/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 20 |
+| **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32906933/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | ST. LOUIS, MO, United States | On Site | Nov 20 |
 | **[monday.com](https://monday.com/)** | **[Senior Software Engineer- AI group](https://jobr.pro/job/32894134/senior-software-engineer-ai-group?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
 | **[monday.com](https://monday.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32894132/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 20 |
 | **[Emerson](https://www.emerson.com/)** | **[Manufacturing Software Engineer](https://jobr.pro/job/32891366/manufacturing-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CRAWLEY, ENGLAND, United Kingdom | On Site | Nov 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inter IKEA Group](https://www.ikea.com/)** | **[Senior Software Engineer - AI\| IKEA Range Operations \| Enabling functions](https://jobr.pro/job/32881604/senior-software-engineer-ai-ikea-range-operations-enabling-functions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malmö, Sweden | On Site | Nov 20 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Mainframes- DB2, Cobol, IMS](https://jobr.pro/job/32874109/software-engineer-ii-mainframes-db2-cobol-ims?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Nov 20 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java Selenium Automation Engineer](https://jobr.pro/job/32874102/software-engineer-iii-java-selenium-automation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 20 |
-| **[Rippling](https://www.rippling.com/)** | **[Senior Software Engineer - Developer Infrastructure](https://jobr.pro/job/32868981/senior-software-engineer-developer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Nov 20 |
-| **[Flywire](https://www.flywire.com)** | **[Senior Software Engineer I, Payment Experience (frontend)](https://jobr.pro/job/32858526/senior-software-engineer-i-payment-experience-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 25 companies | Avg salary: 254k  
+**Current Stats:** 50 jobs | 2% remote | 24 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
