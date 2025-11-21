@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Principal Software Engineer](https://jobr.pro/job/32988017/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Springfield, VA, United States | On Site | Nov 21 |
+| **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32988015/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Springfield, VA, United States | On Site | Nov 21 |
+| **[Stellantis](https://www.stellantis.com/)** | **[Lead AUTOSAR Software Engineer](https://jobr.pro/job/32992542/lead-autosar-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, France | On Site | Nov 21 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Software Engineer – Full-stack](https://jobr.pro/job/32967647/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CA-ON-Mississauga | On Site | Nov 21 |
+| **[Félix](https://www.felixpago.com/)** | **[Staff Software Engineer (Identity & Account Management)](https://jobr.pro/job/32983326/staff-software-engineer-identity-account-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Argentina | On Site | Nov 21 |
 | **[ManTech](https://www.mantech.com/)** | **[CNO Python Software Engineer](https://jobr.pro/job/32964886/cno-python-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-MD-Hanover | On Site | Nov 21 |
 | **[Mayo Clinic](https://www.mayoclinic.org/)** | **[Software Engineer - Limited Tenure](https://jobr.pro/job/32967012/software-engineer-limited-tenure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rochester, MN, United States | On Site | Nov 21 |
 | **[BAE Systems](https://www.baesystems.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32962987/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GB-SCO-Ayrshire-Prestwick | On Site | Nov 21 |
@@ -59,10 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Akamai Technologies](https://www.akamai.com/)** | **[Senior Software Engineer](https://jobr.pro/job/32965683/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Nov 21 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - React Engineer](https://jobr.pro/job/32969169/software-engineer-iii-react-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Software Engineer](https://jobr.pro/job/32938609/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Nov 21 |
-| **[Worldline](https://www.worldline.com)** | **[Senior Software Engineer](https://jobr.pro/job/32936410/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Guangzhou, GD, CN | On Site | Nov 21 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Software Engineer (Frontend) (m/f/d)](https://jobr.pro/job/32936092/senior-software-engineer-frontend-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, DE, 10623 | On Site | Nov 21 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Staff Software Engineer](https://jobr.pro/job/32931991/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, IN, 560100 | On Site | Nov 21 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - iOS Mobile](https://jobr.pro/job/32969170/software-engineer-ii-ios-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 21 |
 
 ---
 
