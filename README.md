@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Follett Higher Education](https://www.follett.com/)** | **[Lead Software Engineer](https://jobr.pro/job/33055073/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Westchester, IL, United States | On Site | Nov 22 |
 | **[Upswing](https://upswing.io/)** | **[Software Developer / Software Engineer (Remote)](https://jobr.pro/job/33043455/software-developer-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Carolina, Durham, United States of America | Remote | Nov 22 |
 | **[Amentum](https://www.amentum.com/)** | **[Expert Software Engineer](https://jobr.pro/job/33042099/expert-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Virginia-Springfield-20394-SFV | On Site | Nov 22 |
 | **[Hilton](https://www.hilton.com/)** | **[Lead Software Engineer](https://jobr.pro/job/33042011/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hilton - Systems Solutions - Memphis 755 Crossover Lane Memphis 38117 | On Site | Nov 22 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elasticsearch](https://www.elastic.co/)** | **[Elasticsearch - Senior Software Engineer (Performance Team)](https://jobr.pro/job/33014959/elasticsearch-senior-software-engineer-performance-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Spain | On Site | Nov 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Senior Principal Software Engineer — CI/CD Platform on OCI](https://jobr.pro/job/33039322/senior-principal-software-engineer-cicd-platform-on-oci?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Nashville, TN, United States | On Site | Nov 22 |
 | **[Zip Co Limited](https://zip.co/)** | **[Software Engineer](https://jobr.pro/job/33008654/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Nov 22 |
-| **[NVIDIA](https://www.nvidia.com/)** | **[System Software Engineer (RDSS Intern)](https://jobr.pro/job/33005715/system-software-engineer-rdss-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Taiwan, Taipei | On Site | Nov 22 |
 
 ---
 
