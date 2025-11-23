@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Eurofins](https://www.eurofins.com)** | **[Senior Software Engineer](https://jobr.pro/job/33059935/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 23 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer (Full Stack)](https://jobr.pro/job/33059939/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Nov 23 |
 | **[Follett Higher Education](https://www.follett.com/)** | **[Lead Software Engineer](https://jobr.pro/job/33055073/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Westchester, IL, United States | On Site | Nov 22 |
 | **[Upswing](https://upswing.io/)** | **[Software Developer / Software Engineer (Remote)](https://jobr.pro/job/33043455/software-developer-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Carolina, Durham, United States of America | Remote | Nov 22 |
 | **[Amentum](https://www.amentum.com/)** | **[Expert Software Engineer](https://jobr.pro/job/33042099/expert-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States-Virginia-Springfield-20394-SFV | On Site | Nov 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Goodleap](https://goodleap.com/)** | **[Staff Software Engineer, Flutter](https://jobr.pro/job/33007380/staff-software-engineer-flutter?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Roseville, CA - HQ | On Site | Nov 22 |
 | **[Elastic](https://www.elastic.co/)** | **[Elasticsearch - Senior Software Engineer (Performance Team)](https://jobr.pro/job/33012724/elasticsearch-senior-software-engineer-performance-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Spain | On Site | Nov 22 |
 | **[Elasticsearch](https://www.elastic.co/)** | **[Elasticsearch - Senior Software Engineer (Performance Team)](https://jobr.pro/job/33014959/elasticsearch-senior-software-engineer-performance-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Spain | On Site | Nov 22 |
-| **[Oracle](https://www.oracle.com/)** | **[Senior Principal Software Engineer — CI/CD Platform on OCI](https://jobr.pro/job/33039322/senior-principal-software-engineer-cicd-platform-on-oci?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Nashville, TN, United States | On Site | Nov 22 |
-| **[Zip Co Limited](https://zip.co/)** | **[Software Engineer](https://jobr.pro/job/33008654/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Nov 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 214k  
+**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
