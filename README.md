@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aristocrat](https://www.aristocrat.com/)** | **[Software Engineer](https://jobr.pro/job/33095266/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Ryde, Australia | On Site | Nov 25 |
+| **[Akina, Inc.](https://www.akina-inc.com/)** | **[HPC Software Engineer- 3 (Ansible, SaltStack, Puppet, Chef, Terraform)](https://jobr.pro/job/33096107/hpc-software-engineer-3-ansible-saltstack-puppet-chef-terraform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Annapolis Junction, Maryland | On Site | Nov 24 |
 | **[Upwind Security](https://www.upwind.io)** | **[Frontend Software Engineer](https://jobr.pro/job/33089831/frontend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belfast, Northern Ireland, GB | On Site | Nov 24 |
 | **[monday.com](https://monday.com/)** | **[Software Engineer](https://jobr.pro/job/33089558/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 24 |
 | **[Orca-AI](https://www.orca-ai.io/)** | **[Software Engineer - System and Architecture](https://jobr.pro/job/33090804/software-engineer-system-and-architecture?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 24 |
@@ -52,6 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java](https://jobr.pro/job/33078633/software-engineer-iii-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 24 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Sr software engineer](https://jobr.pro/job/33074452/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Nov 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Android, Kotlin](https://jobr.pro/job/33078625/lead-software-engineer-android-kotlin?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 24 |
+| **[Cambridge CARES](https://www.cares.cam.ac.uk/)** | **[Research Software Engineer](https://jobr.pro/job/33103391/research-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Nov 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Python, Kubernetes, GenAI/ML](https://jobr.pro/job/33078634/software-engineer-iii-python-kubernetes-genaiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 24 |
 | **[Chubb](https://www.chubb.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33079200/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telangana, India | On Site | Nov 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Python Software Engineer for Commodities](https://jobr.pro/job/33078610/python-software-engineer-for-commodities?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, United Kingdom | On Site | Nov 24 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ortec Finance](https://www.ortecfinance.com/)** | **[Software Engineer – Java, Typescript](https://jobr.pro/job/33076603/software-engineer-java-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rotterdam, Netherlands | On Site | Nov 24 |
 | **[Visa](https://visa.com)** | **[Lead Software Engineer, Crypto Program](https://jobr.pro/job/33067858/lead-software-engineer-crypto-program?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 24 |
 | **[Accedo](https://www.accedo.tv/)** | **[Senior Software Engineer Java (Cloud Solutions)](https://jobr.pro/job/33090070/senior-software-engineer-java-cloud-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hong Kong, Hong Kong, HK | On Site | Nov 24 |
-| **[Visa](https://visa.com)** | **[Software Engineer, Crypto Program](https://jobr.pro/job/33067859/software-engineer-crypto-program?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Nov 24 |
-| **[LumApps](https://www.lumapps.com/)** | **[Senior Frontend Software Engineer (Vue) - (F/H) - Cracow/Lyon/Paris](https://jobr.pro/job/33081536/senior-frontend-software-engineer-vue-fh-cracowlyonparis?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Paris, France | On Site | Nov 24 |
-| **[DTCC](https://www.dtcc.com/)** | **[Software Engineer](https://jobr.pro/job/33081561/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Nov 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 22 companies | Avg salary: 145k  
+**Current Stats:** 50 jobs | 4% remote | 23 companies | Avg salary: 143k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
