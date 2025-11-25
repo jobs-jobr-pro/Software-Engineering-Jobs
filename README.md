@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,22 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hilton](https://www.hilton.com/)** | **[Software Engineer, Automation](https://jobr.pro/job/33167962/software-engineer-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hilton - Systems Solutions - Memphis 755 Crossover Lane Memphis 38117 | On Site | Nov 25 |
+| **[Capgemini](https://www.capgemini.com/)** | **[Senior Product Software Engineer - Sr. IZWS Scheduler expert](https://jobr.pro/job/33167768/senior-product-software-engineer-sr-izws-scheduler-expert?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Nov 25 |
+| **[CUJO AI](https://cujo.com/)** | **[Senior Software Engineer, Device Intelligence](https://jobr.pro/job/33176063/senior-software-engineer-device-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kaunas, Kauno apskr., LT | Remote | Nov 25 |
+| **[Deloitte](https://www.deloitte.com/)** | **[Junior - Software Engineer](https://jobr.pro/job/33165621/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Milano | On Site | Nov 25 |
+| **[ManTech](https://www.mantech.com/)** | **[Software Engineer](https://jobr.pro/job/33165378/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-MD-Fort Meade | On Site | Nov 25 |
+| **[Australia Post](https://auspost.com.au/)** | **[Senior Software Engineer](https://jobr.pro/job/33165114/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Melbourne Support Centre | On Site | Nov 25 |
+| **[HARMAN International](https://www.harman.com/)** | **[Software Engineer](https://jobr.pro/job/33164374/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Karnataka, India - EOIZ Industrial Area | On Site | Nov 25 |
+| **[Eurofins](https://www.eurofins.com)** | **[Software Engineer (.Net core full stack - Angular)](https://jobr.pro/job/33163630/software-engineer-net-core-full-stack-angular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 25 |
+| **[Frequentis AG](https://www.frequentis.com/)** | **[Software Engineer \| Air Traffic Management \[Prisma\]](https://jobr.pro/job/33162424/software-engineer-air-traffic-management-prisma?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cluj-Napoca, Cluj | On Site | Nov 25 |
+| **[TikTok](https://www.tiktok.com/)** | **[Fullstack Software Engineer-TikTok Web Arch](https://jobr.pro/job/33161195/fullstack-software-engineer-tiktok-web-arch?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Nov 25 |
+| **[TikTok](https://www.tiktok.com/)** | **[Frontend Software Engineer - Global E-commerce (Customer Business)](https://jobr.pro/job/33161101/frontend-software-engineer-global-e-commerce-customer-business?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Nov 25 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Backend Software Engineer - User Experience, Trust and Safety, TikTok](https://jobr.pro/job/33161090/senior-backend-software-engineer-user-experience-trust-and-safety-tiktok?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Nov 25 |
+| **[Sportradar](https://sportradar.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33163667/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Trondheim, Norway | On Site | Nov 25 |
+| **[DTCC](https://www.dtcc.com/)** | **[Lead Software Engineer](https://jobr.pro/job/33165787/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 25 |
+| **[DTCC](https://www.dtcc.com/)** | **[Lead Software Engineer - Java Full Stack Developer](https://jobr.pro/job/33165785/lead-software-engineer-java-full-stack-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Nov 25 |
+| **[ACI Group](https://www.aci-group.com/)** | **[: Sr Software Engineer – full stack – Angular/React JS, .NET, C#, PHP,Azure](https://jobr.pro/job/33163208/-sr-software-engineer-full-stack-angularreact-js-net-c-phpazure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML, GenAI](https://jobr.pro/job/33156044/staff-software-engineer-aiml-genai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Full Stack, YouTube Channel Memberships](https://jobr.pro/job/33156020/software-engineer-ii-full-stack-youtube-channel-memberships?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Kotlin Compiler](https://jobr.pro/job/33156010/software-engineer-iii-kotlin-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Viby, Denmark | On Site | Nov 25 |
@@ -47,26 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML](https://jobr.pro/job/33155742/software-engineer-iii-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Front End, Geo](https://jobr.pro/job/33155684/software-engineer-iii-front-end-geo?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Embedded Software Engineer, Silicon](https://jobr.pro/job/33155669/embedded-software-engineer-silicon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Payments Risk, ML Infrastructure](https://jobr.pro/job/33155666/staff-software-engineer-payments-risk-ml-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 25 |
-| **[Milestone Systems](https://milestonesys.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33154711/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Copenhagen, Denmark | On Site | Nov 25 |
-| **[Nokia](https://www.nokia.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/33160566/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Germany | On Site | Nov 25 |
-| **[Inter IKEA Group](https://www.ikea.com/)** | **[Software Engineer](https://jobr.pro/job/33136431/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malmö, Sweden | On Site | Nov 25 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Software Engineer (Consumer Ledger team)](https://jobr.pro/job/33132914/senior-software-engineer-consumer-ledger-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tallinn, 37, EE, 10412 | On Site | Nov 25 |
-| **[Zynga](https://www.zynga.com/)** | **[Software Engineer](https://jobr.pro/job/33135033/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Nov 25 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33128013/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | St. Louis, Missouri, US, 63103-2172 | On Site | Nov 25 |
-| **[Grab](https://www.grab.com)** | **[Junior Java Software Engineer](https://jobr.pro/job/33138869/junior-java-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cluj-Napoca, CJ, Romania | On Site | Nov 25 |
-| **[Netradyne](https://www.netradyne.com/)** | **[Mobile APP Developer- Staff Software Engineer](https://jobr.pro/job/33132779/mobile-app-developer-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore | On Site | Nov 25 |
-| **[Diligent Corporation](https://www.diligent.com/)** | **[Principal Software Engineer](https://jobr.pro/job/33124767/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 25 |
-| **[Aeva, Inc.](https://www.aeva.com/)** | **[Perception Software Engineer](https://jobr.pro/job/33123863/perception-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA | On Site | Nov 25 |
-| **[Roblox](https://www.roblox.com/)** | **[Senior Software Engineer - Product Engineering](https://jobr.pro/job/33134869/senior-software-engineer-product-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gurugram, Haryana, India | On Site | Nov 25 |
-| **[Boomi](https://boomi.com/)** | **[Software Engineer - 2 SRE](https://jobr.pro/job/33128973/software-engineer-2-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Nov 25 |
-| **[Sendle](https://try.sendle.com/)** | **[Senior Software Engineer, C# PHP](https://jobr.pro/job/33119792/senior-software-engineer-c-php?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Philippines only (Remote) | Remote | Nov 25 |
-| **[New Relic](https://newrelic.com/)** | **[Senior Software Engineer, Infra Data Pipeline](https://jobr.pro/job/33124611/senior-software-engineer-infra-data-pipeline?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | Remote | Nov 25 |
-| **[Astronomer](https://www.astronomer.io/)** | **[Senior Software Engineer](https://jobr.pro/job/33126965/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City | Remote | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 17 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 2% remote | 15 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
