@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Blue Yonder](https://blueyonder.com/)** | **[Software Engineer - Mobile Platform, React-Native & Typescript](https://jobr.pro/job/33204257/software-engineer-mobile-platform-react-native-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Nov 26 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Principal Software Engineer](https://jobr.pro/job/33200825/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Diego, CALIFORNIA, United States | On Site | Nov 25 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Software Engineer](https://jobr.pro/job/33200826/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Orlando, FL, United States | Remote | Nov 25 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Software Engineer, Video Platforms](https://jobr.pro/job/33200828/software-engineer-video-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Orlando, Florida, United States | Remote | Nov 25 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Staff Software Engineer - Video Platforms](https://jobr.pro/job/33200829/staff-software-engineer-video-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Orlando, Florida, United States | Remote | Nov 25 |
+| **[Arista Networks](https://www.arista.com)** | **[Software Engineer](https://jobr.pro/job/33200831/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Nov 25 |
+| **[Medtelligent](https://www.medtelligent.com/)** | **[Mid Level ASP.NET Software Engineer](https://jobr.pro/job/33200838/mid-level-aspnet-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago, IL, United States | On Site | Nov 25 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer](https://jobr.pro/job/33200841/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, California, United States | On Site | Nov 25 |
+| **[Axel Springer](https://www.axelspringer.com/)** | **[(Senior) Software Engineer Data (m/f/d)](https://jobr.pro/job/33200703/senior-software-engineer-data-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, BE, Germany | On Site | Nov 25 |
 | **[Hilton](https://www.hilton.com/)** | **[Software Engineer, Automation](https://jobr.pro/job/33167962/software-engineer-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hilton - Systems Solutions - Memphis 755 Crossover Lane Memphis 38117 | On Site | Nov 25 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Product Software Engineer - Sr. IZWS Scheduler expert](https://jobr.pro/job/33167768/senior-product-software-engineer-sr-izws-scheduler-expert?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Nov 25 |
 | **[CUJO AI](https://cujo.com/)** | **[Senior Software Engineer, Device Intelligence](https://jobr.pro/job/33176063/senior-software-engineer-device-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kaunas, Kauno apskr., LT | Remote | Nov 25 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Full Stack, Search UI Infrastructure](https://jobr.pro/job/33155807/senior-software-engineer-full-stack-search-ui-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago, IL, USA | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Machine Learning, Messages](https://jobr.pro/job/33155831/senior-software-engineer-machine-learning-messages?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA; Kirkland, WA, USA | On Site | Nov 25 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, P2020 Rollouts Analytics, Insights and Metrics](https://jobr.pro/job/33155782/software-engineer-p2020-rollouts-analytics-insights-and-metrics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Ireland | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Mobile Threat Analysis Platform](https://jobr.pro/job/33155780/software-engineer-mobile-threat-analysis-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Atlanta, GA, USA | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Rich Business Messaging](https://jobr.pro/job/33155770/software-engineer-iii-rich-business-messaging?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, BigQuery BeyondSQL](https://jobr.pro/job/33155761/software-engineer-bigquery-beyondsql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, 3D Graphics, Audio and Gameplay](https://jobr.pro/job/33155749/senior-software-engineer-3d-graphics-audio-and-gameplay?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA, USA; New York, NY, USA | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure, Google Ads](https://jobr.pro/job/33155744/software-engineer-infrastructure-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Marketing Engineering](https://jobr.pro/job/33155739/software-engineer-iii-marketing-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Senior Embedded Software Engineer, Pixel Audio](https://jobr.pro/job/33155732/senior-embedded-software-engineer-pixel-audio?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Pixel Data Engineering](https://jobr.pro/job/33155721/staff-software-engineer-pixel-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Nov 25 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML](https://jobr.pro/job/33155742/software-engineer-iii-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 16 companies | Avg salary: 249k  
+**Current Stats:** 50 jobs | 8% remote | 22 companies | Avg salary: 238k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
