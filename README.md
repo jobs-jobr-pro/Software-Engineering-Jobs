@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Staff Software Engineer (Java)](https://jobr.pro/job/33406468/staff-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, POLAND, Poland | On Site | Nov 29 |
+| **[Mastercard](https://www.mastercard.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33406989/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 29 |
+| **[Gartner](https://www.gartner.com/)** | **[Sr Software Engineer (4-7 yrs of exp in ITOM, CMDB, CSDM & ITSM)](https://jobr.pro/job/33406973/sr-software-engineer-4-7-yrs-of-exp-in-itom-cmdb-csdm-itsm?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 29 |
+| **[Intelerad](https://www.intelerad.com)** | **[Senior Software Engineer (Back-end, Database PostgreSQL)](https://jobr.pro/job/33406470/senior-software-engineer-back-end-database-postgresql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, UNITED KINGDOM, United Kingdom | Remote | Nov 28 |
+| **[Visa](https://visa.com)** | **[Software Engineer - Java](https://jobr.pro/job/33406472/software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, Stockholm County, Sweden | On Site | Nov 28 |
+| **[Visa](https://visa.com)** | **[Associate Software Engineer - Java](https://jobr.pro/job/33406474/associate-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, POLAND, Poland | On Site | Nov 28 |
+| **[Avaloq](https://www.avaloq.com)** | **[Software Engineer](https://jobr.pro/job/33406504/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zurich, Switzerland | On Site | Nov 28 |
 | **[PriceLabs](https://hello.pricelabs.co/)** | **[Frontend Software Engineer I (Remote)](https://jobr.pro/job/33386254/frontend-software-engineer-i-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Illinois, Chicago, United States of America | Remote | Nov 28 |
+| **[TOPdesk](https://www.topdesk.com/)** | **[Software Engineer with AI Knowledge](https://jobr.pro/job/33406273/software-engineer-with-ai-knowledge?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Delft, ZH, Netherlands | On Site | Nov 28 |
 | **[Global-e](https://www.global-e.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33387103/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, County Dublin, IE | On Site | Nov 28 |
 | **[Tesco](https://www.tesco.com/)** | **[Senior Software Engineer - Android (Transcend)](https://jobr.pro/job/33381199/senior-software-engineer-android-transcend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Nov 28 |
 | **[Visa](https://visa.com)** | **[Software Engineer](https://jobr.pro/job/33381895/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, POLAND, Poland | On Site | Nov 28 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer- ServiceNow Platform and Hyperscaler](https://jobr.pro/job/33369250/staff-software-engineer-servicenow-platform-and-hyperscaler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Nov 28 |
 | **[Entrust](https://www.entrust.com/)** | **[Staff Software Engineer](https://jobr.pro/job/33393304/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal - Lisbon | Remote | Nov 28 |
 | **[SimCorp](https://www.simcorp.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33393187/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Noida, India | On Site | Nov 28 |
-| **[Red Hat](https://www.redhat.com/)** | **[Software Engineer Ansible Networking](https://jobr.pro/job/33387207/software-engineer-ansible-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Carina, India | Remote | Nov 28 |
-| **[Red Hat](https://www.redhat.com/)** | **[Software Engineer - Hybrid Cloud Fleet Management](https://jobr.pro/job/33387196/software-engineer-hybrid-cloud-fleet-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brno - Tech Park Brno - C, Czechia | Remote | Nov 28 |
-| **[Barclays](https://home.barclays/)** | **[Software Engineer](https://jobr.pro/job/33387053/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 28 |
-| **[SS&C Technologies](https://www.ssctech.com/)** | **[Software Engineer](https://jobr.pro/job/33394039/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | Nov 28 |
-| **[SS&C Technologies](https://www.ssctech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33394038/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | Nov 28 |
-| **[HMH](https://hmhw.com/)** | **[Software Engineer](https://jobr.pro/job/33390891/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NOR-Kristiansand, Norway | On Site | Nov 28 |
-| **[Aptiv](https://www.aptiv.com/)** | **[Advanced Software Engineer](https://jobr.pro/job/33402023/advanced-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND - India Tech Center | On Site | Nov 28 |
-| **[Pfizer](https://www.pfizer.com/)** | **[Principal Software Engineer](https://jobr.pro/job/33401522/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GRC - Thessaloniki, Chortiatis, Greece | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 34 companies | Avg salary: 171k  
+**Current Stats:** 50 jobs | 10% remote | 33 companies | Avg salary: 181k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
