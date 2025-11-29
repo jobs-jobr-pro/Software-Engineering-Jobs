@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -28,6 +28,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mastercard](https://www.mastercard.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33406989/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Nov 29 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Software Engineer (4-7 yrs of exp in ITOM, CMDB, CSDM & ITSM)](https://jobr.pro/job/33406973/sr-software-engineer-4-7-yrs-of-exp-in-itom-cmdb-csdm-itsm?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 29 |
 | **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/33429567/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Coimbatore, CODC1A, India | On Site | Nov 29 |
+| **[Nationwide](https://www.nationwide.com/)** | **[Consultant, Software Engineer (Apigee, ACE IBM)](https://jobr.pro/job/33441293/consultant-software-engineer-apigee-ace-ibm?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ohio - Columbus, Three Nationwide Plaza, United States | On Site | Nov 29 |
 | **[Intelerad](https://www.intelerad.com)** | **[Senior Software Engineer (Back-end, Database PostgreSQL)](https://jobr.pro/job/33406470/senior-software-engineer-back-end-database-postgresql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, UNITED KINGDOM, United Kingdom | Remote | Nov 28 |
 | **[Tether Operations Limited](https://tether.to/en/)** | **[Software Engineer - Mobile Development (Crypto Wallets) - 100% remote](https://jobr.pro/job/33408478/software-engineer-mobile-development-crypto-wallets-100-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote job | Remote | Nov 28 |
 | **[Visa](https://visa.com)** | **[Java Software Engineer - Tink (mid level)](https://jobr.pro/job/33414037/java-software-engineer-tink-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Nov 28 |
@@ -58,15 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Avaloq](https://www.avaloq.com)** | **[Software Engineer](https://jobr.pro/job/33406504/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zurich, Switzerland | On Site | Nov 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - DevOps](https://jobr.pro/job/33425226/software-engineer-ii-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbus, OH, United States | On Site | Nov 28 |
 | **[Stone](https://www.stone.com.br/)** | **[SENIOR SOFTWARE ENGINEER NET C#](https://jobr.pro/job/33411975/senior-software-engineer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remoto | Remote | Nov 28 |
+| **[Voltai](https://voltai.com/)** | **[Software Engineer](https://jobr.pro/job/33434781/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 28 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[Software Engineer - Digital Site Development](https://jobr.pro/job/33421569/software-engineer-digital-site-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Issaquah, WA, US | On Site | Nov 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[QA Lead Software Engineer](https://jobr.pro/job/33425259/qa-lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NY, United States | On Site | Nov 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III – DevOps /Python / AWS](https://jobr.pro/job/33425253/software-engineer-iii-devops-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Frankfurt a. Main, Germany | On Site | Nov 28 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer – DevOps / Python / AWS (all genders)](https://jobr.pro/job/33425252/lead-software-engineer-devops-python-aws-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Frankfurt a. Main, Germany | On Site | Nov 28 |
-| **[Telavox](https://www.telavox.com/)** | **[Senior Software Engineer- Integrations](https://jobr.pro/job/33422446/senior-software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malmö, Sweden | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 25 companies | Avg salary: 133k  
+**Current Stats:** 50 jobs | 36% remote | 26 companies | Avg salary: 133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
