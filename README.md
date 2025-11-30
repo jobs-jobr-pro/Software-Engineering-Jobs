@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[NAGA](https://naga.com/)** | **[Software Engineer](https://jobr.pro/job/33419372/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Dec 01 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Associate Software Engineer](https://jobr.pro/job/33442013/associate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Nov 30 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer (Remote - Europe)](https://jobr.pro/job/33430831/software-engineer-remote-europe?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zagreb, Zagren, HR | Remote | Nov 29 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Data Lineage](https://jobr.pro/job/33423261/software-engineer-iii-data-lineage?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Nov 29 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, YouTube Ads](https://jobr.pro/job/33423264/software-engineer-iii-youtube-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Nov 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Voltai](https://voltai.com/)** | **[Software Engineer](https://jobr.pro/job/33434781/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 28 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[Software Engineer - Digital Site Development](https://jobr.pro/job/33421569/software-engineer-digital-site-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Issaquah, WA, US | On Site | Nov 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[QA Lead Software Engineer](https://jobr.pro/job/33425259/qa-lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NY, United States | On Site | Nov 28 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III – DevOps /Python / AWS](https://jobr.pro/job/33425253/software-engineer-iii-devops-python-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Frankfurt a. Main, Germany | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 26 companies | Avg salary: 133k  
+**Current Stats:** 50 jobs | 36% remote | 27 companies | Avg salary: 133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
