@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[NAGA](https://naga.com/)** | **[Software Engineer](https://jobr.pro/job/33419372/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney, New South Wales, Australia | On Site | Dec 01 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Software Engineer (Cortex AgentiX)](https://jobr.pro/job/33442926/principal-software-engineer-cortex-agentix?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Israel | On Site | Nov 30 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[.NET Software Engineer](https://jobr.pro/job/33442662/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Nov 30 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Associate Software Engineer](https://jobr.pro/job/33442013/associate-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Nov 30 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer- Windows](https://jobr.pro/job/33442184/senior-software-engineer-windows?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Amsterdam, Netherlands | On Site | Nov 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Avaloq](https://www.avaloq.com)** | **[Software Engineer](https://jobr.pro/job/33406504/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zurich, Switzerland | On Site | Nov 28 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - DevOps](https://jobr.pro/job/33425226/software-engineer-ii-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbus, OH, United States | On Site | Nov 28 |
 | **[Stone](https://www.stone.com.br/)** | **[SENIOR SOFTWARE ENGINEER NET C#](https://jobr.pro/job/33411975/senior-software-engineer-net-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remoto | Remote | Nov 28 |
-| **[Voltai](https://voltai.com/)** | **[Software Engineer](https://jobr.pro/job/33434781/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA | On Site | Nov 28 |
 
 ---
 
