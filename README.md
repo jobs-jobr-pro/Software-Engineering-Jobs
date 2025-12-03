@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Software Engineer](https://jobr.pro/job/33589341/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eveleigh, NSW - 1 Locomotive Street, Australia | On Site | Dec 03 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/33553832/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | HUEHUETENANGO, Guatemala | On Site | Dec 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/33553766/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Львів, Ukraine | On Site | Dec 02 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer I - Java - Enterprise ACE Platform](https://jobr.pro/job/33552919/senior-software-engineer-i-java-enterprise-ace-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Dec 02 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Android Context Hub](https://jobr.pro/job/33541969/senior-software-engineer-android-context-hub?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 02 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Cloud Spanner SRE](https://jobr.pro/job/33541962/senior-software-engineer-cloud-spanner-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 02 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Google Photos](https://jobr.pro/job/33541954/software-engineer-google-photos?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney NSW, Australia | On Site | Dec 02 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Machine Learning Infrastructure, Core](https://jobr.pro/job/33541977/software-engineer-iii-machine-learning-infrastructure-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA; New York, NY, USA | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 15 companies | Avg salary: 242k  
+**Current Stats:** 50 jobs | 2% remote | 16 companies | Avg salary: 244k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
