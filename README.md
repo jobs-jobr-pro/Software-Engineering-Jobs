@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer- Developer Experience](https://jobr.pro/job/33819533/sr-software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Dec 05 |
 | **[TechKraft Inc.](https://techkraftinc.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33800416/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lalitpur, Nepal | On Site | Dec 05 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/33800289/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Szczecin, Poland | On Site | Dec 05 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/33800236/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ciudad de México, Mexico | On Site | Dec 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Generative AI, Android](https://jobr.pro/job/33787736/senior-software-engineer-generative-ai-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 05 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Pixel Sensor Intelligence](https://jobr.pro/job/33787721/senior-software-engineer-pixel-sensor-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Shanghai, China | On Site | Dec 05 |
 | **[Walr](https://walr.com/)** | **[Associate Software Engineer, Frontend](https://jobr.pro/job/33792117/associate-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, United Kingdom | On Site | Dec 05 |
-| **[Notified](https://www.notified.com/)** | **[Sr Software Engineer (PHP)](https://jobr.pro/job/33799429/sr-software-engineer-php?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
