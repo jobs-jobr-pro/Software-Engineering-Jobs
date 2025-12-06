@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (Java)](https://jobr.pro/job/33874874/software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Dec 06 |
+| **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID46287](https://jobr.pro/job/33874759/software-engineer-php-id46287?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lisboa, Portugal | On Site | Dec 06 |
+| **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/33874753/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | София / Sofija, Bulgaria | On Site | Dec 06 |
+| **[Virtusa](https://www.virtusa.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33873622/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-NY-New York | On Site | Dec 06 |
+| **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer (Remote - Europe)](https://jobr.pro/job/33881728/software-engineer-remote-europe?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ljubljana, Ljubljana, SI | Remote | Dec 06 |
+| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Buy-Side Automation Frameworks](https://jobr.pro/job/33872843/senior-software-engineer-buy-side-automation-frameworks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Skillman | On Site | Dec 06 |
+| **[Ally Financial](https://www.ally.com/)** | **[Principal Software Engineer - Ally.ai Platform](https://jobr.pro/job/33872782/principal-software-engineer-allyai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 601 S. Tryon Street, NC | Remote | Dec 06 |
+| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer (Multiple Positions)](https://jobr.pro/job/33870669/software-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Dec 06 |
 | **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, Site Reliability Engineering](https://jobr.pro/job/33867759/senior-staff-software-engineer-site-reliability-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Munich, Germany | On Site | Dec 06 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Change Tracked Metadata](https://jobr.pro/job/33867749/software-engineer-ii-change-tracked-metadata?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zürich, Switzerland | On Site | Dec 06 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Mobile (iOS), Workspace](https://jobr.pro/job/33867735/software-engineer-iii-mobile-ios-workspace?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Dec 06 |
@@ -42,6 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Software Engineer - ServiceNow](https://jobr.pro/job/33854944/software-engineer-servicenow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Dec 06 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Software Engineer- ServiceNow](https://jobr.pro/job/33854942/senior-software-engineer-servicenow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warszawa, Mazowieckie, PL | On Site | Dec 06 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Senior Software Engineer (IaaS)](https://jobr.pro/job/33847815/senior-software-engineer-iaas?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, AB, SE, 11122 | On Site | Dec 06 |
+| **[InterImage](https://www.iimage.com/)** | **[2039 Software Engineer 0](https://jobr.pro/job/33878391/2039-software-engineer-0?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Maryland, Fort Meade, United States of America | On Site | Dec 06 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior Software Engineer - Hybrid](https://jobr.pro/job/33844030/senior-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | St. Louis, Missouri, US, 63103-2172 | On Site | Dec 06 |
 | **[City of Oklahoma City](https://www.okc.gov/)** | **[Lead Software Engineer - City](https://jobr.pro/job/33869903/lead-software-engineer-city?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oklahoma City, OK, United States | On Site | Dec 06 |
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Front-end Software Engineer](https://jobr.pro/job/33852801/front-end-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Dec 06 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Waymo](https://waymo.com/)** | **[Backend Software Engineer, Driver Validation](https://jobr.pro/job/33849607/backend-software-engineer-driver-validation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 06 |
 | **[Waymo](https://waymo.com/)** | **[Senior Software Engineer, Driver Validation](https://jobr.pro/job/33849616/senior-software-engineer-driver-validation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 06 |
 | **[Waymo](https://waymo.com/)** | **[Senior Software Engineer, Fleet Orchestration and Optimization](https://jobr.pro/job/33849617/senior-software-engineer-fleet-orchestration-and-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 06 |
-| **[Fanatics](https://www.fanaticsinc.com/)** | **[Staff Software Engineer](https://jobr.pro/job/33869883/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Dec 06 |
-| **[Instacart](https://www.instacart.com/)** | **[Software Engineer II, Marketing Enablement & Technology](https://jobr.pro/job/33843306/software-engineer-ii-marketing-enablement-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States - Remote | Remote | Dec 06 |
-| **[Aurora Solar](https://aurorasolar.com/)** | **[Senior Software Engineer, Sales Mode](https://jobr.pro/job/33843519/senior-software-engineer-sales-mode?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | Remote | Dec 06 |
-| **[Waymo](https://waymo.com/)** | **[Software Engineer, Embedded](https://jobr.pro/job/33849622/software-engineer-embedded?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, US | On Site | Dec 06 |
-| **[TileDB](https://tiledb.com/)** | **[Infrastructure Software Engineer](https://jobr.pro/job/33861675/infrastructure-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (United States) | Remote | Dec 06 |
-| **[Marqeta](https://www.marqeta.com/)** | **[\[PIPELINE\] Senior Software Engineer - Backend](https://jobr.pro/job/33838534/pipeline-senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | Dec 06 |
-| **[Marqeta](https://www.marqeta.com/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/33846095/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | Dec 06 |
-| **[Portside](https://www.portside.co/)** | **[Senior Salesforce Software Engineer](https://jobr.pro/job/33862647/senior-salesforce-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (Mexico); Remote (Brazil); Remote (Argentina); Remote (Chile); Remote (Costa Rica) | Remote | Dec 06 |
-| **[Equifax](https://www.equifax.com/)** | **[Software Engineer - Career](https://jobr.pro/job/33831585/software-engineer-career?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND-Pune-Equifax Analytics-PTEC, India | On Site | Dec 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 19 companies | Avg salary: 217k  
+**Current Stats:** 50 jobs | 6% remote | 20 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
