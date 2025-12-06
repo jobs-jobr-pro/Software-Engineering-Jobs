@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Equifax](https://www.equifax.com/)** | **[Software Engineer - Career](https://jobr.pro/job/33831585/software-engineer-career?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND-Pune-Equifax Analytics-PTEC, India | On Site | Dec 06 |
 | **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Software Engineer- Developer Experience](https://jobr.pro/job/33819533/sr-software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Dec 05 |
 | **[TechKraft Inc.](https://techkraftinc.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33800416/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lalitpur, Nepal | On Site | Dec 05 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/33800289/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Szczecin, Poland | On Site | Dec 05 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Device-Side Software Engineer, Android Enterprise](https://jobr.pro/job/33787739/device-side-software-engineer-android-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Dec 05 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Generative AI, Android](https://jobr.pro/job/33787736/senior-software-engineer-generative-ai-android?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 05 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Pixel Sensor Intelligence](https://jobr.pro/job/33787721/senior-software-engineer-pixel-sensor-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Shanghai, China | On Site | Dec 05 |
-| **[Walr](https://walr.com/)** | **[Associate Software Engineer, Frontend](https://jobr.pro/job/33792117/associate-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, United Kingdom | On Site | Dec 05 |
 
 ---
 
