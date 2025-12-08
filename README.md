@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Kyndryl](https://www.kyndryl.com/)** | **[Agentic AI - Software Engineer](https://jobr.pro/job/33948201/agentic-ai-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tokyo (KJP51658) Roppongi Hills, Japan | On Site | Dec 09 |
+| **[ADP](https://www.adp.com/)** | **[Senior Lead Full-Stack Software Engineer - SORA](https://jobr.pro/job/33939347/senior-lead-full-stack-software-engineer-sora?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Porto Alegre, BRA-RS, Brazil | On Site | Dec 08 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/33931696/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Capital City of Warsaw, PL | On Site | Dec 08 |
 | **[Zenity](https://www.zenity.io/)** | **[Senior Software Engineer- NY](https://jobr.pro/job/33931603/senior-software-engineer-ny?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, US | On Site | Dec 08 |
 | **[CUJO AI](https://cujo.com/)** | **[Software Engineer, Firmware](https://jobr.pro/job/33932954/software-engineer-firmware?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Espoo, Uusimaa, FI | Remote | Dec 08 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Photon](https://www.photon.com/)** | **[Software Engineer - Vue.JS - Offshore](https://jobr.pro/job/33921604/software-engineer-vuejs-offshore?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Dec 08 |
 | **[Roku](https://www.weareroku.com/)** | **[Senior Software Engineer, Data Management](https://jobr.pro/job/33907470/senior-software-engineer-data-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, India | On Site | Dec 08 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Software Engineer](https://jobr.pro/job/33926451/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 08 |
-| **[NICE](https://www.nice.com/)** | **[Specialist Software Engineer](https://jobr.pro/job/33907530/specialist-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune | On Site | Dec 08 |
-| **[Chubb](https://www.chubb.com/)** | **[Senior Software Engineer](https://jobr.pro/job/33922167/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Telangana, India | On Site | Dec 08 |
 
 ---
 
