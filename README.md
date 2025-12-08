@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Software Engineer (Cortex Cloud)](https://jobr.pro/job/33902232/senior-software-engineer-cortex-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Israel | On Site | Dec 07 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Linux Internals Principal Software Engineer (Cortex XDR)](https://jobr.pro/job/33901900/linux-internals-principal-software-engineer-cortex-xdr?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Israel | On Site | Dec 07 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Embedded Software Engineer, SRD Annapurna Labs](https://jobr.pro/job/33902907/embedded-software-engineer-srd-annapurna-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Haifa, HA, ISR | On Site | Dec 07 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer (Java)](https://jobr.pro/job/33874874/software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Arizona-Phoenix | On Site | Dec 06 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID46287](https://jobr.pro/job/33874759/software-engineer-php-id46287?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lisboa, Portugal | On Site | Dec 06 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/33874753/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | София / Sofija, Bulgaria | On Site | Dec 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Upstart](https://www.upstart.com/)** | **[Software Engineer, Offer Delivery](https://jobr.pro/job/33844614/software-engineer-offer-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States \| Remote | Remote | Dec 06 |
 | **[Q-CTRL](https://q-ctrl.com/)** | **[Senior Software Engineer, Quantum Control (Fire Opal)](https://jobr.pro/job/33841229/senior-software-engineer-quantum-control-fire-opal?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles | On Site | Dec 06 |
 | **[Scale AI](https://scale.com/)** | **[Software Engineer, Full Stack – Scale GP](https://jobr.pro/job/33844917/software-engineer-full-stack-scale-gp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA; New York, NY | On Site | Dec 06 |
-| **[Scale AI](https://scale.com/)** | **[Senior Software Engineer, Full-Stack – Scale GP](https://jobr.pro/job/33844916/senior-software-engineer-full-stack-scale-gp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA; New York, NY | On Site | Dec 06 |
-| **[Tonal](https://www.tonal.com/)** | **[Senior Software Engineer, Full-Stack Mobile](https://jobr.pro/job/33845722/senior-software-engineer-full-stack-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Dec 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 20 companies | Avg salary: 213k  
+**Current Stats:** 50 jobs | 6% remote | 20 companies | Avg salary: 212k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
