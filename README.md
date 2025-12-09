@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[ORBCOMM](https://www.orbcomm.com/)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/33978232/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ottawa, ON, CA | On Site | Dec 09 |
+| **[Tyto Athene](https://gotyto.com/)** | **[FCC Technology Software Engineer](https://jobr.pro/job/34017873/fcc-technology-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Morristown, NJ, United States | On Site | Dec 09 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/34012894/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Madrid, Madrid, ES | On Site | Dec 09 |
 | **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/34016234/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NYC or Baltimore, MD | On Site | Dec 09 |
 | **[NewGen Technologies Inc.](https://newgentechnologies.com/)** | **[Software Engineer](https://jobr.pro/job/34016236/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NYC or Baltimore, MD | On Site | Dec 09 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Audio Machine Learning](https://jobr.pro/job/33992754/senior-software-engineer-audio-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA; Seattle, WA, USA | On Site | Dec 09 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Virtual Storage (Mandarin, English)](https://jobr.pro/job/33992744/staff-software-engineer-virtual-storage-mandarin-english?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Dec 09 |
 | **[Bosch Group](https://www.bosch.com)** | **[PreMaster Program \| Software Engineer for MEMS Sensors (f/m/div)](https://jobr.pro/job/34000498/premaster-program-software-engineer-for-mems-sensors-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Reutlingen, Germany | On Site | Dec 09 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer Fullstack](https://jobr.pro/job/34000506/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Dec 09 |
 
 ---
 
