@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Software Engineer](https://jobr.pro/job/34113923/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 10 |
+| **[ECS](https://ecstech.com/)** | **[Junior Software Engineer](https://jobr.pro/job/34113922/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | FAIRFAX, VA, United States | On Site | Dec 10 |
 | **[Onyx Point](https://www.onyxpoint.com)** | **[DAC Software Engineer Skill Level 2](https://jobr.pro/job/34109702/dac-software-engineer-skill-level-2?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hanover, MD | On Site | Dec 10 |
 | **[Claroty](https://claroty.com/)** | **[Full Stack Software Engineer](https://jobr.pro/job/34104134/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv, IL | On Site | Dec 10 |
 | **[DRS RADA Technologies](https://www.drsrada.com/)** | **[AI Software Engineer- Student Position](https://jobr.pro/job/34103998/ai-software-engineer-student-position?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Netanya, Center District, IL | On Site | Dec 10 |
 | **[Eliq](https://eliq.com/)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/34100447/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Västra Götaland County, Gothenburg, Sweden | On Site | Dec 10 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Software Engineer - Brady Relaunch](https://jobr.pro/job/34118742/software-engineer-brady-relaunch?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Milwaukee, WI, United States | On Site | Dec 10 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/34097974/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Guadalajara, Mexico | On Site | Dec 10 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/34097946/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | JOSE MARTI, Argentina | On Site | Dec 10 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34094138/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LK-1-Colombo | On Site | Dec 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Front End, Labs, Google Flow](https://jobr.pro/job/34084193/senior-software-engineer-front-end-labs-google-flow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, New York, USA; New York, NY, USA | On Site | Dec 10 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Shopping Targeting](https://jobr.pro/job/34084179/software-engineer-iii-aiml-shopping-targeting?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 10 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Video Ads Forecasting](https://jobr.pro/job/34084171/software-engineer-iii-video-ads-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA, USA | On Site | Dec 10 |
-| **[Google](https://www.google.com/)** | **[Software Engineer II, Trust, YouTube](https://jobr.pro/job/34084149/software-engineer-ii-trust-youtube?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Zürich, Switzerland | On Site | Dec 10 |
-| **[Google](https://www.google.com/)** | **[Senior Staff Software Engineer, One Platform](https://jobr.pro/job/34084143/senior-staff-software-engineer-one-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA; Sunnyvale, CA, USA | On Site | Dec 10 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Search, AI Answers](https://jobr.pro/job/34084138/software-engineer-search-ai-answers?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge, MA, USA | On Site | Dec 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 266k  
+**Current Stats:** 50 jobs | 4% remote | 20 companies | Avg salary: 265k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
