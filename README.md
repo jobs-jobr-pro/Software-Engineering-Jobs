@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Heico Corporation](https://heico.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34199644/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Dec 11 |
+| **[ADP](https://www.adp.com/)** | **[Full Stack Software Engineer](https://jobr.pro/job/34198877/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Etobicoke, ON, Canada | On Site | Dec 11 |
+| **[ADP](https://www.adp.com/)** | **[Software Engineer](https://jobr.pro/job/34198855/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Alpharetta, GA, United States | On Site | Dec 11 |
 | **[CES](https://cesltd.com/)** | **[Software Engineer Req#2885](https://jobr.pro/job/34189817/software-engineer-req2885?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Dec 11 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID46287](https://jobr.pro/job/34188077/software-engineer-php-id46287?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Пловдив / Plovdiv, Bulgaria | On Site | Dec 11 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID45371](https://jobr.pro/job/34188068/software-engineer-id45371?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | София / Sofija, Bulgaria | On Site | Dec 11 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, V8 Security](https://jobr.pro/job/34175809/software-engineer-iii-v8-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Munich, Germany | On Site | Dec 11 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Chrome Product Security, Core](https://jobr.pro/job/34175790/staff-software-engineer-chrome-product-security-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA; Seattle, WA, USA | On Site | Dec 11 |
 | **[Google](https://www.google.com/)** | **[Display Software Engineer](https://jobr.pro/job/34175784/display-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Google Research](https://jobr.pro/job/34175782/software-engineer-iii-aiml-google-research?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Chrome Product Security, Core](https://jobr.pro/job/34175762/software-engineer-iii-chrome-product-security-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA; Kirkland, WA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, F1 Query](https://jobr.pro/job/34175743/software-engineer-f1-query?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 16 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 236k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
