@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,13 +13,20 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Data Axle Inc.](https://www.data-axle.com/)** | **[Software Engineer](https://jobr.pro/job/34276916/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 12 |
+| **[ADP](https://www.adp.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34276682/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, IND-TN, India | On Site | Dec 12 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Lead Platform Software Engineer](https://jobr.pro/job/34272446/lead-platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | On Site | Dec 12 |
+| **[Inspira Financial](https://inspirafinancial.com/)** | **[Sr. Platform Software Engineer (Remote)](https://jobr.pro/job/34272445/sr-platform-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oak Brook, IL, United States | Remote | Dec 12 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/34267292/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belgrade, Belgrade, RS | On Site | Dec 12 |
+| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Embedded Energy Software Engineer](https://jobr.pro/job/34260731/embedded-energy-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rochester, NY, United States | On Site | Dec 12 |
+| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/34260698/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Greene, NY, United States | On Site | Dec 12 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID45937](https://jobr.pro/job/34258921/software-engineer-php-id45937?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Харків, Ukraine | On Site | Dec 12 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/34258760/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Florianópolis, Brazil | On Site | Dec 12 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID46287](https://jobr.pro/job/34258487/software-engineer-php-id46287?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 12 |
 | **[American Express](https://www.americanexpress.com/)** | **[Software Engineer lll - Java - Enterprise Communications Platform](https://jobr.pro/job/34258438/software-engineer-lll-java-enterprise-communications-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Dec 12 |
 | **[Aspire, Jordan](https://aspire.jo/)** | **[Senior Software Engineer](https://jobr.pro/job/34258054/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Amman, Jordan | On Site | Dec 12 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Data Gateway Interfaces](https://jobr.pro/job/34256025/senior-software-engineer-data-gateway-interfaces?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Skillman | On Site | Dec 12 |
+| **[Stellantis](https://www.stellantis.com/)** | **[Junior Software Engineer – Connectivity](https://jobr.pro/job/34272568/junior-software-engineer-connectivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Auburn Hills, MI, United States | On Site | Dec 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Principal DDOS Software Engineer](https://jobr.pro/job/34257759/principal-ddos-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ireland | On Site | Dec 12 |
 | **[Textron Inc.](https://www.textron.com/)** | **[Embedded Software Engineer, MV-75](https://jobr.pro/job/34255193/embedded-software-engineer-mv-75?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Texas-Fort Worth | On Site | Dec 12 |
 | **[Eurofins](https://www.eurofins.com)** | **[Software Engineer](https://jobr.pro/job/34254870/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Dec 12 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Developer Tools, Silicon](https://jobr.pro/job/34248282/software-engineer-developer-tools-silicon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New Taipei, Banqiao District, New Taipei City, Taiwan | On Site | Dec 12 |
 | **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[IT Software Engineer (m/w/x)](https://jobr.pro/job/34254924/it-software-engineer-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Premstätten, Steiermark, Austria | On Site | Dec 12 |
 | **[SQLI](https://www.sqli.com)** | **[Software Engineer secteur Défense - Stage de fin d’études – Fullstack EAM & IA & DATA F/H](https://jobr.pro/job/34254678/software-engineer-secteur-defense-stage-de-fin-detudes-fullstack-eam-ia-data-fh?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Dec 12 |
-| **[NeuReality](https://www.neureality.ai/)** | **[Senior Networking Software Engineer](https://jobr.pro/job/34266198/senior-networking-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, center, IL | On Site | Dec 12 |
-| **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Senior Software Engineer (m/w/x)](https://jobr.pro/job/34254929/senior-software-engineer-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Wien, Austria | On Site | Dec 12 |
-| **[REWE International Dienstleistungsgesellschaft m.b.H](https://rewe-group.at)** | **[Lead Software Engineer (m/w/x)](https://jobr.pro/job/34254935/lead-software-engineer-mwx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Wien, Wien, Austria | On Site | Dec 12 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Surveillance Product - Full Stack + AWS + Elastic / Open Search](https://jobr.pro/job/34252922/software-engineer-iii-surveillance-product-full-stack-aws-elastic-open-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 12 |
-| **[Inter IKEA Group](https://www.ikea.com/)** | **[Software Engineer](https://jobr.pro/job/34254948/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malmö, Sweden | On Site | Dec 12 |
-| **[Lely](https://www.lely.com)** | **[Robotic Software Engineer](https://jobr.pro/job/34254950/robotic-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Maassluis, ZH, Netherlands | On Site | Dec 12 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III Data Engineering, Job scheduling tools](https://jobr.pro/job/34252910/software-engineer-iii-data-engineering-job-scheduling-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 17 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 224k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
