@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,10 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com)** | **[Lead Software Engineer - Observability](https://jobr.pro/job/34213341/lead-software-engineer-observability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Des Moines, IA, United States | Remote | Dec 11 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Senior Staff Software Engineer (Prisma Access)](https://jobr.pro/job/34213350/senior-staff-software-engineer-prisma-access?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Dec 11 |
+| **[Visa](https://visa.com)** | **[Software Engineer - Sr. Consultant level – Open Banking (12-15 years' experience, GenAI, Java)](https://jobr.pro/job/34213100/software-engineer-sr-consultant-level-open-banking-12-15-years-experience-genai-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Dec 11 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/34213387/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 11 |
+| **[Visa](https://visa.com)** | **[Lead Software Engineer – Open Banking (15+ years' experience, GenAI, Java, AWS, DevOps)](https://jobr.pro/job/34213101/lead-software-engineer-open-banking-15-years-experience-genai-java-aws-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Dec 11 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Software Engineer](https://jobr.pro/job/34213393/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 11 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr. Staff Software Engineer (Nexus)](https://jobr.pro/job/34213561/sr-staff-software-engineer-nexus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Dec 11 |
 | **[Heico Corporation](https://heico.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34199644/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Dec 11 |
+| **[ALTEN](https://www.alten.com/)** | **[C/C++ Software engineer](https://jobr.pro/job/34213125/cc-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur, France | On Site | Dec 11 |
 | **[ADP](https://www.adp.com/)** | **[Full Stack Software Engineer](https://jobr.pro/job/34198877/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Etobicoke, ON, Canada | On Site | Dec 11 |
 | **[ADP](https://www.adp.com/)** | **[Software Engineer](https://jobr.pro/job/34198855/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Alpharetta, GA, United States | On Site | Dec 11 |
 | **[CES](https://cesltd.com/)** | **[Software Engineer Req#2885](https://jobr.pro/job/34189817/software-engineer-req2885?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Dec 11 |
+| **[zooplus SE](https://careers.zooplus.com)** | **[Software Engineer - Python (All genders)](https://jobr.pro/job/34213482/software-engineer-python-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Madrid, Spain | On Site | Dec 11 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (PHP) ID46287](https://jobr.pro/job/34188077/software-engineer-php-id46287?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Пловдив / Plovdiv, Bulgaria | On Site | Dec 11 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID45371](https://jobr.pro/job/34188068/software-engineer-id45371?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | София / Sofija, Bulgaria | On Site | Dec 11 |
 | **[VIDA Digital Identity](https://vida.id/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/34189767/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Karnataka, Bengaluru, India | On Site | Dec 11 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Storage](https://jobr.pro/job/34175838/software-engineer-iii-google-cloud-storage?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Dec 11 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Platforms and Performance](https://jobr.pro/job/34175823/staff-software-engineer-platforms-and-performance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 11 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Effingo](https://jobr.pro/job/34175859/software-engineer-iii-effingo?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Google Cloud Platforms](https://jobr.pro/job/34175857/software-engineer-iii-google-cloud-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI/ML GenAI, Google Cloud](https://jobr.pro/job/34175842/staff-software-engineer-aiml-genai-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Infrastructure, Google Cloud Networking](https://jobr.pro/job/34175805/software-engineer-iii-infrastructure-google-cloud-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Full Stack, Ads](https://jobr.pro/job/34175802/software-engineer-iii-full-stack-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, Search, AI Answers Quality](https://jobr.pro/job/34175792/senior-software-engineer-search-ai-answers-quality?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge, MA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Advanced Analytics, AttentionFlow](https://jobr.pro/job/34175810/software-engineer-advanced-analytics-attentionflow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Irvine, CA, USA; Madison, WI, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, V8 Security](https://jobr.pro/job/34175809/software-engineer-iii-v8-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Munich, Germany | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Chrome Product Security, Core](https://jobr.pro/job/34175790/staff-software-engineer-chrome-product-security-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA; Seattle, WA, USA | On Site | Dec 11 |
-| **[Google](https://www.google.com/)** | **[Display Software Engineer](https://jobr.pro/job/34175784/display-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 18 companies | Avg salary: 236k  
+**Current Stats:** 50 jobs | 6% remote | 23 companies | Avg salary: 227k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
