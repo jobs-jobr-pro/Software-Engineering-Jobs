@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Conservice](https://www.conservice.com/)** | **[Sr Software Engineer](https://jobr.pro/job/34341632/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Logan, UT, United States | On Site | Dec 13 |
+| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Robotics Software Engineer III](https://jobr.pro/job/34340437/robotics-software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbus, IN, United States | On Site | Dec 13 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/34329990/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Aguascalientes, Mexico | On Site | Dec 13 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Software Engineer - C++ (Med Device Product Development)](https://jobr.pro/job/34328202/software-engineer-c-med-device-product-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-WI-Waukesha | On Site | Dec 13 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer - Directory Group Management](https://jobr.pro/job/34326890/senior-software-engineer-directory-group-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London | On Site | Dec 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Backend Software Engineer](https://jobr.pro/job/34324701/senior-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco - United States - San Francisco, California 94104 United States; Remote - Remote | Remote | Dec 13 |
 | **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/34334469/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, BDC14A, India | On Site | Dec 13 |
 | **[Devsinc](https://devsinc.com/)** | **[Associate Software Engineer - AI/ML- Fresh Graduates](https://jobr.pro/job/34327611/associate-software-engineer-aiml-fresh-graduates?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lahore, Punjab, Pakistan | On Site | Dec 13 |
-| **[NMI](https://www.nmi.com/)** | **[Staff Software Engineer](https://jobr.pro/job/34298846/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, US | Remote | Dec 12 |
-| **[NMI](https://www.nmi.com/)** | **[Senior Staff Software Engineer](https://jobr.pro/job/34298844/senior-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, US | Remote | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 20 companies | Avg salary: 210k  
+**Current Stats:** 50 jobs | 26% remote | 21 companies | Avg salary: 213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
