@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DNV](https://www.dnv.com/)** | **[Software Engineer](https://jobr.pro/job/34372685/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 15 |
 | **[CERN](https://home.cern)** | **[Full-Stack Software Engineer (EP-CMO-2025-288-GRAE)](https://jobr.pro/job/34370374/full-stack-software-engineer-ep-cmo-2025-288-grae?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Geneva, GENEVA, Switzerland | On Site | Dec 15 |
 | **[Furbnow](https://www.furbnow.com/)** | **[Software Engineer](https://jobr.pro/job/34370182/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, England, United Kingdom | On Site | Dec 15 |
+| **[Akkodis](https://www.akkodis.com/)** | **[Junior HVAC Software Engineer – Automotive](https://jobr.pro/job/34395925/junior-hvac-software-engineer-automotive?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Piemonte, Torino | On Site | Dec 15 |
 | **[Google](https://www.google.com/)** | **[Software Engineer Manager, Android, Laptops and Tablets, Cellular](https://jobr.pro/job/34366238/software-engineer-manager-android-laptops-and-tablets-cellular?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA, USA | On Site | Dec 15 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, Google Ads](https://jobr.pro/job/34366234/senior-software-engineer-aiml-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 15 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Infrastructure, Google Cloud Compute](https://jobr.pro/job/34366224/staff-software-engineer-infrastructure-google-cloud-compute?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Dec 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zuora](https://www.zuora.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34357972/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Dec 15 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Python/Java, AWS, Spark, Big Data](https://jobr.pro/job/34366989/software-engineer-iii-pythonjava-aws-spark-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 15 |
 | **[Robinhood](https://robinhood.com/)** | **[Staff Software Engineer, Crypto Custody](https://jobr.pro/job/34356666/staff-software-engineer-crypto-custody?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Menlo Park, CA; New York, NY | On Site | Dec 15 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Senior Lead Software Engineer, Central Risk Booking, Equities Trading Technology](https://jobr.pro/job/34367041/senior-lead-software-engineer-central-risk-booking-equities-trading-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hong Kong | On Site | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 27 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 6% remote | 28 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
