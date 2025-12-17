@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Data Axle Inc.](https://www.data-axle.com/)** | **[Software Engineer](https://jobr.pro/job/34559098/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 17 |
+| **[Conservice](https://www.conservice.com/)** | **[Software Engineer II](https://jobr.pro/job/34555245/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Dec 17 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/34546953/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ljubljana, Ljubljana, SI | On Site | Dec 17 |
+| **[Casey's](https://www.caseys.com/)** | **[Software Engineer - Ecommerce (Java)](https://jobr.pro/job/34552493/software-engineer-ecommerce-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ankeny, IA, United States | Remote | Dec 17 |
 | **[American Express](https://www.americanexpress.com/)** | **[Senior Software Engineer I - Java - Enterprise ACE Platform](https://jobr.pro/job/34537439/senior-software-engineer-i-java-enterprise-ace-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Sunrise | On Site | Dec 17 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Senior Software Engineer - Java Lead](https://jobr.pro/job/34537076/senior-software-engineer-java-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-WA-Seattle | On Site | Dec 17 |
 | **[Astellas Pharma](https://www.astellas.com/)** | **[Software Engineer, Full Stack](https://jobr.pro/job/34532660/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland | On Site | Dec 17 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java, Spark AWS](https://jobr.pro/job/34534381/software-engineer-iii-java-spark-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 17 |
 | **[Worldline](https://www.worldline.com)** | **[C++ Software Engineer](https://jobr.pro/job/34504081/c-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest, B, RO | On Site | Dec 17 |
 | **[Mindbody](https://www.mindbodyonline.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34509247/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India | On Site | Dec 17 |
-| **[NICE](https://www.nice.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34507905/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India - Pune | On Site | Dec 17 |
-| **[Open Cosmos](https://www.open-cosmos.com/)** | **[Flight Software Engineer](https://jobr.pro/job/34528652/flight-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | La Laguna, Spain | On Site | Dec 17 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer-Java, AWS](https://jobr.pro/job/34534399/lead-software-engineer-java-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 22 companies | Avg salary: 246k  
+**Current Stats:** 50 jobs | 6% remote | 24 companies | Avg salary: 246k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
