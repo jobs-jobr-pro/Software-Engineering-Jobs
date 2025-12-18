@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[oOh!media](https://oohmedia.com.au/)** | **[Software Engineer](https://jobr.pro/job/34627844/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Sydney, NSW, AU | On Site | Dec 18 |
+| **[Félix](https://www.felixpago.com/)** | **[Staff Software Engineer (Fintech Office)](https://jobr.pro/job/34631936/staff-software-engineer-fintech-office?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico | On Site | Dec 18 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Software Engineer](https://jobr.pro/job/34622683/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest, Municipality of Bucharest, RO | On Site | Dec 18 |
 | **[Etteplan](https://www.etteplan.com/)** | **[Software Engineer Automatisierungstechnik Industrie (m/w/d)](https://jobr.pro/job/34625321/software-engineer-automatisierungstechnik-industrie-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Wiesloch | On Site | Dec 18 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Cloud Platform, Kubernetes, Go](https://jobr.pro/job/34620364/software-engineer-iii-cloud-platform-kubernetes-go?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GLASGOW, LANARKSHIRE, United Kingdom | On Site | Dec 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, AI and Infrastructure](https://jobr.pro/job/34605232/senior-software-engineer-aiml-ai-and-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA, USA; Sunnyvale, CA, USA | On Site | Dec 18 |
 | **[Google](https://www.google.com/)** | **[Software Engineer II, Site Reliability](https://jobr.pro/job/34605225/software-engineer-ii-site-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pittsburgh, PA, USA | On Site | Dec 18 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Core](https://jobr.pro/job/34605219/senior-software-engineer-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 18 |
-| **[Google](https://www.google.com/)** | **[Staff Software Engineer, Infrastructure, Core](https://jobr.pro/job/34605217/staff-software-engineer-infrastructure-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 18 companies | Avg salary: 224k  
+**Current Stats:** 50 jobs | 2% remote | 19 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
