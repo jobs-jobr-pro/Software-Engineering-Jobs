@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Full Stack Software Engineer](https://jobr.pro/job/34713164/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Etobicoke, ON, Canada | On Site | Dec 19 |
 | **[WithSecure](https://www.withsecure.com)** | **[Senior Software Engineer (Salesforce)](https://jobr.pro/job/34712075/senior-software-engineer-salesforce?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Helsinki | On Site | Dec 19 |
 | **[Vobi](https://www.vobi.com.br/)** | **[Software Engineer - Full Stack](https://jobr.pro/job/34699821/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Dec 19 |
 | **[Hilton](https://www.hilton.com/)** | **[Software Engineer, Automation](https://jobr.pro/job/34698365/software-engineer-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hilton - Systems Solutions - Memphis 755 Crossover Lane Memphis 38117 | On Site | Dec 19 |
@@ -20,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GBH](https://gbh.tech/)** | **[Senior Software Engineer (AI / LLM)](https://jobr.pro/job/34698072/senior-software-engineer-ai-llm?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Dec 19 |
 | **[Nintendo](https://www.nintendo.com/)** | **[Software Engineer (Application & Test Development)](https://jobr.pro/job/34698063/software-engineer-application-test-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WA-Redmond | Remote | Dec 19 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Cloud Sr. Software Engineer DevOps](https://jobr.pro/job/34697250/cloud-sr-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN-AP-Hyderabad | On Site | Dec 19 |
+| **[Félix](https://www.felixpago.com/)** | **[Senior Software Engineer (Fintech Platform)](https://jobr.pro/job/34714895/senior-software-engineer-fintech-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico | On Site | Dec 19 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java, AWS,AI](https://jobr.pro/job/34699383/lead-software-engineer-java-awsai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 19 |
 | **[BAE Systems](https://www.baesystems.com/)** | **[Lead Software Engineer](https://jobr.pro/job/34695114/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | GB-ENG-LAN-Warton | On Site | Dec 19 |
 | **[Accesa & RaRo](https://accesa.eu)** | **[Software Engineer with Angular and .NET](https://jobr.pro/job/34695410/software-engineer-with-angular-and-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Employees can work remotely - Romania, CJ, Romania | Remote | Dec 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Payments Security, Offensive Security](https://jobr.pro/job/34689767/software-engineer-payments-security-offensive-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boulder, CO, USA | On Site | Dec 19 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Generative AI/ML, Search Ads](https://jobr.pro/job/34689769/senior-software-engineer-generative-aiml-search-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; Kirkland, WA, USA | On Site | Dec 19 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, GKE, Google Cloud](https://jobr.pro/job/34689739/software-engineer-iii-gke-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | On Site | Dec 19 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Mobile, Android, Platforms and Devices](https://jobr.pro/job/34689729/software-engineer-mobile-android-platforms-and-devices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Dec 19 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, AI/ML, Search Ads](https://jobr.pro/job/34689719/senior-software-engineer-aiml-search-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 17 companies | Avg salary: 236k  
+**Current Stats:** 50 jobs | 8% remote | 19 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
