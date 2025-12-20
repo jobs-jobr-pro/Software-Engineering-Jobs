@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Simple Software Solutions Group](https://sssg.us/)** | **[Senior Software Engineer, Product Engineering – Hybrid 3 days](https://jobr.pro/job/34773843/senior-software-engineer-product-engineering-hybrid-3-days?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pleasanton, United States | On Site | Dec 20 |
+| **[Simple Software Solutions Group](https://sssg.us/)** | **[Sr. Full Stack Security Software Engineer IAM (Identity and Access Management) – Hybrid 3 days](https://jobr.pro/job/34773840/sr-full-stack-security-software-engineer-iam-identity-and-access-management-hybrid-3-days?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pleasanton, United States | On Site | Dec 20 |
+| **[Softgic](https://softgic.co/)** | **[SOL-1443 Senior Frontend Software Engineer](https://jobr.pro/job/34773098/sol-1443-senior-frontend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Medellin, Colombia | On Site | Dec 20 |
+| **[Hilton](https://www.hilton.com/)** | **[Senior Software Engineer - UI](https://jobr.pro/job/34771298/senior-software-engineer-ui?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hilton - Systems Solutions - Memphis 755 Crossover Lane Memphis 38117 | On Site | Dec 20 |
+| **[ManTech](https://www.mantech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34769597/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA-IN-Crane | On Site | Dec 20 |
+| **[Ally Financial](https://www.ally.com/)** | **[Senior Software Engineer - Data Engineering](https://jobr.pro/job/34769047/senior-software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 601 S. Tryon Street, NC | Remote | Dec 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Android Studio](https://jobr.pro/job/34765486/software-engineer-iii-android-studio?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Viby, Denmark | On Site | Dec 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer Manager II, Full Stack](https://jobr.pro/job/34765455/software-engineer-manager-ii-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kirkland, WA, USA | On Site | Dec 20 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, SCP, Multimodal Content and Creator Understanding](https://jobr.pro/job/34765475/software-engineer-scp-multimodal-content-and-creator-understanding?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belo Horizonte, State of Minas Gerais, Brazil | On Site | Dec 20 |
@@ -55,18 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/34747298/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, HDC3B, India | On Site | Dec 20 |
 | **[Autonomous Solutions, Inc.](https://asirobots.com/)** | **[Embedded Software Engineer IV - AI Applications](https://jobr.pro/job/34759040/embedded-software-engineer-iv-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mendon, Utah, USA | On Site | Dec 20 |
 | **[Autonomous Solutions, Inc.](https://asirobots.com/)** | **[C# Software Engineer IV - AI Applications](https://jobr.pro/job/34759039/c-software-engineer-iv-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mendon, Utah, USA | On Site | Dec 20 |
+| **[UBS](https://www.ubs.com/)** | **[UI Software Engineer (ReactJS)](https://jobr.pro/job/34771879/ui-software-engineer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 20 |
 | **[Workato](https://www.workato.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34740883/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California | On Site | Dec 19 |
-| **[Latitude AI](https://lat.ai/)** | **[Staff Embedded Software Engineer](https://jobr.pro/job/34743450/staff-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pittsburgh, PA, Palo Alto, CA, Detroit, MI | On Site | Dec 19 |
-| **[Marqeta](https://www.marqeta.com/)** | **[Senior Software Engineer - Credit](https://jobr.pro/job/34741496/senior-software-engineer-credit?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | Dec 19 |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Software Engineer (DLP - ML/Backend - Java)](https://jobr.pro/job/34731220/sr-staff-software-engineer-dlp-mlbackend-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Dec 19 |
-| **[Marqeta](https://www.marqeta.com/)** | **[Software Engineer I - Data Infrastructure](https://jobr.pro/job/34741498/software-engineer-i-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada; Vancouver, Canada | On Site | Dec 19 |
-| **[Hyperfine](https://hyperfine.io/)** | **[Senior Software Engineer, Cloud](https://jobr.pro/job/34733449/senior-software-engineer-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Guilford, Connecticut | On Site | Dec 19 |
-| **[Twitch](https://www.twitch.tv/)** | **[Software Engineer, Creator Monetization](https://jobr.pro/job/34738689/software-engineer-creator-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Dec 19 |
-| **[Upstart](https://www.upstart.com/)** | **[Senior Software Engineer, Machine Learning & Simulations Platform](https://jobr.pro/job/34740264/senior-software-engineer-machine-learning-simulations-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States \| Remote | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 23 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 8% remote | 23 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
