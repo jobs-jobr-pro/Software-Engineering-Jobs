@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[Embedded Software Engineer (POSIX OS, Linux)](https://jobr.pro/job/34800260/embedded-software-engineer-posix-os-linux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Vietnam | On Site | Dec 21 |
+| **[KMS Technology](https://careers.kms-technology.com)** | **[Senior Full-stack Software Engineer (ReactJS, Java)](https://jobr.pro/job/34800262/senior-full-stack-software-engineer-reactjs-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Dec 21 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior System Software Engineer, Compute System](https://jobr.pro/job/34796413/senior-system-software-engineer-compute-system?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India, Bengaluru | On Site | Dec 21 |
 | **[NVIDIA](https://www.nvidia.com/)** | **[Senior GPU Firmware System Software Engineer](https://jobr.pro/job/34796412/senior-gpu-firmware-system-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India, Bengaluru | On Site | Dec 21 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Backend Software Engineer-DBA](https://jobr.pro/job/34791139/backend-software-engineer-dba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Dec 20 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Blissway](https://www.blissway.com/)** | **[Software Engineer - Vehicle Identification](https://jobr.pro/job/34742191/software-engineer-vehicle-identification?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, Colorado | On Site | Dec 20 |
 | **[Johnson Health Tech Companies](https://www.johnsonhealthtech.com/)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/34764074/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cottage Grove, WI, US | On Site | Dec 20 |
 | **[Delinea](https://delinea.com/)** | **[Software Engineer - Automation Engineer](https://jobr.pro/job/34740197/software-engineer-automation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City | On Site | Dec 20 |
-| **[Discord](https://discordapp.com/)** | **[Senior Software Engineer, Platform Security](https://jobr.pro/job/34734474/senior-software-engineer-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco Bay Area | On Site | Dec 20 |
-| **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/34747298/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, HDC3B, India | On Site | Dec 20 |
 
 ---
 
