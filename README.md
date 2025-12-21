@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 21, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior System Software Engineer, Compute System](https://jobr.pro/job/34796413/senior-system-software-engineer-compute-system?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India, Bengaluru | On Site | Dec 21 |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior GPU Firmware System Software Engineer](https://jobr.pro/job/34796412/senior-gpu-firmware-system-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India, Bengaluru | On Site | Dec 21 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Backend Software Engineer-DBA](https://jobr.pro/job/34791139/backend-software-engineer-dba?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Dec 20 |
 | **[Simple Software Solutions Group](https://sssg.us/)** | **[Senior Software Engineer, Product Engineering – Hybrid 3 days](https://jobr.pro/job/34773843/senior-software-engineer-product-engineering-hybrid-3-days?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pleasanton, United States | On Site | Dec 20 |
 | **[Simple Software Solutions Group](https://sssg.us/)** | **[Sr. Full Stack Security Software Engineer IAM (Identity and Access Management) – Hybrid 3 days](https://jobr.pro/job/34773840/sr-full-stack-security-software-engineer-iam-identity-and-access-management-hybrid-3-days?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pleasanton, United States | On Site | Dec 20 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Discord](https://discordapp.com/)** | **[Senior Software Engineer, Platform Security](https://jobr.pro/job/34734474/senior-software-engineer-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco Bay Area | On Site | Dec 20 |
 | **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/34747298/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, HDC3B, India | On Site | Dec 20 |
 | **[Autonomous Solutions, Inc.](https://asirobots.com/)** | **[Embedded Software Engineer IV - AI Applications](https://jobr.pro/job/34759040/embedded-software-engineer-iv-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mendon, Utah, USA | On Site | Dec 20 |
-| **[Autonomous Solutions, Inc.](https://asirobots.com/)** | **[C# Software Engineer IV - AI Applications](https://jobr.pro/job/34759039/c-software-engineer-iv-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mendon, Utah, USA | On Site | Dec 20 |
-| **[UBS](https://www.ubs.com/)** | **[UI Software Engineer (ReactJS)](https://jobr.pro/job/34771879/ui-software-engineer-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 20 |
 
 ---
 
