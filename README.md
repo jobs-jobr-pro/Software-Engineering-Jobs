@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,12 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Akkodis](https://www.akkodis.com/)** | **[Software Engineer](https://jobr.pro/job/34837626/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Dec 22 |
 | **[Sunbit](https://sunbit.com/)** | **[Senior Software Engineer ( Java)](https://jobr.pro/job/34821946/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Binyamina-Giv'at Ada, Haifa District, IL | On Site | Dec 22 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Surveillance Product - Backend Engine - AWS + Elastic / Open Search](https://jobr.pro/job/34819359/software-engineer-iii-surveillance-product-backend-engine-aws-elastic-open-search?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 22 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34817472/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN-TN-Chennai | On Site | Dec 22 |
 | **[Radware](https://www.radware.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34817140/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN-IN-Bengaluru | On Site | Dec 22 |
 | **[IKEA](https://www.ikea.com/)** | **[Software Engineer(React)- Order management](https://jobr.pro/job/34816565/software-engineerreact-order-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru Ingka services | On Site | Dec 22 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Frontend / UI - Athens](https://jobr.pro/job/34819437/lead-software-engineer-frontend-ui-athens?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Athens, Attica, Greece | On Site | Dec 22 |
+| **[Sectra](https://sectra.com/)** | **[Software Engineer - Level Up Medical Education Worldwide](https://jobr.pro/job/34830377/software-engineer-level-up-medical-education-worldwide?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Linköping | On Site | Dec 22 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer - Infrastructure, Ads Interface & Platform](https://jobr.pro/job/34815786/software-engineer-infrastructure-ads-interface-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Dec 22 |
 | **[TikTok](https://www.tiktok.com/)** | **[Software Engineer (Fullstack) - Trust and Safety](https://jobr.pro/job/34815763/software-engineer-fullstack-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Dec 22 |
 | **[Miratech](https://miratechgroup.com/)** | **[Software Engineer \| Python \| AI Automation](https://jobr.pro/job/34816792/software-engineer-python-ai-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | All cities, India | On Site | Dec 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III, Quorum Technology](https://jobr.pro/job/34819409/software-engineer-iii-quorum-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Dec 22 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III Data Engineer - Databricks, AWS, Python](https://jobr.pro/job/34819368/software-engineer-iii-data-engineer-databricks-aws-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 22 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II - Java, React, AI](https://jobr.pro/job/34819353/software-engineer-ii-java-react-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 22 |
-| **[Continental](https://www.continental.com)** | **[Software Engineer](https://jobr.pro/job/34804661/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Dec 22 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer II, Quorum Technology](https://jobr.pro/job/34819410/software-engineer-ii-quorum-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Dec 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 22 companies | Avg salary: 264k  
+**Current Stats:** 50 jobs | 2% remote | 23 companies | Avg salary: 264k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
