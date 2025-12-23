@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Journeyman Software Engineer](https://jobr.pro/job/34904986/journeyman-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | King George, VA, United States | On Site | Dec 23 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/34890045/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Aguascalientes, Mexico | On Site | Dec 23 |
 | **[AgileEngine](https://agileengine.com/)** | **[Mobile Software Engineer ID47192](https://jobr.pro/job/34889968/mobile-software-engineer-id47192?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | León de los Aldama, Mexico | On Site | Dec 23 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer in Test (Mobile) ID47193](https://jobr.pro/job/34889953/software-engineer-in-test-mobile-id47193?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Monterrey, Mexico | On Site | Dec 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, Cloud Spanner Graph](https://jobr.pro/job/34878378/software-engineer-cloud-spanner-graph?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 23 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, Performance](https://jobr.pro/job/34878360/software-engineer-iii-performance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Dec 23 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Software Engineer - Scala, Spark](https://jobr.pro/job/34885196/senior-software-engineer-scala-spark?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, TN, India | On Site | Dec 23 |
-| **[Grab](https://www.grab.com)** | **[Senior Software Engineer, Backend - Fulfillment](https://jobr.pro/job/34885201/senior-software-engineer-backend-fulfillment?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Jakarta, Indonesia | On Site | Dec 23 |
 
 ---
 
