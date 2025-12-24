@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Red Hat](https://www.redhat.com/)** | **[Software Engineer- Golang/Java, Kubernetes](https://jobr.pro/job/34982814/software-engineer-golangjava-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Carina, India | Remote | Dec 25 |
+| **[ECS](https://ecstech.com/)** | **[Senior Cloud Software Engineer (AWS/AI)- (full stack)](https://jobr.pro/job/34975088/senior-cloud-software-engineer-awsai-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Memphis, TN, United States | Remote | Dec 24 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/34960504/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CHIMALTENANGO, Guatemala | On Site | Dec 24 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer in Test (Mobile) ID47193](https://jobr.pro/job/34960431/software-engineer-in-test-mobile-id47193?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Usaquen, Colombia | On Site | Dec 24 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34962924/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java, AWS](https://jobr.pro/job/34954222/software-engineer-iii-java-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 24 |
 | **[Blend360](https://blend360.com)** | **[Software Engineer - Python Developer](https://jobr.pro/job/34933746/software-engineer-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, TS, India | On Site | Dec 24 |
 | **[Merck Group](https://www.merckgroup.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34929001/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | St. Louis, Missouri, US, 63103-2355 | On Site | Dec 24 |
-| **[City of Oklahoma City](https://www.okc.gov/)** | **[Lead Software Engineer - City](https://jobr.pro/job/34957906/lead-software-engineer-city?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Oklahoma City, OK, United States | On Site | Dec 24 |
-| **[TE Connectivity](https://www.te.com)** | **[Senior Embedded Software Engineer - Deeply Embedded (m/w/d)](https://jobr.pro/job/34927996/senior-embedded-software-engineer-deeply-embedded-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Waiblingen, BW, DE, 71334 | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 16 companies | Avg salary: 211k  
+**Current Stats:** 50 jobs | 4% remote | 16 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
