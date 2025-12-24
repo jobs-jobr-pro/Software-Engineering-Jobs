@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Software Engineer](https://jobr.pro/job/34918145/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34918143/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Principal Software Engineer](https://jobr.pro/job/34918141/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
 | **[ECS](https://ecstech.com/)** | **[Journeyman Software Engineer](https://jobr.pro/job/34904986/journeyman-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | King George, VA, United States | On Site | Dec 23 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/34890045/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Aguascalientes, Mexico | On Site | Dec 23 |
 | **[AgileEngine](https://agileengine.com/)** | **[Mobile Software Engineer ID47192](https://jobr.pro/job/34889968/mobile-software-engineer-id47192?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | León de los Aldama, Mexico | On Site | Dec 23 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Spark, Open Source, Benchmarks](https://jobr.pro/job/34878418/senior-software-engineer-spark-open-source-benchmarks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 23 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Android, Auto Developer Platforms](https://jobr.pro/job/34878408/senior-software-engineer-android-auto-developer-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kraków, Poland | On Site | Dec 23 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Advanced Camera Machine Intelligence](https://jobr.pro/job/34878381/software-engineer-advanced-camera-machine-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 23 |
-| **[Google](https://www.google.com/)** | **[Software Engineer, Cloud Spanner Graph](https://jobr.pro/job/34878378/software-engineer-cloud-spanner-graph?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Dec 23 |
-| **[Google](https://www.google.com/)** | **[Software Engineer III, Performance](https://jobr.pro/job/34878360/software-engineer-iii-performance?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Dec 23 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Senior Software Engineer - Scala, Spark](https://jobr.pro/job/34885196/senior-software-engineer-scala-spark?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, TN, India | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 8 companies | Avg salary: 240k  
+**Current Stats:** 50 jobs | 0% remote | 8 companies | Avg salary: 242k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
