@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Software Engineer with French](https://jobr.pro/job/35011517/software-engineer-with-french?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest, rom-ro, Romania | On Site | Dec 25 |
 | **[BioCatch](https://www.biocatch.com/)** | **[Software Engineer - Web SDK](https://jobr.pro/job/35005862/software-engineer-web-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 25 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer in Test (Mobile) ID47193](https://jobr.pro/job/35003358/software-engineer-in-test-mobile-id47193?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Salvador, Brazil | On Site | Dec 25 |
 | **[Textron Inc.](https://www.textron.com/)** | **[Software Engineer II](https://jobr.pro/job/35002016/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Maryland-Hunt Valley | On Site | Dec 25 |
@@ -59,14 +60,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java, Spring, AWS, Oracle, Postgres](https://jobr.pro/job/34998950/lead-software-engineer-java-spring-aws-oracle-postgres?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | Dec 24 |
 | **[ECS](https://ecstech.com/)** | **[Senior Cloud Software Engineer (AWS/AI)- (full stack)](https://jobr.pro/job/34975088/senior-cloud-software-engineer-awsai-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Memphis, TN, United States | Remote | Dec 24 |
 | **[Rithum](https://www.rithum.com/)** | **[Senior Fullstack Software Engineer - JavaScript / TypeScript](https://jobr.pro/job/34987290/senior-fullstack-software-engineer-javascript-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ireland - Remote | Remote | Dec 24 |
+| **[Félix](https://www.felixpago.com/)** | **[Senior Software Engineer (Chat Platform)](https://jobr.pro/job/35011204/senior-software-engineer-chat-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico | On Site | Dec 24 |
 | **[Intersect](https://www.intersect.com/)** | **[Software Engineer, Microgrid Controls Validation Engineer](https://jobr.pro/job/34988891/software-engineer-microgrid-controls-validation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Dec 24 |
 | **[Locus Robotics](https://locusrobotics.com/)** | **[Senior Robotics Software Engineer, Simulation](https://jobr.pro/job/34993641/senior-robotics-software-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Dec 24 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java/Python/Databricks/AWS](https://jobr.pro/job/34998996/software-engineer-iii-javapythondatabricksaws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | Dec 24 |
-| **[Intersect](https://www.intersect.com/)** | **[Software Engineer, Microgrid Controls Developer](https://jobr.pro/job/34988890/software-engineer-microgrid-controls-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 32 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 16% remote | 34 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
