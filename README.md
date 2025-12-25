@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -14,7 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Red Hat](https://www.redhat.com/)** | **[Software Engineer- Golang/Java, Kubernetes](https://jobr.pro/job/34982814/software-engineer-golangjava-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore - Carina, India | Remote | Dec 25 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/34985191/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, California, United States | On Site | Dec 24 |
 | **[ECS](https://ecstech.com/)** | **[Senior Cloud Software Engineer (AWS/AI)- (full stack)](https://jobr.pro/job/34975088/senior-cloud-software-engineer-awsai-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Memphis, TN, United States | Remote | Dec 24 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Industry Sector \| Embedded Software Engineer](https://jobr.pro/job/34985214/industry-sector-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Porto, Porto, Portugal | On Site | Dec 24 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Nearshore Sector \| Frontend Software Engineer](https://jobr.pro/job/34985239/nearshore-sector-frontend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lisboa, Lisboa, Portugal | On Site | Dec 24 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/34960504/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CHIMALTENANGO, Guatemala | On Site | Dec 24 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer in Test (Mobile) ID47193](https://jobr.pro/job/34960431/software-engineer-in-test-mobile-id47193?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Usaquen, Colombia | On Site | Dec 24 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34962924/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Dec 24 |
@@ -50,7 +53,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Software Engineer, AI/ML, Health Intelligence](https://jobr.pro/job/34952720/software-engineer-aiml-health-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Dec 24 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Google Photos](https://jobr.pro/job/34952686/staff-software-engineer-google-photos?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Dec 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Senior Lead Software Engineer - Java](https://jobr.pro/job/34954250/senior-lead-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai, Maharashtra, India | On Site | Dec 24 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/34958341/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Petah Tikva, Israel | On Site | Dec 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Sr Lead Java Software Engineer – Markets CRM Platform](https://jobr.pro/job/34954243/sr-lead-java-software-engineer-markets-crm-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, United Kingdom | On Site | Dec 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Java Software Engineer – Markets CRM Platform](https://jobr.pro/job/34954245/lead-java-software-engineer-markets-crm-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, United Kingdom | On Site | Dec 24 |
 | **[Cohu](https://www.cohu.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34956847/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Taiwan | On Site | Dec 24 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Worldline](https://www.worldline.com)** | **[Software Engineer](https://jobr.pro/job/34932448/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bucharest, B, RO | On Site | Dec 24 |
 | **[Eurofins](https://www.eurofins.com)** | **[Principal Software Engineer](https://jobr.pro/job/34931648/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | On Site | Dec 24 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Java, AWS](https://jobr.pro/job/34954222/software-engineer-iii-java-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 24 |
-| **[Blend360](https://blend360.com)** | **[Software Engineer - Python Developer](https://jobr.pro/job/34933746/software-engineer-python-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, TS, India | On Site | Dec 24 |
-| **[Merck Group](https://www.merckgroup.com/)** | **[Senior Software Engineer](https://jobr.pro/job/34929001/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | St. Louis, Missouri, US, 63103-2355 | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 16 companies | Avg salary: 216k  
+**Current Stats:** 50 jobs | 4% remote | 15 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
