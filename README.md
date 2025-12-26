@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -42,6 +42,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kyndryl](https://www.kyndryl.com/)** | **[Senior Software Engineer - Java Backend](https://jobr.pro/job/35005771/senior-software-engineer-java-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | INMANBP Bangalore (INMANBP) Manyatha, India | On Site | Dec 25 |
 | **[Manulife](https://www.manulife.com/)** | **[Senior Back-end Software Engineer](https://jobr.pro/job/35003296/senior-back-end-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chengdu, Manulife Information and Technology Center, China | On Site | Dec 25 |
 | **[Cadence](https://www.cadence.com/)** | **[intern software engineer](https://jobr.pro/job/35001033/intern-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | SHANGHAI 07, China | On Site | Dec 25 |
+| **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/35016275/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, PDC5A, India | On Site | Dec 25 |
 | **[Archer](https://www.archer.com/)** | **[Software Engineer Intern - Flight Controls Software](https://jobr.pro/job/34987228/software-engineer-intern-flight-controls-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Dec 24 |
 | **[CloudKitchens](https://cloudkitchens.com/)** | **[Software Engineer - Beijing](https://jobr.pro/job/34990238/software-engineer-beijing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Beijing China | On Site | Dec 24 |
 | **[Brex](https://brex.com/)** | **[Software Engineer II, Frontend Platform](https://jobr.pro/job/34985539/software-engineer-ii-frontend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, New York, United States | Remote | Dec 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rithum](https://www.rithum.com/)** | **[Senior Fullstack Software Engineer - JavaScript / TypeScript](https://jobr.pro/job/34987290/senior-fullstack-software-engineer-javascript-typescript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ireland - Remote | Remote | Dec 24 |
 | **[Félix](https://www.felixpago.com/)** | **[Senior Software Engineer (Chat Platform)](https://jobr.pro/job/35011204/senior-software-engineer-chat-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico | On Site | Dec 24 |
 | **[Intersect](https://www.intersect.com/)** | **[Software Engineer, Microgrid Controls Validation Engineer](https://jobr.pro/job/34988891/software-engineer-microgrid-controls-validation-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Dec 24 |
-| **[Locus Robotics](https://locusrobotics.com/)** | **[Senior Robotics Software Engineer, Simulation](https://jobr.pro/job/34993641/senior-robotics-software-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 34 companies | Avg salary: 195k  
+**Current Stats:** 50 jobs | 14% remote | 34 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
