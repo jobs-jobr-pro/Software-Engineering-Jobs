@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Senior Software Engineer (Python/Serverless/RestAPI)](https://jobr.pro/job/35102769/senior-software-engineer-pythonserverlessrestapi?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NEW YORK, United States | Remote | Dec 29 |
+| **[Visa](https://visa.com)** | **[Senior Software Engineer](https://jobr.pro/job/35102775/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ashburn, VA, United States | On Site | Dec 29 |
+| **[Visa](https://visa.com)** | **[Lead Software Engineer](https://jobr.pro/job/35102786/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bellevue, WA, United States | On Site | Dec 29 |
 | **[ECS](https://ecstech.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35093886/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WASHINGTON, DC, United States | On Site | Dec 29 |
 | **[iFIT](https://www.ifit.com/)** | **[Software Engineer](https://jobr.pro/job/35090708/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | North Las Vegas, NV, United States | On Site | Dec 29 |
 | **[monday.com](https://monday.com/)** | **[Founding Software Engineer (AI Agent - New Product)](https://jobr.pro/job/35081102/founding-software-engineer-ai-agent-new-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Backend Software Engineer](https://jobr.pro/job/35065610/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Beijing, Chaoyang District, China | On Site | Dec 29 |
 | **[StubHub](https://www.stubhub.com/)** | **[Software Engineer I - AI Platform](https://jobr.pro/job/35062049/software-engineer-i-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Aliso Viejo, California, United States | On Site | Dec 29 |
 | **[RTX](https://www.rtx.com/)** | **[2026 Full-time - Software Engineer I - Onsite (MA)](https://jobr.pro/job/35074491/2026-full-time-software-engineer-i-onsite-ma?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | MA801: Marlborough, MA 1001 Boston Post Road Building 2, Marlborough, MA, 01752 USA, United States | On Site | Dec 29 |
-| **[Mastercard](https://www.mastercard.com/)** | **[Software Engineer I](https://jobr.pro/job/35071340/software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 29 |
-| **[Mastercard](https://www.mastercard.com/)** | **[Senior Software Engineer - Java Development, Springboot, Azure, Snowflake](https://jobr.pro/job/35082217/senior-software-engineer-java-development-springboot-azure-snowflake?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Dec 29 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com/)** | **[Software Engineer III](https://jobr.pro/job/35081909/software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | India-Mumbai (Kalpataru Square) | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 30 companies | Avg salary: 197k  
+**Current Stats:** 50 jobs | 6% remote | 30 companies | Avg salary: 195k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
