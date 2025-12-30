@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sharpa](https://www.sharpa.com/)** | **[Algorithm Software Engineer - Low-Latency Video Streaming (Campus Recruitment/Intern)](https://jobr.pro/job/35153954/algorithm-software-engineer-low-latency-video-streaming-campus-recruitmentintern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Dec 30 |
+| **[Sharpa](https://www.sharpa.com/)** | **[Algorithm Software Engineer - Robotics System Specialization (Campus Recruitment/Intern)](https://jobr.pro/job/35153950/algorithm-software-engineer-robotics-system-specialization-campus-recruitmentintern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Dec 30 |
+| **[Sharpa](https://www.sharpa.com/)** | **[Algorithm Software Engineer - Simulation Specialization (Campus Recruitment/Intern)](https://jobr.pro/job/35153946/algorithm-software-engineer-simulation-specialization-campus-recruitmentintern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 新加坡 | On Site | Dec 30 |
+| **[Tyto Athene](https://gotyto.com/)** | **[Embedded Energy Software Engineer](https://jobr.pro/job/35146524/embedded-energy-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rochester, NY, United States | On Site | Dec 30 |
+| **[Tyto Athene](https://gotyto.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/35146497/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Greene, NY, United States | On Site | Dec 30 |
+| **[Tyto Athene](https://gotyto.com/)** | **[Robotics Software Engineer III](https://jobr.pro/job/35146465/robotics-software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbus, IN, United States | On Site | Dec 30 |
 | **[CME](https://www.gotocme.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35139788/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Riyadh, Saudi Arabia | On Site | Dec 30 |
 | **[Tkxel](https://tkxel.com/)** | **[Principal Software Engineer /PHP](https://jobr.pro/job/35139702/principal-software-engineer-php?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lahore, Pakistan | On Site | Dec 30 |
 | **[Skai](https://skai.io/)** | **[Senior Java Software Engineer](https://jobr.pro/job/35143365/senior-java-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Modi'in, Center District, IL | On Site | Dec 30 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Staff Software Engineer](https://jobr.pro/job/35120869/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IN-MH-MUMBAI-HIRANANDANI BUSINESS PARK POWAI, India | On Site | Dec 30 |
 | **[Carbyne](https://carbyne.com/)** | **[Real-Time Communication Software Engineer](https://jobr.pro/job/35131486/real-time-communication-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Dec 30 |
 | **[Callsign](https://www.callsign.com/)** | **[Software Engineer](https://jobr.pro/job/35123225/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Abu Dhabi, Abu Dhabi, United Arab Emirates | On Site | Dec 30 |
-| **[Boeing](https://www.boeing.com/)** | **[Embedded Software Engineer (Associate, Experienced, or Senior) (Virtual)](https://jobr.pro/job/35125306/embedded-software-engineer-associate-experienced-or-senior-virtual?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA - Mesa, AZ, United States | Remote | Dec 30 |
-| **[BrowserStack](https://www.browserstack.com/)** | **[Sr. Software Engineer - Backend](https://jobr.pro/job/35130188/sr-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mumbai - WFO, India | On Site | Dec 30 |
-| **[Yash Technologies](https://www.yash.com)** | **[Sr. Software Engineer - Full Stack Job](https://jobr.pro/job/35117144/sr-software-engineer-full-stack-job?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, IN | On Site | Dec 30 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Engineering Manager / Senior Software Engineer, Housing Programme](https://jobr.pro/job/35113138/engineering-manager-senior-software-engineer-housing-programme?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Headquarters (Eclipse), Level 8, Singapore | On Site | Dec 30 |
-| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Senior Software Engineer (MCCY Discovery)](https://jobr.pro/job/35113129/senior-software-engineer-mccy-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mapletree Business City, Block 10, Level 10, Singapore | On Site | Dec 30 |
-| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Software Engineer Intern](https://jobr.pro/job/35144376/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland Katowice (Francuska 46) | On Site | Dec 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 32 companies | Avg salary: 460k  
+**Current Stats:** 50 jobs | 4% remote | 29 companies | Avg salary: 411k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
