@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -46,6 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KMS Technology](https://careers.kms-technology.com)** | **[Senior Full-stack Software Engineer (.Net, ReactJS)](https://jobr.pro/job/35174246/senior-full-stack-software-engineer-net-reactjs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh City, Vietnam | On Site | Dec 31 |
 | **[The Trade Desk](https://www.thetradedesk.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35166468/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Shanghai | On Site | Dec 31 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Embedded Software Engineer I (TS/SCI)](https://jobr.pro/job/35171639/senior-embedded-software-engineer-i-tssci?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chantilly, VA | On Site | Dec 31 |
+| **[11x](https://www.11x.ai/)** | **[Senior Fullstack Software Engineer, AI Agents](https://jobr.pro/job/35203839/senior-fullstack-software-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Vancouver, Toronto | On Site | Dec 31 |
 | **[SoFi](https://www.sofi.com/)** | **[Senior Software Engineer, Loans Originations](https://jobr.pro/job/35167843/senior-software-engineer-loans-originations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | WA - Seattle | On Site | Dec 31 |
 | **[SoFi](https://www.sofi.com/)** | **[Senior Staff Software Engineer, Loans Originations](https://jobr.pro/job/35167844/senior-staff-software-engineer-loans-originations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | UT - Cottonwood Heights ; MT- Helena | On Site | Dec 31 |
 | **[ZoomInfo](https://www.zoominfo.com/)** | **[Senior Software Engineer- Data Platform](https://jobr.pro/job/35163484/senior-software-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Ontario, Canada | On Site | Dec 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rapid7](https://www.rapid7.com/)** | **[Senior Software Engineer - Python](https://jobr.pro/job/35187127/senior-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IND Pune, India | On Site | Dec 31 |
 | **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/35190699/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Penang, Malaysia | On Site | Dec 31 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Principal Software Engineer - Mobile](https://jobr.pro/job/35189654/principal-software-engineer-mobile?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Brisbane - Australia - Brisbane, Australia; Melbourne - Australia - Melbourne, 3000 Australia; Auckland - New Zealand - Auckland, 1010 New Zealand | On Site | Dec 31 |
-| **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/35200637/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, PDC5A, India | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 32 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 4% remote | 32 companies | Avg salary: 240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
