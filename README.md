@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[XPENG](https://www.xiaopeng.com/)** | **[Software Engineer (All Levels) – 大模型与智能机器人系统](https://jobr.pro/job/35247445/software-engineer-all-levels-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 广州、深圳 | On Site | Jan 01 |
 | **[UVeye](https://www.uveye.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/35240574/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv, Tel Aviv District, IL | On Site | Jan 01 |
 | **[Team8](https://team8.vc/)** | **[Reindeer AI- Frontend / Fullstack Software Engineer](https://jobr.pro/job/35239759/reindeer-ai-frontend-fullstack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 01 |
 | **[Team8](https://team8.vc/)** | **[Reindeer AI- Backend Software Engineer](https://jobr.pro/job/35239758/reindeer-ai-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Jan 01 |
@@ -43,9 +44,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cambium Learning Group](https://www.cambiumlearning.com/)** | **[Senior Software Engineer (AI Applications)](https://jobr.pro/job/35237861/senior-software-engineer-ai-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, United States | Remote | Jan 01 |
 | **[Kaleris](https://kaleris.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35240537/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Veracruz, Mexico | On Site | Jan 01 |
 | **[Solera](https://www.solera.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35232779/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, India | On Site | Jan 01 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Software Engineer](https://jobr.pro/job/35249294/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US - NY NYC - 55 WATER ST 35 HRS, United States | On Site | Jan 01 |
 | **[BILL](https://www.bill.com/)** | **[Senior Software Engineer (BE) - Payments Platform](https://jobr.pro/job/35216200/senior-software-engineer-be-payments-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | Remote | Dec 31 |
 | **[Crane Worldwide Logistics](https://www.craneww.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/35220212/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Houston, Texas, United States | On Site | Dec 31 |
 | **[Boosted.ai](https://boosted.ai/)** | **[Senior Software Engineer](https://jobr.pro/job/35216759/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote within Canada or the US | Remote | Dec 31 |
+| **[U.S. Renal Care](https://www.usrenalcare.com/)** | **[Junior Software Engineer](https://jobr.pro/job/35241973/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, XX, United States | Remote | Dec 31 |
 | **[Procare Solutions](https://www.procaresolutions.com/)** | **[Senior Software Engineer, Payments](https://jobr.pro/job/35221302/senior-software-engineer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, CO | On Site | Dec 31 |
 | **[Solace](https://www.solace.health/)** | **[Associate Software Engineer (College Grad 2026)](https://jobr.pro/job/35218336/associate-software-engineer-college-grad-2026?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redwood City, CA | Remote | Dec 31 |
 | **[Solace](https://www.solace.health/)** | **[Staff Software Engineer](https://jobr.pro/job/35218334/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Dec 31 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Perficient](https://www.perficient.com/)** | **[Lead Full Stack Software Engineer - .NET, Angular, AWS - Hybrid](https://jobr.pro/job/35231336/lead-full-stack-software-engineer-net-angular-aws-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | FORT MILL, SC, United States | On Site | Dec 31 |
 | **[Wiliot](https://www.wiliot.com/)** | **[Senior Software Engineer](https://jobr.pro/job/35240533/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Dec 31 |
 | **[Archer](https://www.archer.com/)** | **[Senior Software Engineer, Battery Management System](https://jobr.pro/job/35218117/senior-software-engineer-battery-management-system?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Dec 31 |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Software Engineer (Cortex Platform)](https://jobr.pro/job/35222997/principal-software-engineer-cortex-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CA, United States | On Site | Dec 31 |
-| **[Visa](https://visa.com)** | **[Lead Software Engineer](https://jobr.pro/job/35213521/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bellevue, WA, United States | On Site | Dec 31 |
-| **[Influur](https://www.influur.com/)** | **[Fullstack Software Engineer (NodeJs / NextJs)](https://jobr.pro/job/35216210/fullstack-software-engineer-nodejs-nextjs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 32 companies | Avg salary: 205k  
+**Current Stats:** 50 jobs | 14% remote | 32 companies | Avg salary: 185k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
