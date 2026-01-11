@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 11, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 11, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Sr. Software Engineer (Java Full-Stack, 4+ years' experience)](https://jobr.pro/job/35814172/sr-software-engineer-java-full-stack-4-years-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, INDIA, India | On Site | Jan 11 |
+| **[Equity Trust Company](https://www.trustetc.com/)** | **[Junior Software Engineer](https://jobr.pro/job/35814070/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Westlake, OH, USA | On Site | Jan 11 |
 | **[Continental General](https://cgic.com/)** | **[Lead Software Engineer - Pricing](https://jobr.pro/job/35806565/lead-software-engineer-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin , TX, USA | On Site | Jan 10 |
 | **[The Guitar Center Company](https://www.guitarcenter.com/)** | **[Software Engineer - Full Stack, AI](https://jobr.pro/job/35800365/software-engineer-full-stack-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Westlake Village, CA, United States | On Site | Jan 10 |
 | **[Visa](https://visa.com)** | **[Senior Software Engineer (4 - 6 years' experience in Workday Integration, HCM, HRSD module)](https://jobr.pro/job/35811602/senior-software-engineer-4-6-years-experience-in-workday-integration-hcm-hrsd-module?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, INDIA, India | On Site | Jan 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Advisor360°](https://www.advisor360.com/)** | **[Senior Software Engineer, UI/Front End](https://jobr.pro/job/35777848/senior-software-engineer-uifront-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Needham, MA | On Site | Jan 10 |
 | **[OpusClip](https://www.opus.pro)** | **[Software Engineer, AI Video Agent](https://jobr.pro/job/35755873/software-engineer-ai-video-agent?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Palo Alto | On Site | Jan 10 |
 | **[Alma](https://helloalma.com)** | **[Software Engineer II](https://jobr.pro/job/35746812/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, Contiguous US | Remote | Jan 10 |
-| **[Gartner](https://www.gartner.com/)** | **[Lead Software Engineer- salesforce developer](https://jobr.pro/job/35738336/lead-software-engineer-salesforce-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai - DLF IT Park, India | On Site | Jan 10 |
-| **[Accenture](https://www.accenture.com/)** | **[Custom Software Engineer](https://jobr.pro/job/35811431/custom-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, BDC7A, India | On Site | Jan 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 29 companies | Avg salary: 196k  
+**Current Stats:** 50 jobs | 6% remote | 28 companies | Avg salary: 196k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
