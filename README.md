@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -45,7 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SingleStore](https://www.singlestore.com/)** | **[Senior Software Engineer, Helios](https://jobr.pro/job/36873941/senior-software-engineer-helios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Jan 27 |
 | **[Included Health](https://includedhealth.com/)** | **[Staff Software Engineer, Client Growth Team](https://jobr.pro/job/36873778/staff-software-engineer-client-growth-team?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Jan 27 |
 | **[Hotmart](https://www.hotmart.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/36873305/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | BRASIL, SÃO PAULO; BRASIL,BELO HORIZONTE | On Site | Jan 27 |
-| **[Esri](https://www.esri.com/)** | **[Sr. C++ Software Engineer - Maps SDKs](https://jobr.pro/job/36873242/sr-c-software-engineer-maps-sdks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portland, OR | On Site | Jan 27 |
+| **[Esri](https://www.esri.com/)** | **[Sr. C++ Software Engineer - Maps SDKs](https://jobr.pro/job/36873241/sr-c-software-engineer-maps-sdks?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redlands, CA | On Site | Jan 27 |
 | **[ROLLER](https://www.roller.software/)** | **[Full-Stack Software Engineer](https://jobr.pro/job/36871825/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, United Kingdom | On Site | Jan 27 |
 | **[ROLLER](https://www.roller.software/)** | **[Senior Full-Stack Software Engineer](https://jobr.pro/job/36871826/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, United Kingdom | On Site | Jan 27 |
 | **[Ursa Major](https://www.ursamajor.com/)** | **[Staff GNC Software Engineer](https://jobr.pro/job/36871905/staff-gnc-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berthoud, Colorado | On Site | Jan 27 |
