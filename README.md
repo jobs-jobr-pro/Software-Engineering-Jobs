@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 29, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 29, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,11 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Heico Corporation](https://heico.com/)** | **[Software Engineer](https://jobr.pro/job/37022119/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Jan 29 |
+| **[Conservice](https://www.conservice.com/)** | **[Sr Software Engineer](https://jobr.pro/job/37020222/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Logan, UT, United States | On Site | Jan 29 |
 | **[InterConnect Defense](https://www.ic-defense.com)** | **[Software Engineer/ CNO Developer](https://jobr.pro/job/37016210/software-engineer-cno-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fort George G Meade, MD, United States | On Site | Jan 29 |
 | **[InterConnect Defense](https://www.ic-defense.com)** | **[Sr. Software Engineer (AI Systems & Infrastructure)](https://jobr.pro/job/37016211/sr-software-engineer-ai-systems-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbia, MD, United States | On Site | Jan 29 |
 | **[Nova Ltd.](https://www.novami.com/)** | **[Java Software Engineer(m/w/d)](https://jobr.pro/job/37015661/java-software-engineermwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bad Urach, BW, DE | On Site | Jan 29 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/37009180/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Porto, Portugal | On Site | Jan 29 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (Java) ID48414](https://jobr.pro/job/37008893/software-engineer-java-id48414?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | MAR DEL PLATA, Argentina | On Site | Jan 29 |
+| **[Akkodis](https://www.akkodis.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/37027051/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Europe, Italy, Lombardia, Milano | On Site | Jan 29 |
 | **[DTCC](https://www.dtcc.com/)** | **[Lead Software Engineer](https://jobr.pro/job/37011753/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, India | On Site | Jan 29 |
 | **[Goldman Sachs](https://www.goldmansachs.com/)** | **[Asset & Wealth Management - Software Engineer - Associate - Dallas](https://jobr.pro/job/37009506/asset-wealth-management-software-engineer-associate-dallas?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dallas, Texas, United States | On Site | Jan 29 |
 | **[Textron Aviation](https://txtav.com/)** | **[Software Engineer (Aircraft Systems) - TRU Simulation](https://jobr.pro/job/37005283/software-engineer-aircraft-systems-tru-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-Florida-Lutz | On Site | Jan 29 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Intern (Global LIVE Service Arch) - 2026 Start (BS/MS)](https://jobr.pro/job/37000660/backend-software-engineer-intern-global-live-service-arch-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Android Software Engineer Graduate (Global LIVE Platform) - 2026 Start (BS/MS)](https://jobr.pro/job/37000650/android-software-engineer-graduate-global-live-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Frontend Software Engineer Intern (Search) - 2026 Start (BS/MS)](https://jobr.pro/job/37000637/frontend-software-engineer-intern-search-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Principal Software Engineer](https://jobr.pro/job/37002906/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, TN, India | On Site | Jan 29 |
-| **[Freshworks](https://www.freshworks.com)** | **[Lead Software Engineer - Test](https://jobr.pro/job/37002916/lead-software-engineer-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | On Site | Jan 29 |
-| **[Williams-Sonoma, Inc.](https://www.williams-sonomainc.com/)** | **[Sr. Software Engineer - Mobile Apps Engineer (iOS)](https://jobr.pro/job/37002624/sr-software-engineer-mobile-apps-engineer-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, Maharashtra, India | On Site | Jan 29 |
 
 ---
 
