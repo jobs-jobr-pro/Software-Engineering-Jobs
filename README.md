@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,8 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior Software Engineer, Dense Reconstruction](https://jobr.pro/job/37037322/senior-software-engineer-dense-reconstruction?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | China, Guangzhou | On Site | Jan 30 |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Software Engineer - AI Solutions](https://jobr.pro/job/37037309/software-engineer-ai-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel, Yokneam | On Site | Jan 30 |
+| **[EROAD](https://www.eroad.com/)** | **[Software Engineer (React)](https://jobr.pro/job/37037628/software-engineer-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Auckland (Albany HQ) (NZ), New Zealand | On Site | Jan 30 |
+| **[SquareTrade](https://www.squaretrade.com)** | **[Senior Software Engineer – Applied Generative AI](https://jobr.pro/job/37035616/senior-software-engineer-applied-generative-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, CO, United States | On Site | Jan 29 |
+| **[Visa](https://visa.com)** | **[Lead Software Engineer](https://jobr.pro/job/37035818/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Atlanta, GA, United States | On Site | Jan 29 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer - AI/ML](https://jobr.pro/job/37035617/staff-software-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Jan 29 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Software Engineer (Full Stack), NBC News](https://jobr.pro/job/37035843/software-engineer-full-stack-nbc-news?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NEW YORK, United States | On Site | Jan 29 |
+| **[Cyberark](https://www.cyberark.com)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/37035670/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, California, United States | On Site | Jan 29 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Software Engineer - Impact - Central AI](https://jobr.pro/job/37035619/senior-staff-software-engineer-impact-central-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, Ireland | On Site | Jan 29 |
 | **[Heico Corporation](https://heico.com/)** | **[Software Engineer](https://jobr.pro/job/37022119/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Eugene, OR, United States | On Site | Jan 29 |
 | **[Conservice](https://www.conservice.com/)** | **[Sr Software Engineer](https://jobr.pro/job/37020222/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Logan, UT, United States | On Site | Jan 29 |
+| **[Cyberark](https://www.cyberark.com)** | **[Associate Software Engineer - hybrid (.NET or Java or Python)](https://jobr.pro/job/37035675/associate-software-engineer-hybrid-net-or-java-or-python?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara, California, United States | On Site | Jan 29 |
 | **[InterConnect Defense](https://www.ic-defense.com)** | **[Software Engineer/ CNO Developer](https://jobr.pro/job/37016210/software-engineer-cno-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fort George G Meade, MD, United States | On Site | Jan 29 |
 | **[InterConnect Defense](https://www.ic-defense.com)** | **[Sr. Software Engineer (AI Systems & Infrastructure)](https://jobr.pro/job/37016211/sr-software-engineer-ai-systems-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Columbia, MD, United States | On Site | Jan 29 |
 | **[Nova Ltd.](https://www.novami.com/)** | **[Java Software Engineer(m/w/d)](https://jobr.pro/job/37015661/java-software-engineermwd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bad Urach, BW, DE | On Site | Jan 29 |
@@ -53,20 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Frontend Software Engineer Graduate - (Global Live Wallet) - 2026 Start (BS/MS)](https://jobr.pro/job/37000760/frontend-software-engineer-graduate-global-live-wallet-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Graduate (Global LIVE Wallet) - 2026 Start (BS/MS)](https://jobr.pro/job/37000751/backend-software-engineer-graduate-global-live-wallet-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Graduate (Global LIVE Revenue)- 2026 Start (BS/MS)](https://jobr.pro/job/37000750/backend-software-engineer-graduate-global-live-revenue-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Intern (Global LIVE Fund Safety) - 2026 Start (BS/MS)](https://jobr.pro/job/37000743/backend-software-engineer-intern-global-live-fund-safety-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer - TikTok Ads Creator Monetization](https://jobr.pro/job/37000716/software-engineer-tiktok-ads-creator-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[iOS/Android Software Engineer Intern (Global Live Revenue) - 2026 Start (BS/MS)](https://jobr.pro/job/37000715/iosandroid-software-engineer-intern-global-live-revenue-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Intern (Trust & Safety) - 2026 Start (BS/MS)](https://jobr.pro/job/37000708/backend-software-engineer-intern-trust-safety-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Global SRE) - 2026 Start (BS/MS)](https://jobr.pro/job/37000697/software-engineer-graduate-global-sre-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, United States | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Graduate (Global Live Data Platform) - 2026 start (BS/MS)](https://jobr.pro/job/37000683/backend-software-engineer-graduate-global-live-data-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Software Engineer Graduate (Trust & Safety Algorithm Engineering) - 2026 Start (BS/MS)](https://jobr.pro/job/37000670/software-engineer-graduate-trust-safety-algorithm-engineering-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Backend Software Engineer Intern (Global LIVE Service Arch) - 2026 Start (BS/MS)](https://jobr.pro/job/37000660/backend-software-engineer-intern-global-live-service-arch-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Android Software Engineer Graduate (Global LIVE Platform) - 2026 Start (BS/MS)](https://jobr.pro/job/37000650/android-software-engineer-graduate-global-live-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Frontend Software Engineer Intern (Search) - 2026 Start (BS/MS)](https://jobr.pro/job/37000637/frontend-software-engineer-intern-search-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 16 companies | Avg salary: 166k  
+**Current Stats:** 50 jobs | 4% remote | 23 companies | Avg salary: 191k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
