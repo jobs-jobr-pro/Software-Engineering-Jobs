@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Buffalo Wild Wings](https://www.buffalowildwings.com/)** | **[Software Engineer](https://jobr.pro/job/37181515/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portsmouth, NH, United States | On Site | Jan 31 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/37170146/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Luis Potosí, Mexico | On Site | Jan 31 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Software Engineer](https://jobr.pro/job/37168050/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-NY-New York | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Google Cloud Platform Infrastructure](https://jobr.pro/job/37162090/senior-software-engineer-google-cloud-platform-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Jan 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Frontend](https://jobr.pro/job/37131194/staff-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/37131180/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San francisco, CA | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer - Compiler](https://jobr.pro/job/37131188/software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/37131191/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 12 companies | Avg salary: 241k  
+**Current Stats:** 50 jobs | 0% remote | 13 companies | Avg salary: 239k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
