@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/37170146/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Luis Potosí, Mexico | On Site | Jan 31 |
+| **[Virtusa](https://www.virtusa.com/)** | **[Software Engineer](https://jobr.pro/job/37168050/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-NY-New York | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Google Cloud Platform Infrastructure](https://jobr.pro/job/37162090/senior-software-engineer-google-cloud-platform-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, USA | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, ML Infrastructure, Core ML](https://jobr.pro/job/37162067/software-engineer-iii-ml-infrastructure-core-ml?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, Chrome Accessibility](https://jobr.pro/job/37162033/staff-software-engineer-chrome-accessibility?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City, CDMX, Mexico | On Site | Jan 31 |
@@ -45,11 +47,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Front End, Labs](https://jobr.pro/job/37161788/senior-software-engineer-front-end-labs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, Infrastructure, Google Ads](https://jobr.pro/job/37161804/software-engineer-infrastructure-google-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 31 |
 | **[Google](https://www.google.com/)** | **[Senior Software Engineer, Ads Safety](https://jobr.pro/job/37161755/senior-software-engineer-ads-safety?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pittsburgh, PA, USA | On Site | Jan 31 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Software Engineer](https://jobr.pro/job/37166738/senior-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Jan 31 |
+| **[Segula Technologies](https://www.segulatechnologies.com)** | **[Software Engineer - JavaScript Back-End](https://jobr.pro/job/37166745/software-engineer-javascript-back-end?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rome, Lazio, Italy | On Site | Jan 31 |
+| **[Segula Technologies](https://www.segulatechnologies.com)** | **[Software Engineer C++/QT](https://jobr.pro/job/37166746/software-engineer-cqt?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rome, Lazio, Italy | On Site | Jan 31 |
 | **[Bayer](https://www.bayer.com/)** | **[Staff Software Engineer - Full Stack / CS / São Paulo - SP](https://jobr.pro/job/37142607/staff-software-engineer-full-stack-cs-sao-paulo-sp?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo, São Paulo, BR | On Site | Jan 31 |
 | **[Harvey](https://www.harvey.ai/)** | **[Mid/Senior/Staff Software Engineer, Agents](https://jobr.pro/job/37132549/midseniorstaff-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jan 31 |
 | **[Providence](https://www.providence.org/)** | **[Data Software Engineer I](https://jobr.pro/job/37165153/data-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Redmond, WA, United States | On Site | Jan 31 |
 | **[SpaceX](https://www.spacex.com/)** | **[Sr. Software Engineer (Starshield)](https://jobr.pro/job/37137700/sr-software-engineer-starshield?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, CA | On Site | Jan 31 |
 | **[Talkdesk](https://www.talkdesk.com/)** | **[Staff Software Engineer](https://jobr.pro/job/37140569/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle | On Site | Jan 31 |
+| **[Oracle](https://www.oracle.com/)** | **[Principal Software Engineer](https://jobr.pro/job/37165650/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, TX, United States | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer (New Grad Program)](https://jobr.pro/job/37131190/software-engineer-new-grad-program?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Fullstack](https://jobr.pro/job/37131196/staff-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City, NY | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Fullstack](https://jobr.pro/job/37131181/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/37131180/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San francisco, CA | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Software Engineer - Compiler](https://jobr.pro/job/37131188/software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
 | **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Staff Software Engineer - Backend](https://jobr.pro/job/37131191/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Backend](https://jobr.pro/job/37131178/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
-| **[Sigma Computing](https://www.sigmacomputing.com/)** | **[Senior Software Engineer - Observability and Reliability](https://jobr.pro/job/37131186/senior-software-engineer-observability-and-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jan 31 |
-| **[AKASA](https://akasa.com/)** | **[Software Engineer, Full Stack](https://jobr.pro/job/37134708/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jan 31 |
-| **[Blueprint](https://blueprint.bryanjohnson.com)** | **[Software Engineer, Shopify](https://jobr.pro/job/37149219/software-engineer-shopify?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States - Remote | Remote | Jan 31 |
-| **[Multi Media LLC](https://multimediallc.com)** | **[Software Engineer in Automated Testing (SDET), Video Streaming](https://jobr.pro/job/37152609/software-engineer-in-automated-testing-sdet-video-streaming?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States - Remote | Remote | Jan 31 |
-| **[Snowflake](https://www.snowflake.com/)** | **[Software Engineer, Database Platform Security](https://jobr.pro/job/37132622/software-engineer-database-platform-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US-CA-Menlo Park | On Site | Jan 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 11 companies | Avg salary: 234k  
+**Current Stats:** 50 jobs | 0% remote | 12 companies | Avg salary: 241k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
