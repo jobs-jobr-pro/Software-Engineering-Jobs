@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Pepsi Beverages North America](https://www.pepsico.com/)** | **[Sr Software Engineer](https://jobr.pro/job/37230120/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Feb 02 |
+| **[Pepsi Beverages North America](https://www.pepsico.com/)** | **[Software Engineer](https://jobr.pro/job/37230117/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Feb 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/37220337/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tijuana, Mexico | On Site | Feb 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer (Android Tech Lead) ID48357](https://jobr.pro/job/37220329/software-engineer-android-tech-lead-id48357?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, United States | On Site | Feb 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID44006](https://jobr.pro/job/37220301/software-engineer-id44006?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | CORDOBA, Argentina | On Site | Feb 02 |
@@ -21,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Innoviz Technologies](https://innoviz.tech/)** | **[Embedded Software Engineer](https://jobr.pro/job/37224809/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Rosh Ha'Ayin, Israel, IL | On Site | Feb 02 |
 | **[Getinz](https://www.getinz.com/)** | **[Senior Software Engineer - Azure - GNAF](https://jobr.pro/job/37221826/senior-software-engineer-azure-gnaf?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tamil Nadu, Chennai, India | On Site | Feb 02 |
 | **[Getinz](https://www.getinz.com/)** | **[Senior Software Engineer- Angular - GNAF - Chennai](https://jobr.pro/job/37221829/senior-software-engineer-angular-gnaf-chennai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tamil Nadu, Chennai, India | On Site | Feb 02 |
+| **[Sectra](https://sectra.com/)** | **[Quality-Driven Software Engineer for Cloud-Based AI in Medical Imaging](https://jobr.pro/job/37228417/quality-driven-software-engineer-for-cloud-based-ai-in-medical-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Linköping | On Site | Feb 02 |
 | **[Radware](https://www.radware.com/)** | **[Backend Software Engineer – Node.js](https://jobr.pro/job/37215616/backend-software-engineer-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | IL-IL-Tel Aviv | On Site | Feb 02 |
 | **[Astellas Pharma](https://www.astellas.com/)** | **[Software Engineer, Software Engineering Chapter](https://jobr.pro/job/37215429/software-engineer-software-engineering-chapter?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Poland | On Site | Feb 02 |
 | **[CES](https://cesltd.com/)** | **[Software Engineer - 2987 (Remote)](https://jobr.pro/job/37221415/software-engineer-2987-remote?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, India | Remote | Feb 02 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Java Software Engineer III - Sales and connectivity](https://jobr.pro/job/37212325/java-software-engineer-iii-sales-and-connectivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, LONDON, United Kingdom | On Site | Feb 02 |
 | **[Chubb](https://www.chubb.com/)** | **[Senior Software Engineer II](https://jobr.pro/job/37220470/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Feb 02 |
 | **[Cambio](https://www.cambio.se/)** | **[Software Engineer within eHealth](https://jobr.pro/job/37214248/software-engineer-within-ehealth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, Sweden | On Site | Feb 02 |
-| **[Resideo](https://www.resideo.com/)** | **[Software Engineer II](https://jobr.pro/job/37216791/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | BANGALORE METROPOLITAN AREA, KARNATAKA, India | On Site | Feb 02 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Software Engineer III - Python, React Js, Terraform, AWS](https://jobr.pro/job/37212302/software-engineer-iii-python-react-js-terraform-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Feb 02 |
-| **[Pasqal](https://www.pasqal.com)** | **[Quantum Software Engineer – QPU programming and compilation](https://jobr.pro/job/37210062/quantum-software-engineer-qpu-programming-and-compilation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Palaiseau, France | On Site | Feb 02 |
 
 ---
 
