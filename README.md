@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Software Engineer](https://jobr.pro/job/37243295/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Diego, California, United States | On Site | Feb 02 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Software Engineer](https://jobr.pro/job/37243305/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago, Illinois, United States | On Site | Feb 02 |
+| **[Bosch Group](https://www.bosch.com)** | **[Sr. Software Engineer (Multiple Positions) (REF276846G)](https://jobr.pro/job/37243316/sr-software-engineer-multiple-positions-ref276846g?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Farmington Hills, MI, United States | On Site | Feb 02 |
+| **[Eurofins](https://www.eurofins.com)** | **[IT Software Engineer - Mid](https://jobr.pro/job/37243340/it-software-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belo Horizonte, MG, Brazil | On Site | Feb 02 |
+| **[Eurofins](https://www.eurofins.com)** | **[IT Software Engineer - Senior](https://jobr.pro/job/37243341/it-software-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Belo Horizonte, MG, Brazil | On Site | Feb 02 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Software Engineer (Python/ASP.NET/SQL)](https://jobr.pro/job/37243463/software-engineer-pythonaspnetsql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | Remote | Feb 02 |
+| **[Visa](https://visa.com)** | **[Software Engineer - Senior Consultant level, GenAI, Learning Enablement Technology](https://jobr.pro/job/37243016/software-engineer-senior-consultant-level-genai-learning-enablement-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, TX, United States | On Site | Feb 02 |
 | **[Pepsi Beverages North America](https://www.pepsico.com/)** | **[Sr Software Engineer](https://jobr.pro/job/37230120/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Feb 02 |
 | **[Pepsi Beverages North America](https://www.pepsico.com/)** | **[Software Engineer](https://jobr.pro/job/37230117/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, India | On Site | Feb 02 |
 | **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID43921 ($2,500 signing bonus)](https://jobr.pro/job/37220337/software-engineer-id43921-2500-signing-bonus?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tijuana, Mexico | On Site | Feb 02 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Staff Software Engineer, AI Infrastructure, Applied AI](https://jobr.pro/job/37211048/staff-software-engineer-ai-infrastructure-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sunnyvale, CA, USA | On Site | Feb 02 |
 | **[Google](https://www.google.com/)** | **[Software Engineer III, AI/ML, Platforms and Devices](https://jobr.pro/job/37211043/software-engineer-iii-aiml-platforms-and-devices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, USA | On Site | Feb 02 |
 | **[Google](https://www.google.com/)** | **[Software Engineer, gTech Users and Products Engineering](https://jobr.pro/job/37211030/software-engineer-gtech-users-and-products-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, Telangana, India | On Site | Feb 02 |
-| **[Google](https://www.google.com/)** | **[Senior Software Engineer, ML Networking](https://jobr.pro/job/37211018/senior-software-engineer-ml-networking?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java Full Stack](https://jobr.pro/job/37212368/lead-software-engineer-java-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Lead Software Engineer - Java & Kafka Developer](https://jobr.pro/job/37212326/lead-software-engineer-java-kafka-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, Karnataka, India | On Site | Feb 02 |
-| **[Nixxis Vietnam](https://bigin.vn/)** | **[Software Engineer Intern](https://jobr.pro/job/37215560/software-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tân Bình, Thành phố Hồ Chí Minh, Vietnam | On Site | Feb 02 |
-| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Java Software Engineer III - Sales and connectivity](https://jobr.pro/job/37212325/java-software-engineer-iii-sales-and-connectivity?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | LONDON, LONDON, United Kingdom | On Site | Feb 02 |
-| **[Chubb](https://www.chubb.com/)** | **[Senior Software Engineer II](https://jobr.pro/job/37220470/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bangalore, Karnataka, India | On Site | Feb 02 |
-| **[Cambio](https://www.cambio.se/)** | **[Software Engineer within eHealth](https://jobr.pro/job/37214248/software-engineer-within-ehealth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Stockholm, Sweden | On Site | Feb 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 21 companies | Avg salary: 258k  
+**Current Stats:** 50 jobs | 6% remote | 22 companies | Avg salary: 243k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
