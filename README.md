@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Empower](https://www.empower.com/)** | **[Engineer Automation Quality](https://jobr.pro/job/37423671/engineer-automation-quality?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | KA Bangalore, India | On Site | Feb 05 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Hardware Engineer (Battery Systems)](https://jobr.pro/job/37417190/xiaomi-ev-hardware-engineer-battery-systems?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 慕尼黑 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Vehicle Dynamics Engineer (powertrain)](https://jobr.pro/job/37417188/xiaomi-ev-vehicle-dynamics-engineer-powertrain?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 慕尼黑 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Studio Engineer（Automotive Design）](https://jobr.pro/job/37417181/xiaomi-ev-studio-engineerautomotive-design?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 慕尼黑 | On Site | Feb 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Factorial](https://factorialhr.com/)** | **[Junior Software Engineer - Dealhub](https://jobr.pro/job/37404351/junior-software-engineer-dealhub?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 08005, Barcelona, Barcelona, España | On Site | Feb 04 |
 | **[Factorial](https://factorialhr.com/)** | **[Senior Software Engineer - Billing Platform](https://jobr.pro/job/37404349/senior-software-engineer-billing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | 08005, Barcelona, Barcelona, España | On Site | Feb 04 |
 | **[CIS International](https://condeinduservices.com/)** | **[Sr. Engineer- 34988](https://jobr.pro/job/37405615/sr-engineer-34988?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Juncos, Puerto Rico | On Site | Feb 04 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Software Development Manager](https://jobr.pro/job/37407509/software-development-manager?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Woodbridge, NJ, United States | On Site | Feb 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 27 companies | Avg salary: 128k  
+**Current Stats:** 50 jobs | 6% remote | 27 companies | Avg salary: 116k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, aws, kubernetes, ai  
