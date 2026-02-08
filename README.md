@@ -3,6 +3,15 @@
 
 <sub><small>Last updated: Feb 06, 2026 at 08:30 UTC</small></sub>
 
+### ⚠️ Important Announcement
+
+We are sorry to announce that this repository will no longer be maintained.  
+**Jobr.pro will no longer add new listings or jobs**, unless we decide otherwise in the future.  
+
+Thank you for your support, and we apologize for any inconvenience this may cause.
+
+
+
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
 
