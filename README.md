@@ -3,6 +3,8 @@
 
 <sub><small>Last updated: Feb 06, 2026 at 08:30 UTC</small></sub>
 
+---
+
 ### ⚠️ Important Announcement
 
 We are sorry to announce that this repository will no longer be maintained.  
@@ -10,6 +12,7 @@ We are sorry to announce that this repository will no longer be maintained.
 
 Thank you for your support, and we apologize for any inconvenience this may cause.
 
+---
 
 
 This repository collects curated **Software engineer opportunities in 2026**.  
