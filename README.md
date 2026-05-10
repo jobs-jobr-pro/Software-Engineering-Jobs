@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Software Engineer](https://jobr.pro/job/40701255/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40701254/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/40701253/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer](https://jobr.pro/job/40701252/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699985/software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Handshake](https://joinhandshake.com/)** | **[Senior Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699984/senior-software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Neuralink](https://neuralink.com)** | **[Software Engineer, Agentic AI](https://jobr.pro/job/40701264/software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Austin, Texas, United States; South San Francisco, California, United States | On Site | May 09 |
 | **[Openai](https://openai.com/)** | **[Audio Software Engineer, Consumer Devices](https://jobr.pro/job/40690940/audio-software-engineer-consumer-devices?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[DevOps Engineer](https://jobr.pro/job/40689121/devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malaysia | Remote | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Senior Software Engineer, JavaScript/TypeScript](https://jobr.pro/job/40689144/senior-software-engineer-javascripttypescript?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malaysia | On Site | May 09 |
@@ -37,6 +44,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, DevX](https://jobr.pro/job/40686706/senior-software-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US - San Francisco | Remote | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, DevOps](https://jobr.pro/job/40687631/senior-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Core Technology](https://jobr.pro/job/40687630/senior-software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Mateo, CA | On Site | May 09 |
+| **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | May 08 |
 | **[Astranis](https://astranis.com)** | **[Software Simulation Engineer - Flight Software](https://jobr.pro/job/40691003/software-simulation-engineer-flight-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | May 08 |
 | **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer, Product Adoption](https://jobr.pro/job/40689258/senior-software-engineer-product-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/40691222/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, California, United States | On Site | May 08 |
@@ -53,20 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Assembled](https://www.assembled.com/)** | **[Software Engineer - Forecasting & Scheduling](https://jobr.pro/job/40688216/software-engineer-forecasting-scheduling-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City, NY | Remote | May 08 |
 | **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer (Experiment)](https://jobr.pro/job/40689257/senior-software-engineer-experiment?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[Shield AI](https://shield.ai)** | **[Senior Software Engineer, C++ Software Integration (R4021)](https://jobr.pro/job/40684445/senior-software-engineer-c-software-integration-r4021?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Washington, DC | On Site | May 08 |
-| **[Owner.com](https://www.owner.com/)** | **[Senior Software Engineer, Mobile Platform - POS (Remote, Canada)](https://jobr.pro/job/40684045/senior-software-engineer-mobile-platform-pos-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - Canada | Remote | May 08 |
+| **[Owner.com](https://www.owner.com/)** | **[Senior Software Engineer, Mobile Platform - POS (Remote, Canada)](https://jobr.pro/job/40698660/senior-software-engineer-mobile-platform-pos-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - Canada | Remote | May 08 |
 | **[Owner.com](https://www.owner.com/)** | **[Senior Software Engineer, Mobile Platform - POS (Remote, United States)](https://jobr.pro/job/40684044/senior-software-engineer-mobile-platform-pos-remote-united-states?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - United States | Remote | May 08 |
-| **[StackAdapt](https://stackadapt.com)** | **[Staff Software Engineer - Data Delivery](https://jobr.pro/job/40684605/staff-software-engineer-data-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada; United States | On Site | May 08 |
-| **[Otter](https://otter.ai)** | **[Senior Software Engineer, Menu Platform - Mountain View, CA](https://jobr.pro/job/40684581/senior-software-engineer-menu-platform-mountain-view-ca?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA | On Site | May 08 |
-| **[StackAdapt](https://stackadapt.com)** | **[Senior Staff Software Engineer - Data Delivery](https://jobr.pro/job/40684602/senior-staff-software-engineer-data-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada; United States | On Site | May 08 |
-| **[Plaid](https://plaid.com/)** | **[Software Engineer](https://jobr.pro/job/40684100/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City Office | Remote | May 08 |
-| **[Anthropic](https://anthropics.com)** | **[Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://jobr.pro/job/40684623/staff-sr-software-engineer-cloud-inference-launch-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA \| Seattle, WA | On Site | May 08 |
-| **[Formlabs](https://formlabs.com)** | **[Embedded Software Engineer](https://jobr.pro/job/40685766/embedded-software-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Somerville, MA | On Site | May 08 |
-| **[Kiefer](https://kiefer.gr/)** | **[Senior DevOps Engineer](https://jobr.pro/job/40687665/senior-devops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Athens | On Site | May 08 |
-| **[iCapital](https://icapital.network)** | **[Backend Software Engineer - Associate / Assistant Vice President](https://jobr.pro/job/40683052/backend-software-engineer-associate-assistant-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Salt Lake City, Utah, United States | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 25 companies | Avg salary: 9.848490909095456e+192k  
+**Current Stats:** 50 jobs | 30% remote | 23 companies | Avg salary: 6.500006875008156e+186k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai, javascript  
