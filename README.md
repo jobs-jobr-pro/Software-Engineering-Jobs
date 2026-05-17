@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 16, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unframe]()** | **[Senior Software Engineer](https://jobr.pro/job/40824558/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
+| **[Unframe]()** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40824557/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
+| **[Unframe]()** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/40824555/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 17 |
+| **[Forter]()** | **[Senior Software Engineer, Billing](https://jobr.pro/job/40824256/senior-software-engineer-billing?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel - Tel Aviv | On Site | May 17 |
+| **[SonicWall]()** | **[Staff Software Engineer - Go / Golang experience is a must](https://jobr.pro/job/40817280/staff-software-engineer-go-golang-experience-is-a-must?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, Maharashtra, India | On Site | May 16 |
+| **[SonicWall]()** | **[Software Dev Engineer - Go / Golang experience is a must](https://jobr.pro/job/40817279/software-dev-engineer-go-golang-experience-is-a-must?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune, Maharashtra, India | On Site | May 16 |
 | **[The AI-Native Platform for Audit & Advisory]()** | **[Staff Software Engineer, App Platform](https://jobr.pro/job/40812017/staff-software-engineer-app-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA or Remote (USA) | Remote | May 16 |
 | **[Kabam]()** | **[Software Engineer (Backend)](https://jobr.pro/job/40813004/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vancouver | On Site | May 16 |
 | **[Kabam]()** | **[Software Engineer (Gameplay)](https://jobr.pro/job/40813005/software-engineer-gameplay?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vancouver | On Site | May 16 |
@@ -21,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fluency]()** | **[Software Engineer, AI Platform](https://jobr.pro/job/40815681/software-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | May 16 |
 | **[ALTEN Technology USA]()** | **[Sr. Embedded Software Engineer (Platforms)](https://jobr.pro/job/40809952/sr-embedded-software-engineer-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lafayette, CO | On Site | May 16 |
 | **[SpaceX]()** | **[Full Stack Software Engineer, Data](https://jobr.pro/job/40808191/full-stack-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Starbase, TX | On Site | May 16 |
+| **[Manna]()** | **[Software Engineer](https://jobr.pro/job/40817392/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, County Dublin, Ireland | On Site | May 16 |
 | **[Careers]()** | **[Software Engineer - Team Growth](https://jobr.pro/job/40810339/software-engineer-team-growth?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | U.S. (Remote) | Remote | May 15 |
 | **[GHX]()** | **[Software Engineer III - Knowledge Representation (Ontology and ML Engineer)](https://jobr.pro/job/40810265/software-engineer-iii-knowledge-representation-ontology-and-ml-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Office Location or Remote - USA | Remote | May 15 |
 | **[Careers]()** | **[Software Engineer - Team Vault](https://jobr.pro/job/40810341/software-engineer-team-vault?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | U.S. (Remote) | Remote | May 15 |
@@ -37,6 +44,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Firstup]()** | **[Sr. Software Engineer, Fullstack](https://jobr.pro/job/40813773/sr-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - UK | Remote | May 15 |
 | **[Shield AI]()** | **[Staff Engineer, Software Autonomy Applications (R4987)](https://jobr.pro/job/40807240/staff-engineer-software-autonomy-applications-r4987?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seoul | On Site | May 15 |
 | **[Amperity]()** | **[Lead Software Development Engineer - Infrastructure](https://jobr.pro/job/40810571/lead-software-development-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA | On Site | May 15 |
+| **[Omnidian]()** | **[Senior Software Engineer (DAS)](https://jobr.pro/job/40816216/senior-software-engineer-das?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Costa Rica | On Site | May 15 |
 | **[Forward%20financing]()** | **[Staff Software Engineer](https://jobr.pro/job/40813237/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - Alberta, Canada | Remote | May 15 |
 | **[AcuityMD]()** | **[Jr/Mid/Senior/Staff Software Engineer, Applications](https://jobr.pro/job/40806727/jrmidseniorstaff-software-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boston or Remote | Remote | May 15 |
 | **[Watershed]()** | **[Software Engineer - Enterprise Platform](https://jobr.pro/job/40810981/software-engineer-enterprise-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City | Remote | May 15 |
@@ -46,6 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CHAOS Industries]()** | **[Forward Deployed Engineer - Software](https://jobr.pro/job/40808683/forward-deployed-engineer-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, California, United States | On Site | May 15 |
 | **[MeridianLink]()** | **[Java Software Engineer III](https://jobr.pro/job/40807909/java-software-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | US Remote | Remote | May 15 |
 | **[Patreon]()** | **[Senior Staff Software Engineer, Backend Platform](https://jobr.pro/job/40806416/senior-staff-software-engineer-backend-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | Remote | May 15 |
+| **[Cartesia]()** | **[Software Engineer, Agents](https://jobr.pro/job/40816554/software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | *HQ - San Francisco, CA | On Site | May 15 |
 | **[Metropolis]()** | **[Staff Software Engineer, Network Expansion](https://jobr.pro/job/40812575/staff-software-engineer-network-expansion?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, California, United States | On Site | May 15 |
 | **[Flex]()** | **[Staff Software Engineer, AI Platform](https://jobr.pro/job/40810298/staff-software-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | USA | On Site | May 15 |
 | **[Nooks]()** | **[Software Engineer](https://jobr.pro/job/40805674/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | Remote | May 15 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nooks]()** | **[Senior Software Engineer, Voice AI](https://jobr.pro/job/40805677/senior-software-engineer-voice-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | Remote | May 15 |
 | **[Nooks]()** | **[Senior Software Engineer, Core Infrastructure](https://jobr.pro/job/40805676/senior-software-engineer-core-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | Remote | May 15 |
 | **[Adyen]()** | **[Senior Software Engineer (Java) - Banking Network](https://jobr.pro/job/40805739/senior-software-engineer-java-banking-network?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago | On Site | May 15 |
-| **[Toast]()** | **[Staff Software Engineer](https://jobr.pro/job/40807119/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, US | Remote | May 15 |
-| **[CLEAR - Corporate]()** | **[Senior Software Engineer, Data](https://jobr.pro/job/40810323/senior-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States | On Site | May 15 |
-| **[Adyen]()** | **[Software Engineer](https://jobr.pro/job/40805740/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago | On Site | May 15 |
-| **[Viant Technology]()** | **[Mobile Software Engineer](https://jobr.pro/job/40813541/mobile-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boston, Massachusetts, United States | On Site | May 15 |
-| **[Nooks]()** | **[Senior Software Engineer, Core Product](https://jobr.pro/job/40805675/senior-software-engineer-core-product?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | Remote | May 15 |
-| **[Adyen]()** | **[Senior Software Engineer (Java)](https://jobr.pro/job/40805738/senior-software-engineer-java?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chicago | On Site | May 15 |
-| **[Attentive]()** | **[Senior Software Engineer, Data Centralization & Storage](https://jobr.pro/job/40806535/senior-software-engineer-data-centralization-storage?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | May 15 |
-| **[MongoDB]()** | **[Software Engineering Internship - Summer 2026/2027](https://jobr.pro/job/40807185/software-engineering-internship-summer-20262027?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Sydney | On Site | May 15 |
-| **[RYZ Labs]()** | **[Software Engineer (.NET)](https://jobr.pro/job/40805401/software-engineer-net?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Argentina | Remote | May 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 37 companies | Avg salary: 6.625003000003e+234k  
+**Current Stats:** 50 jobs | 42% remote | 37 companies | Avg salary: 7.571432000003429e+203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
