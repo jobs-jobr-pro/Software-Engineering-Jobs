@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Guarded OS)](https://jobr.pro/job/40866494/senior-software-engineer-guarded-os?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States - Remote | Remote | May 20 |
+| **[Confluent](https://confluent.io)** | **[Senior Software Engineer II](https://jobr.pro/job/40866411/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, New York | Remote | May 20 |
+| **[True Anomaly](https://trueanomalybrewing.com)** | **[Senior Engineering Manager, Ground Software](https://jobr.pro/job/40866498/senior-engineering-manager-ground-software?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, CO | On Site | May 20 |
+| **[Twilio](https://twilio.com)** | **[Senior Manager Software Engineering](https://jobr.pro/job/40866552/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - Ireland | Remote | May 20 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Software Engineer](https://jobr.pro/job/40865443/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, IE | On Site | May 20 |
 | **[Graphcore](https://graphcore.ai)** | **[Staff Software Engineer - Analysis Tools](https://jobr.pro/job/40864781/staff-software-engineer-analysis-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Gdańsk, Pomeranian Voivodeship, Poland | On Site | May 20 |
 | **[Endor Labs](https://www.endorlabs.com)** | **[Member of Technical Staff - Backend Software Engineer](https://jobr.pro/job/40865956/member-of-technical-staff-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Palo Alto, CA | On Site | May 20 |
 | **[Super Technologies](https://superbet.io)** | **[Senior Software Engineer](https://jobr.pro/job/40865588/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Spain | On Site | May 20 |
+| **[Ōura](https://ouraring.com)** | **[Senior Software Engineer, Developer Experience](https://jobr.pro/job/40866491/senior-software-engineer-developer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hybrid - Helsinki, Uusimaa | On Site | May 20 |
 | **[Toast](https://wetoast.com/)** | **[Senior Principal Software Engineer - AI Pod](https://jobr.pro/job/40864790/senior-principal-software-engineer-ai-pod?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Berlin, Germany | On Site | May 20 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Full Stack Software Engineer](https://jobr.pro/job/40863893/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tampa, FL | On Site | May 20 |
 | **[Redis](https://redis.io/)** | **[C/C++ Software Engineer - CRDT - Bulgaria](https://jobr.pro/job/40865219/cc-software-engineer-crdt-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bulgaria | Remote | May 20 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Owner](https://Owner.io)** | **[Senior Software Engineer, Identity and Access Management](https://jobr.pro/job/40858093/senior-software-engineer-identity-and-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - Canada | Remote | May 19 |
 | **[Carvana](https://carvana.com)** | **[Software Engineer](https://jobr.pro/job/40858331/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA | On Site | May 19 |
 | **[Toast](https://wetoast.com/)** | **[Software Engineer I (Fullstack), Employee Development](https://jobr.pro/job/40854280/software-engineer-i-fullstack-employee-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada (Remote) | Remote | May 19 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)** | **[Senior Software Engineer, Vehicle Access Cloud](https://jobr.pro/job/40856748/senior-software-engineer-vehicle-access-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Palo Alto, California | Remote | May 19 |
-| **[Waymo](https://waymo.com)** | **[Software Engineer, Fleet Orchestration Core](https://jobr.pro/job/40856326/software-engineer-fleet-orchestration-core?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA, United States; San Francisco, CA, United States | On Site | May 19 |
-| **[Chime Financial, Inc](https://chimecentral.org)** | **[Software Engineer, Lending](https://jobr.pro/job/40856085/software-engineer-lending?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA, USA | On Site | May 19 |
-| **[Skydio](https://www.skydio.com)** | **[Software Engineer, Full Stack](https://jobr.pro/job/40854914/software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Mateo, California, United States | Remote | May 19 |
-| **[Hayden AI](http://www.hayden.ai)** | **[Senior Software Engineer, Events](https://jobr.pro/job/40858166/senior-software-engineer-events?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco HQ Office | Remote | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 2.3720008000007506e+116k  
+**Current Stats:** 50 jobs | 22% remote | 39 companies | Avg salary: 1.2888906666693022e+104k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws, ai  
