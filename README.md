@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:21 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
