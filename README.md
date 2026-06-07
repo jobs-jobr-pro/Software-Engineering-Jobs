@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 13:21 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Slingshot AI](https://SlingshotAI.io)** | **[AI Native Software Engineer](https://jobr.pro/job/41068346/ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London | On Site | Jun 07 |
+| **[Fireblocks](https://fireblocks.com)** | **[Software Engineer - Steller](https://jobr.pro/job/41068261/software-engineer-steller?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 07 |
+| **[Counsel Health](https://counselhealth.com)** | **[Senior Software Engineer (Frontend)](https://jobr.pro/job/41068462/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York Office (Flatiron) | Remote | Jun 07 |
+| **[Exa Labs](https://exa.ai/)** | **[Software Engineer, Backend](https://jobr.pro/job/41068765/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore | On Site | Jun 07 |
 | **[Aurelius Systems](https://aureliussystems.com)** | **[Sr. Robotics Software Engineer](https://jobr.pro/job/41067668/sr-robotics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 06 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Head of Software Engineering](https://jobr.pro/job/41068100/head-of-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lausanne / Hybrid / Remote | Remote | Jun 06 |
 | **[Nimble Robotics](https://nimble.ai)** | **[Senior Software Engineer, Embedded Linux](https://jobr.pro/job/41066616/senior-software-engineer-embedded-linux?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jun 06 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zscaler](https://zscaler.com)** | **[Principal Software Development Engineer](https://jobr.pro/job/41059043/principal-software-development-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, California, USA | On Site | Jun 05 |
 | **[GlossGenius](https://glossgenius.com)** | **[Staff Software Engineer, Backend](https://jobr.pro/job/41063638/staff-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto Area - Remote | Remote | Jun 05 |
 | **[Sonida Senior Living](http://www.augusthealth.com)** | **[Senior Software Engineer, AI](https://jobr.pro/job/41059479/senior-software-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Jun 05 |
-| **[Tower Research Capital](https://towerresearchcapital.com)** | **[Software Engineer, Trading Systems (C++)](https://jobr.pro/job/41061308/software-engineer-trading-systems-c?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York | On Site | Jun 05 |
-| **[EchoMark](https://www.echomark.com)** | **[Software Engineer](https://jobr.pro/job/41062388/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bellevue | On Site | Jun 05 |
-| **[Gusto, Inc.](https://sushiwithgusto.com)** | **[Staff Software Engineer, AI Developer Tools](https://jobr.pro/job/41059005/staff-software-engineer-ai-developer-tools?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, CO;San Francisco, CA;New York, NY;Seattle, WA;United States - Remote | Remote | Jun 05 |
-| **[Tanium](https://tanium.com)** | **[Senior Software Engineer - Backend/ Full Stack](https://jobr.pro/job/41057332/senior-software-engineer-backend-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Addison, TX (Hybrid); Durham, NC (Hybrid) | On Site | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 8.703718703718705e+155k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 4.444452407418518e+155k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
