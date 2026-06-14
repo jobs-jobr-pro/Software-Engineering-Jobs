@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mattel](https://corporate.mattel.com)** | **[Sr Software Engineer](https://jobr.pro/job/41190223/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 14 |
+| **[Mattel](https://corporate.mattel.com)** | **[Software Engineer( ERP Implementation)](https://jobr.pro/job/41190077/software-engineer-erp-implementation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 14 |
+| **[monday.com](https://monday.com)** | **[Senior Software Engineer - Big Brain](https://jobr.pro/job/41190852/senior-software-engineer-big-brain?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[Forter](https://forter.com)** | **[Senior Software Engineer II, Payments](https://jobr.pro/job/41189712/senior-software-engineer-ii-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel - Tel Aviv | On Site | Jun 14 |
+| **[Cato Networks](https://www.catonetworks.com)** | **[Software Engineer – Networking Group](https://jobr.pro/job/41190402/software-engineer-networking-group?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv District, Israel | On Site | Jun 14 |
+| **[Advansys](https://www.advansys-esc.com)** | **[Software Engineer III - Revit API Developer - BIM](https://jobr.pro/job/41190275/software-engineer-iii-revit-api-developer-bim?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Nasr City, Al Manteqah Al Oula, Egypt | On Site | Jun 14 |
 | **[Cynch AI](https://www.cynch.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41188584/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California, United States | On Site | Jun 14 |
 | **[Instead](https://insteading.com)** | **[Software Engineering Intern](https://jobr.pro/job/41188292/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 13 |
 | **[Instead](https://insteading.com)** | **[Software Engineer](https://jobr.pro/job/41188291/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 13 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dexmate](https://dexmate.ai)** | **[Software Engineer](https://jobr.pro/job/41180841/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara Office | On Site | Jun 12 |
 | **[Ridgeline](https://ridgeline.ai)** | **[Senior Software Engineer, Agent Foundry](https://jobr.pro/job/41182796/senior-software-engineer-agent-foundry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Reno, NV | On Site | Jun 12 |
 | **[Pivotal Health](https://pivotalhealth.ai)** | **[Staff Software Engineer, Data Warehouse](https://jobr.pro/job/41180730/staff-software-engineer-data-warehouse?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - NY | Remote | Jun 12 |
-| **[Compass](https://www.compass.com)** | **[Senior Software Engineer I](https://jobr.pro/job/41179903/senior-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle | On Site | Jun 12 |
-| **[Pivotal Health](https://pivotalhealth.ai)** | **[Staff Software Engineer, Data Extraction](https://jobr.pro/job/41180732/staff-software-engineer-data-extraction?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - NY | Remote | Jun 12 |
-| **[Aaru](https://aaru.com)** | **[Software Engineer, Platform](https://jobr.pro/job/41178559/software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NYC | On Site | Jun 12 |
-| **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Geometry](https://jobr.pro/job/41179414/senior-software-engineer-geometry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
-| **[1st Avenue Power](https://1stavenuepower.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41182574/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 8.888895370378148e+156k  
+**Current Stats:** 50 jobs | 38% remote | 41 companies | Avg salary: 1.0909098863645908e+127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
