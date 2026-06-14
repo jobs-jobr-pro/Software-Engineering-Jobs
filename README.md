@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,9 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Denver, CO, United States | Remote | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[.NET Software Engineer](https://jobr.pro/job/41186833/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bogotá, //BOGOTA, Colombia | Remote | Jun 13 |
 | **[Mattel](https://corporate.mattel.com)** | **[Sr Software Engineer iSeries](https://jobr.pro/job/41186582/sr-software-engineer-iseries?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 13 |
+| **[nomic](https://www.nomic.bio)** | **[Software Engineer (Mid to Sr Levels)](https://jobr.pro/job/41187249/software-engineer-mid-to-sr-levels?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (Canada or US) | Remote | Jun 13 |
 | **[Abridge](https://www.abridge.com)** | **[Senior / Staff Software Engineer, Agentic Engineering](https://jobr.pro/job/41185907/senior-staff-software-engineer-agentic-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | SF Office | Remote | Jun 13 |
 | **[RZR Global Inc.](https://rzr.com)** | **[Senior Software Engineer (Backend)](https://jobr.pro/job/41183125/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jun 13 |
 | **[YouTrip](https://you.co)** | **[Staff Software Engineer](https://jobr.pro/job/41186302/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, Tamil Nadu, India | On Site | Jun 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com)** | **[Sr. Software Development Engineer](https://jobr.pro/job/41181450/sr-software-development-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer, Full Stack](https://jobr.pro/job/41181449/lead-software-development-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
 | **[PitchBook Data](https://pitchbook.com)** | **[Lead Software Development Engineer](https://jobr.pro/job/41181448/lead-software-development-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, Washington, United States | On Site | Jun 12 |
-| **[BlackSky](https://blacksky.com)** | **[Senior Software Engineer, Ground & Control Services](https://jobr.pro/job/41182766/senior-software-engineer-ground-control-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA; Herndon, VA; Remote | Remote | Jun 12 |
-| **[Anthropic](https://www.anthropic.com)** | **[Staff+ Software Engineer, Inference Runtime](https://jobr.pro/job/41177546/staff-software-engineer-inference-runtime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 39 companies | Avg salary: 5.935493225811773e+180k  
+**Current Stats:** 50 jobs | 36% remote | 39 companies | Avg salary: 5.8333394666763325e+174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
