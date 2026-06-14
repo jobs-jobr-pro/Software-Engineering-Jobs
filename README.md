@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Forter](https://forter.com)** | **[Senior Software Engineer II, Payments](https://jobr.pro/job/41189712/senior-software-engineer-ii-payments?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Israel - Tel Aviv | On Site | Jun 14 |
 | **[Cynch AI](https://www.cynch.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41188584/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California, United States | On Site | Jun 14 |
 | **[Instead](https://insteading.com)** | **[Software Engineering Intern](https://jobr.pro/job/41188292/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 13 |
 | **[Instead](https://insteading.com)** | **[Software Engineer](https://jobr.pro/job/41188291/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 13 |
@@ -20,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nimble Robotics](https://nimble.ai)** | **[Software Engineer III, Robotics Throughput](https://jobr.pro/job/41188204/software-engineer-iii-robotics-throughput?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, CA | On Site | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[.NET Software Engineer](https://jobr.pro/job/41186833/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bogotá, //BOGOTA, Colombia | Remote | Jun 13 |
+| **[Euphoric Global](https://www.euphoric.global)** | **[Software Engineer (Applied AI)](https://jobr.pro/job/41189520/software-engineer-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Portugal | Remote | Jun 13 |
 | **[Mattel](https://corporate.mattel.com)** | **[Sr Software Engineer iSeries](https://jobr.pro/job/41186582/sr-software-engineer-iseries?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 13 |
 | **[nomic](https://www.nomic.bio)** | **[Software Engineer (Mid to Sr Levels)](https://jobr.pro/job/41187249/software-engineer-mid-to-sr-levels?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (Canada or US) | Remote | Jun 13 |
 | **[Abridge](https://www.abridge.com)** | **[Senior / Staff Software Engineer, Agentic Engineering](https://jobr.pro/job/41185907/senior-staff-software-engineer-agentic-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | SF Office | Remote | Jun 13 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aaru](https://aaru.com)** | **[Software Engineer, Platform](https://jobr.pro/job/41178559/software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NYC | On Site | Jun 12 |
 | **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Geometry](https://jobr.pro/job/41179414/senior-software-engineer-geometry?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vancouver, British Columbia, Canada | On Site | Jun 12 |
 | **[1st Avenue Power](https://1stavenuepower.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41182574/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA | On Site | Jun 12 |
-| **[Omada Health](https://omadahealth.com)** | **[Senior Software Engineer, AI Transformation](https://jobr.pro/job/41181934/senior-software-engineer-ai-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote, USA | Remote | Jun 12 |
-| **[Instawork](https://www.instawork.com)** | **[Senior Software Engineer - Instawork Robotics](https://jobr.pro/job/41183203/senior-software-engineer-instawork-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California, United States | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 8.571434821436072e+162k  
+**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 8.888895370378148e+156k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
