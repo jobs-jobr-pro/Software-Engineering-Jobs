@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aaru](https://aaru.com)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/41192947/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | NYC | On Site | Jun 15 |
 | **[Varicent](https://varicent.com)** | **[Staff Software Engineer – Backend (Typescript / .Nodejs / AWS )](https://jobr.pro/job/41191693/staff-software-engineer-backend-typescript-nodejs-aws-?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Toronto, Canada | On Site | Jun 14 |
 | **[Partyhat](https://partyhat.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41191675/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Canada | Remote | Jun 14 |
 | **[Mattel](https://corporate.mattel.com)** | **[Sr Software Engineer](https://jobr.pro/job/41190223/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Attentive](https://attentive.com)** | **[Senior Software Engineer, Strategic Integrations](https://jobr.pro/job/41182863/senior-software-engineer-strategic-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | On Site | Jun 12 |
 | **[Personalis, Inc](https://personalis.com)** | **[Software Engineer Lead](https://jobr.pro/job/41182572/software-engineer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Fremont, CA | On Site | Jun 12 |
 | **[Ataraxis AI](http://ataraxis.ai)** | **[Software Engineer](https://jobr.pro/job/41185762/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York HQ | On Site | Jun 12 |
-| **[Dexmate](https://dexmate.ai)** | **[Software Engineer](https://jobr.pro/job/41180841/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santa Clara Office | On Site | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 41 companies | Avg salary: 5.909101818189773e+126k  
+**Current Stats:** 50 jobs | 38% remote | 41 companies | Avg salary: 1.913044043479304e+133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai, nodejs  
