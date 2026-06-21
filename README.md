@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Atom Computing](https://atom-computing.com)** | **[Senior Software Engineer](https://jobr.pro/job/41306815/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boulder, CO | On Site | Jun 21 |
+| **[Atom Computing](https://atom-computing.com)** | **[Principal Software Engineer](https://jobr.pro/job/41306814/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boulder, CO | On Site | Jun 21 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Automation and Controls Software Engineer](https://jobr.pro/job/41304976/senior-automation-and-controls-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 20 |
 | **[Vercel](https://vercel.com)** | **[Software Engineer, Eve](https://jobr.pro/job/41304701/software-engineer-eve?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hybrid - San Francisco, New York City | On Site | Jun 20 |
 | **[Mirage](http://www.mirage.nl)** | **[Software Engineer, iOS](https://jobr.pro/job/41306053/software-engineer-ios?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Union Square, New York City | On Site | Jun 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[‎ConnectWise](https://www.connectwise.com)** | **[Senior Software Test Engineer II (Automation, Karate)](https://jobr.pro/job/41288927/senior-software-test-engineer-ii-automation-karate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pune | On Site | Jun 19 |
 | **[CoMind](https://comind.io)** | **[Staff Software Test Engineer](https://jobr.pro/job/41290240/staff-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Jun 19 |
 | **[CoMind](https://comind.io)** | **[Staff Software Engineer](https://jobr.pro/job/41290239/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, UK | On Site | Jun 19 |
-| **[Wise](https://wise.com)** | **[Senior Android Software Engineer - Grow](https://jobr.pro/job/41288727/senior-android-software-engineer-grow?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, , United Kingdom | On Site | Jun 19 |
-| **[BVNK](https://bvnk.com)** | **[Senior Software Engineer (Backend): Ledger - Wallets](https://jobr.pro/job/41293828/senior-software-engineer-backend-ledger-wallets?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | South Africa, Bulgaria, Poland, Spain | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 36 companies | Avg salary: 1.3565229347838045e+134k  
+**Current Stats:** 50 jobs | 38% remote | 35 companies | Avg salary: 7.708342500013e+139k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
