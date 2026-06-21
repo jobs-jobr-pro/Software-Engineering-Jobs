@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vercel](https://vercel.com)** | **[Software Engineer, Eve](https://jobr.pro/job/41304701/software-engineer-eve?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hybrid - San Francisco, New York City | On Site | Jun 20 |
+| **[Weekday](https://www.drinkweekday.com)** | **[Senior Software Engineer](https://jobr.pro/job/41303883/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru | On Site | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Staff Software Engineer](https://jobr.pro/job/41299646/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Software Engineer](https://jobr.pro/job/41299645/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41299644/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Digital Extremes](https://digitalextremes.com)** | **[Software Engineer II, Web](https://jobr.pro/job/41300458/software-engineer-ii-web?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | London, Ontario | On Site | Jun 19 |
 | **[BVNK](https://bvnk.com)** | **[Senior Software Engineer (Backend): Ledger - Reporting](https://jobr.pro/job/41293827/senior-software-engineer-backend-ledger-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | South Africa, Bulgaria, Poland, Spain | On Site | Jun 19 |
 | **[OKX](https://okx.com)** | **[Senior Staff Software Engineer, Mobile, Onshore Centralized Exchange](https://jobr.pro/job/41289120/senior-staff-software-engineer-mobile-onshore-centralized-exchange?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore | On Site | Jun 19 |
-| **[Research Innovations](https://atlasresearchinnovations.com)** | **[Software Development Engineer in Test](https://jobr.pro/job/41292822/software-development-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Alexandria, VA | On Site | Jun 19 |
-| **[Checkout.com](https://www.checkout.com)** | **[Senior Software Engineer I](https://jobr.pro/job/41289290/senior-software-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Paris | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 36 companies | Avg salary: 1.1190487380959999e+120k  
+**Current Stats:** 50 jobs | 38% remote | 36 companies | Avg salary: 1.3565236956522763e+133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
