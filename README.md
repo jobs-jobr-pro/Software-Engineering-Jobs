@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aumovio](https://aumoviospain.es)** | **[Modem Software Engineer - Architecture & Networking Solutions (Telematics) l AUMOVIO Korea](https://jobr.pro/job/41312386/modem-software-engineer-architecture-networking-solutions-telematics-l-aumovio-korea?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seongnam-si, Gyeonggi-do, Korea, republic of | On Site | Jun 22 |
+| **[Nexthink](https://nexthink.com)** | **[Software Engineer 3](https://jobr.pro/job/41312388/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 22 |
+| **[Grab](https://grab.careers)** | **[Lead Software Engineer, Backend](https://jobr.pro/job/41311860/lead-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, , Singapore | On Site | Jun 22 |
+| **[XP Power](https://www.xppower.com)** | **[Software Engineer](https://jobr.pro/job/41311528/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Pasig City, MANILA, Philippines | On Site | Jun 22 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Principal Software Engineer- Embedded Software Design](https://jobr.pro/job/41311399/principal-software-engineer-embedded-software-design?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Kodaira, , Japan | On Site | Jun 22 |
+| **[Activate Interactive Pte Ltd](https://www.activate.sg)** | **[Software Engineer - P26005](https://jobr.pro/job/41312355/software-engineer-p26005?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 22 |
+| **[Klaviyo](https://www.klaviyo.com)** | **[Lead Software Engineer, Infrastructure Security](https://jobr.pro/job/41311331/lead-software-engineer-infrastructure-security?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Dublin, IE | On Site | Jun 21 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309967/sr-software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, CA | On Site | Jun 21 |
 | **[SpaceX](https://spacex.com)** | **[Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309966/software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, CA | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41309454/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Heartflow](https://heartflow.com)** | **[Senior Software Engineer - Frontend](https://jobr.pro/job/41295146/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco, California | On Site | Jun 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Space Special Projects, Software Engineer](https://jobr.pro/job/41294866/space-special-projects-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Reston, Virginia, United States | On Site | Jun 19 |
 | **[Aurora Solar](https://aurorasolar.com)** | **[Senior Software Engineer, Sales Mode](https://jobr.pro/job/41299447/senior-software-engineer-sales-mode?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Warsaw, Poland | Remote | Jun 19 |
-| **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Vancouver, British Columbia | Remote | Jun 19 |
-| **[Strategic HR Client Job Openings](https://strategichr.com)** | **[Software Robotics Design Engineer](https://jobr.pro/job/41298453/software-robotics-design-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Boston, Massachusetts | On Site | Jun 19 |
-| **[MetTel](https://mettel.net)** | **[Senior Software Engineer - Bruin Platform Full Stack](https://jobr.pro/job/41301803/senior-software-engineer-bruin-platform-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, New York, United States | On Site | Jun 19 |
-| **[ALTEN Technology USA](https://www.alten.com)** | **[Embedded Software Engineer](https://jobr.pro/job/41293270/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Lafayette, CO | On Site | Jun 19 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Senior Software Test Engineer](https://jobr.pro/job/41291106/senior-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ciudad de México, DIF, Mexico | Remote | Jun 19 |
-| **[CodeRoad](https://coderoad.pl)** | **[Hybrid DevOps Engineer / Software Developer](https://jobr.pro/job/41299405/hybrid-devops-engineer-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Latin America | On Site | Jun 19 |
-| **[Category Labs](https://www.category.xyz)** | **[Senior Software Engineer, Formal Verification](https://jobr.pro/job/41291862/senior-software-engineer-formal-verification?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 32 companies | Avg salary: 1.045455340909932e+128k  
+**Current Stats:** 50 jobs | 30% remote | 32 companies | Avg salary: 8.842117368430264e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
