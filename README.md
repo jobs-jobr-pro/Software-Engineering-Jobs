@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SpaceX](https://spacex.com)** | **[Sr. Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309967/sr-software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, CA | On Site | Jun 21 |
+| **[SpaceX](https://spacex.com)** | **[Software Engineer, C++ (Dragon)](https://jobr.pro/job/41309966/software-engineer-c-dragon?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hawthorne, CA | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41309454/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41309453/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
 | **[Unframe](https://www.unframe.ai)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/41309449/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 21 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Software Test Engineer](https://jobr.pro/job/41291106/senior-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ciudad de México, DIF, Mexico | Remote | Jun 19 |
 | **[CodeRoad](https://coderoad.pl)** | **[Hybrid DevOps Engineer / Software Developer](https://jobr.pro/job/41299405/hybrid-devops-engineer-software-developer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Latin America | On Site | Jun 19 |
 | **[Category Labs](https://www.category.xyz)** | **[Senior Software Engineer, Formal Verification](https://jobr.pro/job/41291862/senior-software-engineer-formal-verification?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Jun 19 |
-| **[Peak Energy](https://peakenergy.com)** | **[Manufacturing Software Engineer](https://jobr.pro/job/41289923/manufacturing-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Burlingame, California | On Site | Jun 19 |
-| **[Foresite Labs (Stealth Co)](https://www.foresitelabs.com)** | **[Senior Software Engineer](https://jobr.pro/job/41294210/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Diego | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 33 companies | Avg salary: 8.809534285729143e+121k  
+**Current Stats:** 50 jobs | 34% remote | 32 companies | Avg salary: 1.045455340909932e+128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
