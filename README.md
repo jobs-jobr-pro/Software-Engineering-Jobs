@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Freshworks](https://freshworksmedia.com)** | **[Senior Software Engineer - Full Stack](https://jobr.pro/job/41450509/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 27 |
+| **[Formlabs](https://careers.formlabs.com)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41451351/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Budapest | On Site | Jun 27 |
 | **[Freshworks](https://freshworksmedia.com)** | **[Lead Software Engineer - Full Stack](https://jobr.pro/job/41448235/lead-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, , India | On Site | Jun 27 |
 | **[Freshworks](https://freshworksmedia.com)** | **[Senior Staff Software Engineer - Full Stack](https://jobr.pro/job/41447372/senior-staff-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 27 |
 | **[Noctua Technology]()** | **[Software Engineer- Data Engineering](https://jobr.pro/job/41442638/software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | DC, MD, VA, CA | On Site | Jun 27 |
 | **[Noctua Technology]()** | **[Senior Software Engineer- Data Engineering](https://jobr.pro/job/41442636/senior-software-engineer-data-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | DC, MD, VA, CA | On Site | Jun 27 |
+| **[Cyara](https://cyara.com)** | **[SENIOR SOFTWARE ENGINEER](https://jobr.pro/job/41452027/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Australia | On Site | Jun 27 |
 | **[Noctua Technology]()** | **[Software Engineer- Site Reliability Engineering (SRE)](https://jobr.pro/job/41442639/software-engineer-site-reliability-engineering-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | DC, MD, VA, CA | On Site | Jun 27 |
 | **[Pillar Space](https://www.pillarspace.com)** | **[Founding Lead Avionics & Software Engineer](https://jobr.pro/job/41443443/founding-lead-avionics-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles, CA | Remote | Jun 27 |
 | **[Noctua Technology]()** | **[Senior Software Engineer- Site Reliability Engineering (SRE)](https://jobr.pro/job/41442637/senior-software-engineer-site-reliability-engineering-sre?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | DC, MD, VA, CA | On Site | Jun 27 |
@@ -24,7 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encora](https://encora.es)** | **[Sr Software Engineer (PHP/Typescript) (Hybrid CDMX)](https://jobr.pro/job/41442112/sr-software-engineer-phptypescript-hybrid-cdmx?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mexico City | On Site | Jun 27 |
 | **[Noctua Technology]()** | **[Software Engineer- Application Development](https://jobr.pro/job/41440861/software-engineer-application-development?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | DC, MD, VA, CA | On Site | Jun 27 |
 | **[Twitch](https://www.twitch.tv)** | **[Senior Software Engineer, Ads](https://jobr.pro/job/41440783/senior-software-engineer-ads?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seattle, WA | On Site | Jun 27 |
-| **[Commure](https://www.commure.com)** | **[Senior Software Engineer, R&D](https://jobr.pro/job/41441270/senior-software-engineer-rd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA | Remote | Jun 27 |
+| **[Commure](https://www.commure.com)** | **[Senior Software Engineer, R&D](https://jobr.pro/job/41449015/senior-software-engineer-rd?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Mountain View, CA | Remote | Jun 27 |
 | **[Higharc](https://higharc.com)** | **[Sr. Software Engineer, Estimate](https://jobr.pro/job/41446940/sr-software-engineer-estimate?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote (United States) | Remote | Jun 27 |
 | **[DiDi Labs](https://didilabs.com)** | **[Software Engineer – Motion & Behavioral Planning](https://jobr.pro/job/41438785/software-engineer-motion-behavioral-planning?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Jose, CA | On Site | Jun 27 |
 | **[Zipline](https://www.zipline.com)** | **[Software Engineer Intern (Fall 2026)](https://jobr.pro/job/41440755/software-engineer-intern-fall-2026?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | South San Francisco, California, USA | On Site | Jun 27 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Exadel](https://exadel.com)** | **[Senior Software Engineer (Java, Murex)](https://jobr.pro/job/41434557/senior-software-engineer-java-murex?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo or Fortaleza, Brazil | On Site | Jun 26 |
 | **[Exadel](https://exadel.com)** | **[Software Engineer (React)](https://jobr.pro/job/41434559/software-engineer-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brazil | On Site | Jun 26 |
 | **[Docker](http://www.docker.com)** | **[Principal Software Engineer, Developer Tools (US West Coast)](https://jobr.pro/job/41441669/principal-software-engineer-developer-tools-us-west-coast?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Jun 26 |
-| **[Exadel](https://exadel.com)** | **[Software Engineer (Java, Payments, Capital Markets)](https://jobr.pro/job/41434558/software-engineer-java-payments-capital-markets?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brazil | On Site | Jun 26 |
-| **[New Relic](https://newrelic.com)** | **[Senior Software Engineer -Alerts](https://jobr.pro/job/41436441/senior-software-engineer-alerts?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ottawa, Canada | On Site | Jun 26 |
-| **[Diligent Corporation](https://www.diligent.com)** | **[Senior Software Engineer (.Net, C# and SQL)](https://jobr.pro/job/41436402/senior-software-engineer-net-c-and-sql?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Budapest, Hungary | On Site | Jun 26 |
 
 ---
 
