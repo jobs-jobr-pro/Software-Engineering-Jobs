@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,9 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Aumovio](https://aumoviospain.es)** | **[Software Engineer – Orin/Thor ADAS in Architecture and Network Solutions R&D \| AUMOVIO Korea](https://jobr.pro/job/41458875/software-engineer-orinthor-adas-in-architecture-and-network-solutions-rd-aumovio-korea?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Seongnam-si, Gyeonggi-do, Korea, republic of | On Site | Jun 28 |
+| **[Formlabs](https://careers.formlabs.com)** | **[C++ Software Engineer, 3D Desktop Application](https://jobr.pro/job/41459036/c-software-engineer-3d-desktop-application?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Budapest, Hungary | On Site | Jun 28 |
+| **[JFrog](https://join.jfrog.com)** | **[Software Engineer](https://jobr.pro/job/41459993/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv/ Netanya, Israel | On Site | Jun 28 |
+| **[Cato Networks](https://www.catonetworks.com)** | **[Software Engineer – RBI](https://jobr.pro/job/41458645/software-engineer-rbi?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv District, Israel | On Site | Jun 28 |
+| **[Mattel](https://corporate.mattel.com)** | **[Sr Software Engineer](https://jobr.pro/job/41458345/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 28 |
+| **[Teads](https://www.teads.com)** | **[Junior Software Engineer](https://jobr.pro/job/41458250/junior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Netanya | On Site | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[iOS Software Engineer](https://jobr.pro/job/41457755/ios-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Malaysia | Remote | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[Android Software Engineer](https://jobr.pro/job/41457760/android-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Jun 28 |
 | **[KMS Technology](https://crn.pl)** | **[Java Software Engineer (Spring/Azure/AWS)](https://jobr.pro/job/41455869/java-software-engineer-springazureaws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Ho Chi Minh, , Vietnam | Remote | Jun 28 |
+| **[Quadrillion](https://quadrillion.io)** | **[Software Engineering Intern](https://jobr.pro/job/41458516/software-engineering-intern?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York City | On Site | Jun 28 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Controls and Automation Software Engineer](https://jobr.pro/job/41454238/senior-controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 27 |
 | **[Varda Space Industries](https://varda.com)** | **[Controls and Automation Software Engineer](https://jobr.pro/job/41454236/controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 27 |
 | **[Odin Dynamics, Inc](https://odindynamics.ai)** | **[Senior Ground Software Engineer (Maritime)](https://jobr.pro/job/41455402/senior-ground-software-engineer-maritime?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Los Angeles | On Site | Jun 27 |
@@ -56,20 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GHX](https://www.ghx.com)** | **[Senior Software Engineer - Java, Angular, AWS](https://jobr.pro/job/41442136/senior-software-engineer-java-angular-aws?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Office Location or Remote - USA | Remote | Jun 26 |
 | **[Material Security](https://material.security)** | **[Sr Software Engineer II](https://jobr.pro/job/41445083/sr-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco Office | Remote | Jun 26 |
 | **[Reddit](https://www.reddit.com)** | **[Staff Software Engineer, Identity & Access Management](https://jobr.pro/job/41438291/staff-software-engineer-identity-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote - United States | Remote | Jun 26 |
-| **[KAYAK](https://www.kayak.sg)** | **[Software Engineer](https://jobr.pro/job/41443015/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge Office | Remote | Jun 26 |
-| **[Kayak](https://www.kayak.sg)** | **[Software Engineer](https://jobr.pro/job/41438407/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Cambridge Office | Remote | Jun 26 |
-| **[BambooHR](https://bamboohr.com)** | **[Staff Software Engineer](https://jobr.pro/job/41437675/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Utah \| Remote | Remote | Jun 26 |
-| **[Beacon AI](https://beaconai.co)** | **[Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://jobr.pro/job/41438905/software-engineer-cloud-infrastructure-multiple-seniority-levels?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Carlos - Hybrid | On Site | Jun 26 |
-| **[CTGT](https://ctgt.ai)** | **[Software Engineering Intern (Summer 2027)](https://jobr.pro/job/41438595/software-engineering-intern-summer-2027?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Francisco | On Site | Jun 26 |
-| **[Xplor](https://www.xplortechnologies.com)** | **[Software Engineer](https://jobr.pro/job/41436184/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Newcastle, , United Kingdom | Remote | Jun 26 |
-| **[PrizePicks](https://prizepicks.com)** | **[Software Engineer II (React Native)](https://jobr.pro/job/41439079/software-engineer-ii-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Remote | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 29 companies | Avg salary: 7.3600072000092e+144k  
+**Current Stats:** 50 jobs | 28% remote | 28 companies | Avg salary: 2.8571516190561903e+120k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, aws, ai  
+**Trending Skills:** aws, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
