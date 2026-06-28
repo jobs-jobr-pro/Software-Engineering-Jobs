@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Varda Space Industries](https://varda.com)** | **[Senior Controls and Automation Software Engineer](https://jobr.pro/job/41454238/senior-controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 27 |
+| **[Varda Space Industries](https://varda.com)** | **[Controls and Automation Software Engineer](https://jobr.pro/job/41454236/controls-and-automation-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | El Segundo, California, United States | On Site | Jun 27 |
+| **[Unframe](https://www.unframe.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41452717/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 27 |
+| **[Unframe](https://www.unframe.ai)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41452716/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 27 |
+| **[Unframe](https://www.unframe.ai)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/41452715/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 27 |
+| **[Unframe](https://www.unframe.ai)** | **[Full Stack Software Engineer](https://jobr.pro/job/41452714/full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Jun 27 |
 | **[Freshworks](https://freshworksmedia.com)** | **[Senior Software Engineer - Full Stack](https://jobr.pro/job/41450509/senior-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Hyderabad, , India | On Site | Jun 27 |
 | **[Formlabs](https://careers.formlabs.com)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/41451351/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Budapest | On Site | Jun 27 |
 | **[Freshworks](https://freshworksmedia.com)** | **[Lead Software Engineer - Full Stack](https://jobr.pro/job/41448235/lead-software-engineer-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Chennai, , India | On Site | Jun 27 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Checkr - Chile](https://checkr.com)** | **[Staff Software Engineer](https://jobr.pro/job/41438810/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Santiago, Región Metropolitana, Chile | On Site | Jun 26 |
 | **[Pebl](https://hellopebl.com)** | **[Senior Fullstack Software Engineer A.I.](https://jobr.pro/job/41437899/senior-fullstack-software-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Palo Alto, CA | Remote | Jun 26 |
 | **[Versant](https://versanthealth.com)** | **[Software Engineer](https://jobr.pro/job/41434623/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 26 |
-| **[Roblox](https://careers.roblox.com)** | **[Principal Software Engineer, Data Infrastructure](https://jobr.pro/job/41436141/principal-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | San Mateo, CA, United States | On Site | Jun 26 |
-| **[Block](https://block.xyz)** | **[Senior Software Engineer, Square Financial Services](https://jobr.pro/job/41436911/senior-software-engineer-square-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | New York, NY, United States of America | On Site | Jun 26 |
-| **[Versant](https://versanthealth.com)** | **[Sr. Software Engineer](https://jobr.pro/job/41434624/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 26 |
-| **[Exadel](https://exadel.com)** | **[Senior Software Engineer (Java, Murex)](https://jobr.pro/job/41434557/senior-software-engineer-java-murex?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | São Paulo or Fortaleza, Brazil | On Site | Jun 26 |
-| **[Exadel](https://exadel.com)** | **[Software Engineer (React)](https://jobr.pro/job/41434559/software-engineer-react?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | Brazil | On Site | Jun 26 |
-| **[Docker](http://www.docker.com)** | **[Principal Software Engineer, Developer Tools (US West Coast)](https://jobr.pro/job/41441669/principal-software-engineer-developer-tools-us-west-coast?utm_source=github&utm_medium=repo&utm_campaign=github-software-engineering-jobs)** | United States | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 35 companies | Avg salary: 5.312506028130547e+186k  
+**Current Stats:** 50 jobs | 32% remote | 33 companies | Avg salary: 6.13333900000643e+174k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws, ai  
